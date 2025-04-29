@@ -1,0 +1,17 @@
+# https://www.annaprata.com.br/
+User-agent: *
+Allow: /
+Allow: /collections/dia-das-maes/
+Disallow: /admin/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /account/
+Disallow: /search?*
+Disallow: /collections/*
+!Disallow: /collections/dia-das-maes/
+
+# Tempo entre requisições
+Crawl-delay: 10
+
+# Sitemap
+Sitemap: https://www.annaprata.com.br/sitemap.xml 
