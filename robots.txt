@@ -9,6 +9,9 @@ Disallow: /account/
 Disallow: /search?*
 Disallow: /collections/*
 !Disallow: /collections/dia-das-maes/
+Disallow: /pages/sobre-o-atelier-anna-prata/
+Disallow: /pages/vip/
+Disallow: /blogs/news/
 
 # Tempo entre requisições
 Crawl-delay: 10
