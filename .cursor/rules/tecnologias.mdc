@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Este projeto utiliza: FastAPI, SQLAlchemy, PostgreSQL, Redis, Celery, e integração com carteiras Web3. Ao sugerir soluções, considere essa stack.

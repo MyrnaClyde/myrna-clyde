@@ -27,7 +27,18 @@
                     <p>Altura 21,5mm / Largura 16mm / Espessura 7mm / Peso 3,25g</p>
                 </div>
 
-                <form class="product__form" action="/cart/add" method="post">
+                <form class="product__form" onsubmit="event.preventDefault(); handlePayment('colar-orquidea', 399.00);">
+                    <div class="product__customer-info">
+                        <div class="form-group">
+                            <label for="name">Nome completo:</label>
+                            <input type="text" id="name" name="name" required class="form-input">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">E-mail:</label>
+                            <input type="email" id="email" name="email" required class="form-input">
+                        </div>
+                    </div>
+
                     <div class="product__quantity">
                         <button type="button" class="quantity-button" data-action="decrease">-</button>
                         <input type="number" name="quantity" value="1" min="1" class="quantity-input">
@@ -50,6 +61,78 @@
 
                     <button type="submit" class="button button--primary button--full">COMPRAR AGORA</button>
                 </form>
+
+                <div class="payment-section" id="payment-section" style="display: none;">
+                    <div class="payment-qr">
+                        <h3>Pagamento via PIX</h3>
+                        <img id="qr-code" src="" alt="QR Code PIX">
+                        <div class="pix-code">
+                            <p>Ou copie o código PIX:</p>
+                            <div class="code-container">
+                                <code id="pix-code"></code>
+                                <button onclick="copyPixCode()" class="button button--secondary">Copiar</button>
+                            </div>
+                        </div>
+                        <p class="expires-info">Este código expira em 1 hora</p>
+                    </div>
+                </div>
+
+                <script>
+                async function handlePayment(productId, amount) {
+                    try {
+                        const response = await fetch('/api/create-payment', {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/json'
+                            },
+                            body: JSON.stringify({
+                                product_id: productId,
+                                amount: amount,
+                                customer_email: document.getElementById('email').value,
+                                customer_name: document.getElementById('name').value
+                            })
+                        });
+
+                        const data = await response.json();
+                        
+                        if (!response.ok) {
+                            throw new Error(data.detail || 'Erro ao processar pagamento');
+                        }
+                        
+                        // Mostrar QR Code
+                        document.getElementById('qr-code').src = data.pix_qrcode;
+                        document.getElementById('pix-code').textContent = data.pix_code;
+                        document.getElementById('payment-section').style.display = 'block';
+                        
+                        // Scroll para a seção de pagamento
+                        document.getElementById('payment-section').scrollIntoView({
+                            behavior: 'smooth'
+                        });
+                    } catch (error) {
+                        alert('Erro ao gerar pagamento: ' + error.message);
+                    }
+                }
+
+                function copyPixCode() {
+                    const pixCode = document.getElementById('pix-code').textContent;
+                    navigator.clipboard.writeText(pixCode);
+                    alert('Código PIX copiado!');
+                }
+
+                // Manipuladores para os botões de quantidade
+                document.querySelectorAll('.quantity-button').forEach(button => {
+                    button.addEventListener('click', function() {
+                        const input = this.parentElement.querySelector('.quantity-input');
+                        const currentValue = parseInt(input.value);
+                        
+                        if (this.dataset.action === 'decrease' && currentValue > 1) {
+                            input.value = currentValue - 1;
+                        } else if (this.dataset.action === 'increase') {
+                            input.value = currentValue + 1;
+                        }
+                    });
+                });
+                </script>
 
                 <div class="benefits">
                     <div class="benefit">

@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Use padrão de código baseado na convenção PEP8 (para Python), com nomes descritivos em inglês, indentação consistente e comentários explicativos apenas quando necessário.
