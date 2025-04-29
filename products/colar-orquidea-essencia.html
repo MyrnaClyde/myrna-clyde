@@ -3,66 +3,122 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Colar Orquídea Essência - Anna Prata</title>
-    <link rel="stylesheet" href="../assets/css/theme.css">
+    <title>Colar Orquídea Essência | Anna Prata</title>
+    <link rel="stylesheet" href="/assets/css/theme.css">
 </head>
-<body class="template-product">
-    <main class="product-page">
-        <div class="container">
-            <div class="product-layout">
-                <!-- Galeria -->
-                <div class="product-gallery">
-                    <div class="gallery-main">
-                        <img src="https://res.cloudinary.com/dt9m3pkjv/image/upload/v1745915181/Colar_essencia_ckx4fs.png" alt="Colar Orquídea Essência - Vista Principal" class="main-image">
+<body>
+    <div class="page-container">
+        <!-- Header will be included here -->
+        <main class="product">
+            <div class="product__gallery">
+                <img src="https://res.cloudinary.com/dt9m3pkjv/image/upload/v1745915181/Colar_essencia_ckx4fs.png" alt="Colar Orquídea Essência" class="product__image">
+                <!-- Additional gallery images here -->
+            </div>
+
+            <div class="product__info">
+                <h1 class="product__title">COLAR ORQUÍDEA ESSÊNCIA</h1>
+                <div class="product__price">R$ 399,00</div>
+
+                <div class="product__description">
+                    <p>A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. E pensando nisso trouxemos o Colar Orquídea Essência, exaltando nossa personalidade a fim de adornar o colo das mulheres de todos os estilos.</p>
+                </div>
+
+                <div class="product__dimensions">
+                    <p>Altura 21,5mm / Largura 16mm / Espessura 7mm / Peso 3,25g</p>
+                </div>
+
+                <form class="product__form" action="/cart/add" method="post">
+                    <div class="product__quantity">
+                        <button type="button" class="quantity-button" data-action="decrease">-</button>
+                        <input type="number" name="quantity" value="1" min="1" class="quantity-input">
+                        <button type="button" class="quantity-button" data-action="increase">+</button>
                     </div>
-                    <div class="gallery-thumbs">
-                        <img src="https://res.cloudinary.com/dt9m3pkjv/image/upload/v1745915233/250203_AnnaPrata_FB_2002_fh1rxl.jpg" alt="Colar Orquídea Essência - Prata" class="thumb">
-                        <img src="https://res.cloudinary.com/dt9m3pkjv/image/upload/v1745915224/250203_AnnaPrata_FB_2003_lwig3i.jpg" alt="Colar Orquídea Essência - Dourado" class="thumb">
+
+                    <div class="product__variants">
+                        <label class="variant-label">Cor:</label>
+                        <div class="variant-options">
+                            <label class="variant-option">
+                                <input type="radio" name="color" value="prata" checked>
+                                <span class="variant-name">Prata</span>
+                            </label>
+                            <label class="variant-option">
+                                <input type="radio" name="color" value="dourado">
+                                <span class="variant-name">Dourado</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="button button--primary button--full">ADICIONAR AO CARRINHO</button>
+                </form>
+
+                <div class="benefits">
+                    <div class="benefit">
+                        <div class="benefit__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <rect width="20" height="14" x="2" y="5" rx="2"/>
+                                <line x1="2" x2="22" y1="10" y2="10"/>
+                            </svg>
+                        </div>
+                        <div class="benefit__content">
+                            <div class="benefit__title">Pagamento Seguro</div>
+                            <div class="benefit__text">Cartão, Pix ou Boleto</div>
+                        </div>
+                    </div>
+
+                    <div class="benefit">
+                        <div class="benefit__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M5 12h14"/>
+                                <path d="M12 5v14"/>
+                            </svg>
+                        </div>
+                        <div class="benefit__content">
+                            <div class="benefit__title">Frete Grátis</div>
+                            <div class="benefit__text">Em compras acima de R$800</div>
+                        </div>
+                    </div>
+
+                    <div class="benefit">
+                        <div class="benefit__icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M3 7h18"/>
+                                <path d="M6 7V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3"/>
+                                <path d="M6 7v13a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V7"/>
+                            </svg>
+                        </div>
+                        <div class="benefit__content">
+                            <div class="benefit__title">Troca Garantida</div>
+                            <div class="benefit__text">7 dias para trocar</div>
+                        </div>
                     </div>
                 </div>
 
-                <!-- Informações do Produto -->
-                <div class="product-info">
-                    <h1 class="product-title">Colar Orquídea Essência</h1>
-                    
-                    <div class="product-price">
-                        <span class="price-amount">R$ 399,00</span>
-                        <span class="price-label">Preço Promocional</span>
-                    </div>
+                <div class="product__shipping">
+                    <button class="shipping-button" data-toggle="shipping-info">
+                        <span class="shipping-icon">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M16 16V4H4v12h12zM16 16H8v8"/>
+                                <path d="M4 8h12"/>
+                            </svg>
+                        </span>
+                        POLÍTICA DE FRETE
+                    </button>
+                </div>
 
-                    <div class="product-description">
-                        <p>A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. E pensando nisso trouxemos o Colar Orquídea Essência, exaltando nossa personalidade a fim de adornar o colo das mulheres de todos os estilos.</p>
-                        
-                        <div class="product-specs">
-                            <p>Dimensões:</p>
-                            <ul>
-                                <li>Altura: 21,5mm</li>
-                                <li>Largura: 16mm</li>
-                                <li>Espessura: 7mm</li>
-                                <li>Peso: 3,25g</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <form method="post" action="/cart/add" class="product-form">
-                        <div class="variant-selector">
-                            <label for="variant">Cor:</label>
-                            <select name="id" id="variant" required>
-                                <option value="prata">Prata</option>
-                                <option value="dourado">Dourado</option>
-                            </select>
-                        </div>
-                        
-                        <button type="submit" class="button button--primary">Adicionar ao carrinho</button>
-                    </form>
-
-                    <div class="shipping-info">
-                        <h3>Frete</h3>
-                        <p>Frete grátis nas compras acima de R$800,00 via PAC</p>
-                    </div>
+                <div class="product__share">
+                    <button class="share-button">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="18" cy="5" r="3"/>
+                            <circle cx="6" cy="12" r="3"/>
+                            <circle cx="18" cy="19" r="3"/>
+                            <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/>
+                            <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+                        </svg>
+                        COMPARTILHAR
+                    </button>
                 </div>
             </div>
-        </div>
-    </main>
+        </main>
+    </div>
 </body>
 </html> 
