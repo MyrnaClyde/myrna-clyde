@@ -1,0 +1,88 @@
+/* Base */
+:root {
+  --primary-color: #000;
+  --text-color: #545454;
+  --background-color: #fff;
+  --border-color: #e5e5e5;
+  --accent-color: #000;
+  
+  --container-width: 1200px;
+  --header-height: 80px;
+  --footer-height: 300px;
+}
+
+/* Typography */
+body {
+  font-family: "Nunito Sans", sans-serif;
+  color: var(--text-color);
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Questrial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+/* Layout */
+.container {
+  max-width: var(--container-width);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header */
+.header {
+  height: var(--header-height);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.header__logo {
+  max-width: 140px;
+}
+
+.header__nav-list {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+}
+
+/* Footer */
+.footer {
+  background: var(--background-color);
+  padding: 60px 0;
+  border-top: 1px solid var(--border-color);
+}
+
+.footer__block-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 40px;
+}
+
+/* Components */
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  background: var(--accent-color);
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+}
+
+.slideshow {
+  position: relative;
+  height: 600px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .header__nav-list {
+    display: none;
+  }
+  
+  .slideshow {
+    height: 400px;
+  }
+} 
