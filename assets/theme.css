@@ -202,31 +202,128 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Footer */
 .footer {
-  background: var(--background-color);
+  background-color: #fafafa;
   padding: 60px 0;
+  margin-top: 60px;
   border-top: 1px solid var(--border-color);
+}
+
+.footer__inner {
+  display: grid;
+  gap: 40px;
 }
 
 .footer__block-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 40px;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
 }
 
-.footer__block h3 {
+.footer__block {
+  color: var(--text-color);
+}
+
+.footer__block .h6 {
+  color: var(--primary-color);
   margin-bottom: 20px;
   font-size: 14px;
+  font-weight: 600;
 }
 
-.footer__links {
-  list-style: none;
-}
-
-.footer__links a {
+.text-faded {
   color: var(--text-color);
-  text-decoration: none;
+  opacity: 0.7;
+}
+
+.v-stack {
+  display: flex;
+  flex-direction: column;
+}
+
+.gap-4 {
+  gap: 1rem;
+}
+
+.gap-2\.5 {
+  gap: 0.625rem;
+}
+
+.unstyled-list {
+  list-style: none;
+  padding: 0;
+}
+
+.prose {
   font-size: 14px;
-  line-height: 2;
+  line-height: 1.6;
+}
+
+.text-subdued {
+  opacity: 0.7;
+}
+
+.social-icons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin: 30px 0;
+}
+
+.social-icons div {
+  width: 24px;
+  height: 24px;
+  background-color: var(--text-color);
+  opacity: 0.7;
+  border-radius: 50%;
+  transition: opacity 0.3s ease;
+}
+
+.social-icons div:hover {
+  opacity: 1;
+}
+
+.footer__aside {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  border-top: 1px solid var(--border-color);
+}
+
+.payment-methods {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.payment-icon {
+  width: 38px;
+  height: 24px;
+  background-color: var(--text-color);
+  opacity: 0.4;
+  border-radius: 4px;
+}
+
+.text-xxs {
+  font-size: 12px;
+}
+
+@media (max-width: 768px) {
+  .footer__block-list {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .footer__aside {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+
+  .payment-methods {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }
 
 /* Components */
