@@ -82,3 +82,33 @@
     padding: 40px 20px;
   }
 }
+
+/* Footer Table Styles */
+.footer__container table {
+  border-collapse: separate;
+  border-spacing: 40px 0;
+  margin: -40px;
+  width: calc(100% + 80px);
+}
+
+.footer__container td {
+  vertical-align: top;
+  padding: 0;
+}
+
+.footer__info p {
+  margin: 5px 0;
+}
+
+@media (max-width: 768px) {
+  .footer__container table,
+  .footer__container tr,
+  .footer__container td {
+    display: block;
+    width: 100%;
+  }
+  
+  .footer__container td {
+    margin-bottom: 30px;
+  }
+}
