@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-botanica-1.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-03-21T13:49:06-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7923100614913</id>
+    <published>2025-03-21T13:49:06-03:00</published>
+    <updated>2025-03-21T13:49:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-liberdade-amarelo-prata"/>
+    <title>Colar Liberdade</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta19_0ed9344b-4ead-4863-8c98-9d9bc4aa7abc.png?v=1736102958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspirada no voo livre das libélulas o colar remete ao formato das suas asas.</p>
+<p>Disponível nas pedras: Feldspato amarelo, pink, laranja e Howlita Roxa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>botanica</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colar dourado</s:tag>
+    <s:tag>colar prata</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923100614913</id>
+      <title>Roxo/ Dourado</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>6711</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923100614913</id>
+      <title>Laranja/ Dourado</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>6712</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923100614913</id>
+      <title>Pink/ Prata</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>6705</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923100614913</id>
+      <title>Amarelo/ Prata</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>6706</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7923098484993</id>
+    <published>2025-01-20T14:02:23-03:00</published>
+    <updated>2025-01-20T14:02:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/col-renovacao-dourado"/>
+    <title>Colar Renovação</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta6_26d2b473-08d1-4521-b61c-de7843dcf4a8.png?v=1736103048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As transformações de ninfa para libélulas são representadas nesse colar com formato orgânico.</p>
+<p> </p>
+<p>Disponível nas pedras Howlita Roxa e Feldspato Verde</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>botanica</s:tag>
+    <s:tag>colar dourado</s:tag>
+    <s:tag>colar prata</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923098484993</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>6704</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923098484993</id>
+      <title>Prata</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>6703</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7923064307969</id>
+    <published>2025-01-20T13:44:26-03:00</published>
+    <updated>2025-01-20T13:44:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/col-protea-ametista-dourado"/>
+    <title>Colar Protea</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta2_b8b43507-c53d-447b-b631-36d78a2d0a00.png?v=1736103038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Inspirado nas formas exóticas da flor Protea.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>botanica</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colar dourado</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923064307969</id>
+      <title>Ametista</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6635</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923064307969</id>
+      <title>Feldspato Amarelo</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6634</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923064307969</id>
+      <title>Quartzo Verde</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6633</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7923045892353</id>
+    <published>2025-01-04T18:13:16-03:00</published>
+    <updated>2025-01-04T18:13:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/cinto-lirio-paz-dourado"/>
+    <title>Cinto Lírio da Paz</title>
+    <s:type>Cintos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta29_78caec1d-1ef6-4a9d-aac5-cfa4a12404b2.png?v=1670870281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Cintos<br>
+        <strong>Preço: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Inspirado nas flores do Lírio da Paz.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>botanica</s:tag>
+    <s:tag>CINTO</s:tag>
+    <s:tag>Lírio</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923045892353</id>
+      <title>Laranja/ Prata</title>
+      <s:price currency="BRL">1999.00</s:price>
+      <s:sku>6614</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923045892353</id>
+      <title>Pink/ Dourado</title>
+      <s:price currency="BRL">1999.00</s:price>
+      <s:sku>6613</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7923047825665</id>
+    <published>2025-01-04T18:13:15-03:00</published>
+    <updated>2025-01-04T18:13:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bri-anturio-qtz-amarelo-dourado"/>
+    <title>Brinco Antúrio</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta22_c5ba419f-a34d-4d27-940c-3e606fb63adb.png?v=1724680730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            909.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspirado nas imponentes flores de Antúrio. Temos duas variações de cores de resina: a resina verde, acompanha o detalhe em madeira e o brinco com resina vermelha, acompanha detalhe no quartzo amarelo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>botanica</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923047825665</id>
+      <title>Quartzo Amarelo</title>
+      <s:price currency="BRL">909.00</s:price>
+      <s:sku>6617</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923047825665</id>
+      <title>Madeira</title>
+      <s:price currency="BRL">909.00</s:price>
+      <s:sku>6618</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7923058344193</id>
+    <published>2025-01-04T18:13:14-03:00</published>
+    <updated>2025-01-04T18:13:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-anturio-qtz-amarelo-dourado"/>
+    <title>Anel Antúrio</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta13_4243d3dc-2dca-4453-99e9-49d0897075b2.png?v=1724680718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            609.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Inspirado nas imponentes flores de Antúrio. Temos </span><span>duas variações de cores de resina: a resina verde, acompanha o detalhe em madeira e o anel com resina vermelha, acompanha detalhe no quartzo amarelo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>botanica</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923058344193</id>
+      <title>Quartzo Amarelo</title>
+      <s:price currency="BRL">609.00</s:price>
+      <s:sku>6621</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923058344193</id>
+      <title>Madeira</title>
+      <s:price currency="BRL">609.00</s:price>
+      <s:sku>6622</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7923062702337</id>
+    <published>2025-01-04T18:13:13-03:00</published>
+    <updated>2025-01-04T18:13:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bri-protea-ametista-dourado"/>
+    <title>Brinco Protea</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta17_c7f01e5f-e1d5-46d9-b69d-fa90857aae33.png?v=1736102836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Inspirado nas formas exóticas da flor Protea.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>botanica</s:tag>
+    <s:tag>brinco dourado</s:tag>
+    <s:tag>brinco prata</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923062702337</id>
+      <title>Ametista</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6630</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923062702337</id>
+      <title>Feldspato Amarelo</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6631</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923062702337</id>
+      <title>Quartzo Verde</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6632</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7923058409729</id>
+    <published>2025-01-03T15:39:27-03:00</published>
+    <updated>2025-01-03T15:39:27-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/lenco-anturio-qtz-amarelo-dourado"/>
+    <title>Lenço Antúrio</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta4_7940a723-872a-46a4-b354-849990a1e705.png?v=1724680754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            709.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><span>Lenço em musseline de seda pura 60x60cm com estampa exclusiva Anna Prata + acessório acompanhando o design na coleção. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>botanica</s:tag>
+    <s:tag>lenço</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923058409729</id>
+      <title>Quatzo Amarelo</title>
+      <s:price currency="BRL">709.00</s:price>
+      <s:sku>6625</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923058409729</id>
+      <title>Madeira</title>
+      <s:price currency="BRL">709.00</s:price>
+      <s:sku>6626</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-permanente.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-04-25T10:38:23-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7901254746369</id>
+    <published>2025-04-25T10:38:23-03:00</published>
+    <updated>2025-04-25T10:38:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-lago-dourado"/>
+    <title>Bracelete Lago</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta30_ac69d37b-d8dc-4e0a-ad92-8175395a596c.png?v=1668014122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            769.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Bracelete dourado, inspirado nas ondas dos lagos. Complete o trio de braceletes fazendo um mix muito maravilhoso de banhos.</span><br></p>
+<p><span data-mce-fragment="1">*peça totalmente no banho de dourado. Compre junto os braceletes Lótus e sereno.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7901254746369</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">769.00</s:price>
+      <s:sku>6521</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6551979753521</id>
+    <published>2025-03-21T14:05:51-03:00</published>
+    <updated>2025-03-21T14:05:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-crenca"/>
+    <title>Colar Crença</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/3.png?v=1744995759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p>Colar com pingente de crucifixo em corrente veneziana com extensora.<br></p>
+<p>Peso 6 gramas<br>Pingente<br>Altura 56 mm<br>Largura 40 mm<br>Espessura 6 mm<br></p>
+<p>Corrente <br>Comprimento 50 cm<br>Largura 0,8 mm<br>Espessura 0,8 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Capsula Clamor</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colar fé</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>fé</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551979753521</id>
+      <title>dourado</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>COL-0142</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551979753521</id>
+      <title>prata</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>COL-0142A</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7608965824769</id>
+    <published>2025-03-21T14:00:07-03:00</published>
+    <updated>2025-03-21T14:00:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-caminho"/>
+    <title>Anel Caminho</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Designsemnome_5.png?v=1723810414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Anel dourado ou prata regulável com detalhe martelado no aro e topo de chapa lisa. Aros mínimos para régulagem: 14, 17, 20 e 22</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>caminho</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608965824769</id>
+      <title>Aro 14 / Dourado</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>ANE-0155</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608965824769</id>
+      <title>Aro 14 / Prata</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>5707</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608965824769</id>
+      <title>Aro 17 / Dourado</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>ANE-0156</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608965824769</id>
+      <title>Aro 17 / Prata</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>5708</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608965824769</id>
+      <title>Aro 20 / Dourado</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>ANE-0157</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608965824769</id>
+      <title>Aro 20 / Prata</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>5709</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608965824769</id>
+      <title>Aro 22 / Dourado</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>6892</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608965824769</id>
+      <title>Aro 22 / Prata</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>6894</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7690270343425</id>
+    <published>2025-03-21T13:59:34-03:00</published>
+    <updated>2025-03-21T13:59:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-trilha"/>
+    <title>Colar Trilha</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta13_35aa59cc-5dd1-4fe8-98d9-b99904e66431.png?v=1744995702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Corrente banhos dourado ou prata, com elos facetados com fecho gancho. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>permanentes</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7690270343425</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>COL-0206</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7690270343425</id>
+      <title>Prata</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>COL-0206A</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7772637561089</id>
+    <published>2025-03-21T13:58:01-03:00</published>
+    <updated>2025-03-21T13:58:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/argola-onda-p"/>
+    <title>Argola Onda P</title>
+    <s:type>Argolas</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/piercing_944218a4-99e2-422b-88a4-74f0fcd39586.png?v=1723811560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Argolas<br>
+        <strong>Preço: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Argola tamanho P inspirada nas ondas do mar.</p>
+<p>Veja mais detalhes sobre tamanho abaixo ou nas fotos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>argola</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772637561089</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>6092</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772637561089</id>
+      <title>Prata</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>6093</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6627020931121</id>
+    <published>2025-03-14T10:19:54-03:00</published>
+    <updated>2025-03-14T10:19:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-orquidea-pp"/>
+    <title>Brinco Orquidea PP</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0841_4b827407-23d9-44a4-b2aa-480e31e717db.png?v=1718124611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco Orquidea PP<br></p>
+<p>Altura 13,5 cm<br>Largura 17 mm<br>Espessura 4,5 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>COLEÇÃO ORQUÍDEAS</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>orquidea</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6627020931121</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">279.00</s:price>
+      <s:sku>BRI-0137</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6627020931121</id>
+      <title>Prata</title>
+      <s:price currency="BRL">279.00</s:price>
+      <s:sku>BRI-0137A</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/410229997607</id>
+    <published>2025-03-12T14:08:25-03:00</published>
+    <updated>2025-03-12T14:08:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-lila"/>
+    <title>Brinco Lila</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Orquidea_5.png?v=1717007926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #000000;">O Brinco Lila foi feito em metal nobre com folheação de ouro 18k e prata 1000. Livre de níquel.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco pequeno</s:tag>
+    <s:tag>brinco prata</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>lila</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/410229997607</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">219.00</s:price>
+      <s:sku>brinou-290</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/410229997607</id>
+      <title>Prata</title>
+      <s:price currency="BRL">219.00</s:price>
+      <s:sku>brinpr-291</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6551936598065</id>
+    <published>2025-02-27T09:32:20-03:00</published>
+    <updated>2025-02-27T09:32:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/gargantilha-mateus-6-13"/>
+    <title>Gargantilha Mateus 6:13</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Designsemnome_ae9f9f76-050d-4bdd-879d-39cbb55d4ad0.png?v=1744995778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            319.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gargantilha escrito Livrai-me de todo mal<br><br>Peso 9 gramas<br>Altura 12,5 cm<br>Largura 12,5 cm <br>Espessura 1,7 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula clamor</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>dourado</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>gargantilha</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>livrai me</s:tag>
+    <s:tag>mateus</s:tag>
+    <s:tag>prata</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551936598065</id>
+      <title>dourado</title>
+      <s:price currency="BRL">319.00</s:price>
+      <s:sku>COL-0145</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551936598065</id>
+      <title>prata</title>
+      <s:price currency="BRL">319.00</s:price>
+      <s:sku>COL-0145A</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/1904184950833</id>
+    <published>2025-02-27T08:55:11-03:00</published>
+    <updated>2025-02-27T08:55:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-evolua"/>
+    <title>Brinco Evolua</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0768.png?v=1718124507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #000000;">O Brinco Evolua foi feito em metal nobre com folheação de ouro sem níquel. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>brinco evolua</s:tag>
+    <s:tag>COLECAO NOVA</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>COLEÇÃO ORQUÍDEAS</s:tag>
+    <s:tag>EVOLUA</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>menor</s:tag>
+    <s:tag>orquidea</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/1904184950833</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>brinou-264</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/1904184950833</id>
+      <title>Prata</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>brinpr-265</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/4519253999665</id>
+    <published>2025-02-26T14:44:23-03:00</published>
+    <updated>2025-02-26T14:44:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-passaros-p"/>
+    <title>Colar Pássaros P</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Colar_passaros_pequeno_e_grande_19204113-abbc-4acb-b196-c11abec06515.jpg?v=1744995844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            339.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+Colar Pássaros P</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A Criação</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula clamor</s:tag>
+    <s:tag>capsula passaro</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>colar passaro</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4519253999665</id>
+      <title>Prata</title>
+      <s:price currency="BRL">339.00</s:price>
+      <s:sku>colpr-469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4519253999665</id>
+      <title>Ouro</title>
+      <s:price currency="BRL">339.00</s:price>
+      <s:sku>colou-470</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/407138762791</id>
+    <published>2025-02-18T14:27:05-03:00</published>
+    <updated>2025-02-18T14:27:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-orquidea"/>
+    <title>Brinco Orquídea</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0876.png?v=1718125444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            439.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Orquídeas</strong> são flores que podem significar <strong>amor</strong><strong>, autoridade, poder, desejo </strong>e<strong>sedução</strong>, dependendo da cor em questão. Feito no metal nobre é produzido manualmente com recortes e sinuosidade. A solda de prata utilizada na peça aumenta a qualidade do produto. O banho é folheado e <em>níquel free</em>.  Produzidos no banho Rosê.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco dourado</s:tag>
+    <s:tag>brinco prata</s:tag>
+    <s:tag>brinco rosê</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>orquidea</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/407138762791</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">439.00</s:price>
+      <s:sku>brinou-309</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/407138762791</id>
+      <title>Prata</title>
+      <s:price currency="BRL">439.00</s:price>
+      <s:sku>brinpr-310</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/4519255670833</id>
+    <published>2025-02-04T15:14:59-03:00</published>
+    <updated>2025-02-04T15:14:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-passaros-g"/>
+    <title>Colar Pássaros M</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/image_f937f0da-0167-4d1c-ab00-17d997a7a012.jpg?v=1744995801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Colar Pássaros M</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A Criação</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula clamor</s:tag>
+    <s:tag>capsula passaro</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>colar passaro</s:tag>
+    <s:tag>colar prata</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4519255670833</id>
+      <title>Prata</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>colpr-467</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4519255670833</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>colou-468</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8004084891905</id>
+    <published>2024-08-26T17:30:34-03:00</published>
+    <updated>2024-08-26T17:30:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/cordao-lume-dourado"/>
+    <title>Cordão Lume</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/11_0fa5ea40-5c52-46bc-8344-2bab2b71b08a.png?v=1744995736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Cordão com pingente disponível no banho ouro 18k e prata 1000, com design de chama. Peça que se ajusta perfeitamente no seu pescoço.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>cordão</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>lume</s:tag>
+    <s:tag>para sempre</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004084891905</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>7256</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004084891905</id>
+      <title>Prata</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>7257</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/4505741951025</id>
+    <published>2024-08-16T09:33:27-03:00</published>
+    <updated>2024-08-16T09:33:27-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-lisa-nature"/>
+    <title>Choker Lisa</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/IMG_0266.jpg?v=1737127836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            389.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Choker Lisa disponível no banho ouro 18k ou prata 1000.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>choker dourada</s:tag>
+    <s:tag>COLEÇÃO PERMANENTE</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>orquidea</s:tag>
+    <s:tag>orquideas</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4505741951025</id>
+      <title>Prata</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>chopr-371</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4505741951025</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>choou-370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/4802988474417</id>
+    <published>2024-07-23T16:13:08-03:00</published>
+    <updated>2024-07-23T16:13:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-luminescencia-prata"/>
+    <title>Anel Lume</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/9_1c5b3de6-4112-4957-97b5-0fefc29e74d8.png?v=1744995789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Retrata um acessório contemporâneo e cheio de estilo, o encaixe desse anel é perfeito e ajustável. </p>
+<p>Disponível nos banhos ouro 18k e prata 1000. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>manancial</s:tag>
+    <s:tag>ouro</s:tag>
+    <s:tag>para sempre</s:tag>
+    <s:tag>prata</s:tag>
+    <s:tag>resina</s:tag>
+    <s:tag>resinado</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4802988474417</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>2823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4802988474417</id>
+      <title>Prata</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>2824</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/1949732798513</id>
+    <published>2024-07-23T11:32:14-03:00</published>
+    <updated>2024-07-23T11:32:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/presilha-orquidea"/>
+    <title>Presilha Orquidea</title>
+    <s:type>Prendedores</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/7_30eee71b-126a-4a67-9b15-eb6b09fa99ce.png?v=1703272433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Prendedores<br>
+        <strong>Preço: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A Presilha Orquídea foi feita em metal nobre com folheação de ouro 18k, sem níquel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anel orquidea</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>cabelo</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>COLEÇÃO ORQUÍDEAS</s:tag>
+    <s:tag>EVOLUA</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>orquidea</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>permanentes</s:tag>
+    <s:tag>prendedor cabelo</s:tag>
+    <s:tag>presilha orquidea</s:tag>
+    <s:tag>VIVACIDADE</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/1949732798513</id>
+      <title>Ouro</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>7288</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8004083482881</id>
+    <published>2023-06-28T08:57:34-03:00</published>
+    <updated>2023-06-28T08:57:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bra-orquidinha-dourado"/>
+    <title>Bracelete Orquidinha</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Capturadetela2023-12-13142604.png?v=1702488442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bracelete Orquidinha disponível no banho ouro 18k e prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>braceletes</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>orquidea</s:tag>
+    <s:tag>permanentes</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004083482881</id>
+      <title>Dourado / P</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>7250</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004083482881</id>
+      <title>Dourado / M</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>7470</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004083482881</id>
+      <title>Prata / P</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>7251</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004083482881</id>
+      <title>Prata / M</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>7469</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8011225760001</id>
+    <published>2023-05-25T16:25:07-03:00</published>
+    <updated>2023-05-25T16:25:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/earhook-lume-dourado"/>
+    <title>Earhook Lume</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/14_91960289-917d-47f1-89b5-b38e036863b2.png?v=1744995728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Brinco folheado no ouro 18k e prata 1000, com design inspirado nas chamas. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>earhook</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>lume</s:tag>
+    <s:tag>para sempre</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8011225760001</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>7352</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8011225760001</id>
+      <title>Prata</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>7351</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6551986143281</id>
+    <published>2023-05-08T15:01:01-03:00</published>
+    <updated>2023-05-08T15:01:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-graca"/>
+    <title>Colar Graça</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/5.png?v=1717008009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar em corrente veneziana 0,8mm diamantada com pingente Pombinha e Gratidão </p>
+<p>Peso 12 gramas<br>Pingente<br>Altura 12,5 mm<br>Largura 12,5 mm<br>Espessura 3 mm<br></p>
+<p>Corrente <br>Comprimento 45 cm<br>Largura 0,8 mm<br>Espessura 0,8 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula clamor</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>colar</s:tag>
+    <s:tag>colar passaro</s:tag>
+    <s:tag>crença</s:tag>
+    <s:tag>dourado</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>graditao</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>passaro</s:tag>
+    <s:tag>prata</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551986143281</id>
+      <title>dourado</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>COL-0141</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551986143281</id>
+      <title>prata</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>COL-0141A</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7772637856001</id>
+    <published>2023-02-17T09:56:38-03:00</published>
+    <updated>2023-02-17T09:56:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/argola-onda-m"/>
+    <title>Argola Onda M</title>
+    <s:type>Argolas</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/argolaondammodeloprata.png?v=1723811510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Argolas<br>
+        <strong>Preço: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Argola no tamanho M inspirada nas ondas do mar. </p>
+<p>Veja detalhes abaixo e diferença de tamanhos na foto da modelo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>argola</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772637856001</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6094</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772637856001</id>
+      <title>Prata</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6095</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/407776690215</id>
+    <published>2020-11-10T11:31:14-03:00</published>
+    <updated>2020-11-10T11:31:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-orquidea-corrente"/>
+    <title>Colar Orquidea (Corrente)</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0740_2558bfc9-836c-44f9-8e69-3275c948f543.png?v=1718125526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Orquídeas</strong> são flores que podem significar <strong>amor</strong><strong>, autoridade, poder, desejo </strong>e <strong>sedução</strong>, dependendo da cor em questão. Feito no metal nobre é produzido manualmente com recortes e sinuosidade. A solda de prata utilizada na peça aumenta a qualidade do produto. O banho é folheado e <em>níquel free</em>.  Produzidos no banho Rosê.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colar corrente</s:tag>
+    <s:tag>colar orquidea</s:tag>
+    <s:tag>colar prata</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>COLEÇÃO ORQUÍDEAS</s:tag>
+    <s:tag>dourado</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>orquidea</s:tag>
+    <s:tag>orquideas</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/407776690215</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">749.00</s:price>
+      <s:sku>colou-465</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/407776690215</id>
+      <title>Prata</title>
+      <s:price currency="BRL">749.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/413675126823</id>
+    <published>2020-11-10T11:31:12-03:00</published>
+    <updated>2020-11-10T11:31:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-orquidea"/>
+    <title>Bracelete Orquidea</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0841.png?v=1718124453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            629.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Orquídeas</strong> são flores que podem significar <strong>amor</strong><strong>, autoridade, poder, desejo </strong>e <strong>sedução</strong>, dependendo da cor em questão. Feito no metal nobre é produzido manualmente com recortes e sinuosidade. A solda de prata utilizada na peça aumenta a qualidade do produto. O banho é folheado e <em>níquel free</em>.  Produzidos no banho Rosê.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Bracelete Dourados</s:tag>
+    <s:tag>bracelete prata</s:tag>
+    <s:tag>bracelete rose</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>COLEÇÃO ORQUÍDEAS</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>orquidea</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/413675126823</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">629.00</s:price>
+      <s:sku>bracou-184</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/413675126823</id>
+      <title>Prata</title>
+      <s:price currency="BRL">629.00</s:price>
+      <s:sku>bracpr-185</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

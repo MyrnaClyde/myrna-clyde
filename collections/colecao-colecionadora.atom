@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-colecionadora.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-02-26T11:08:18-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7967669780737</id>
+    <published>2025-02-26T11:08:18-03:00</published>
+    <updated>2025-02-26T11:08:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bri-olho-grego-sodalita-c-dourado"/>
+    <title>Brinco Olho Grego</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/colecionadora--sitePrancheta-8.png?v=1736102826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco disponível no banho ouro 18k com pedras naturais com lapidação exclusiva.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>olho grego</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967669780737</id>
+      <title>Sodalita</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>6922</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967669780737</id>
+      <title>Pérola</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>6923</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967669780737</id>
+      <title>Turquesa</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>6924</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7967669944577</id>
+    <published>2025-01-10T17:32:25-03:00</published>
+    <updated>2025-01-10T17:32:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/cho-olho-grego-cores-c-dourado"/>
+    <title>Choker Olho Grego</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/colecionadora--sitePrancheta-7.png?v=1736102861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            849.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Choker no banho dourado 18k, com corrente 32cm com elos.</p>
+<p>Disponível em 2 versões: com pedra pérola e com mix de pedras quartzo azul, sodalita e pedra estrela.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>olho grego</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967669944577</id>
+      <title>Cores</title>
+      <s:price currency="BRL">849.00</s:price>
+      <s:sku>6927</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967669944577</id>
+      <title>Pérola</title>
+      <s:price currency="BRL">849.00</s:price>
+      <s:sku>6926</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7967660605697</id>
+    <published>2025-01-07T16:42:44-03:00</published>
+    <updated>2025-01-07T16:42:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-olho-grego-14-onix-c-dourado"/>
+    <title>Anel Olho Grego</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/colecionadora--sitePrancheta-5.png?v=1736102660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            489.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>Anel disponível no banho ouro 18k com pedras naturais com lapidação exclusiva.</span></p>
+<p data-mce-fragment="1">Disponível em aros fixos. <br data-mce-fragment="1">14, 17, 20 e 22<br data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>olho grego</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967660605697</id>
+      <title>Ônix / 14</title>
+      <s:price currency="BRL">489.00</s:price>
+      <s:sku>6908</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967660605697</id>
+      <title>Ônix / 17</title>
+      <s:price currency="BRL">489.00</s:price>
+      <s:sku>6909</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967660605697</id>
+      <title>Ônix / 20</title>
+      <s:price currency="BRL">489.00</s:price>
+      <s:sku>6911</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967660605697</id>
+      <title>Ônix / 22</title>
+      <s:price currency="BRL">489.00</s:price>
+      <s:sku>6913</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967660605697</id>
+      <title>Turquesa / 14</title>
+      <s:price currency="BRL">489.00</s:price>
+      <s:sku>6907</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967660605697</id>
+      <title>Turquesa / 17</title>
+      <s:price currency="BRL">489.00</s:price>
+      <s:sku>6910</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967660605697</id>
+      <title>Turquesa / 20</title>
+      <s:price currency="BRL">489.00</s:price>
+      <s:sku>6912</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967660605697</id>
+      <title>Turquesa / 22</title>
+      <s:price currency="BRL">489.00</s:price>
+      <s:sku>6914</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7967665651969</id>
+    <published>2025-01-04T18:13:07-03:00</published>
+    <updated>2025-01-04T18:13:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/argola-olho-grego-onix-c-dourado"/>
+    <title>Argola Olho Grego</title>
+    <s:type>Argolas</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/colecionadora--sitePrancheta-17.png?v=1736102573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Argolas<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Argola <span data-mce-fragment="1">disponível no banho ouro 18k com pedras naturais com lapidação exclusiva.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>argola</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>olho grego</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967665651969</id>
+      <title>Ônix</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>6920</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967665651969</id>
+      <title>Turquesa</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>6921</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7968193413377</id>
+    <published>2025-01-03T15:39:30-03:00</published>
+    <updated>2025-01-03T15:39:30-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-olho-grego-m"/>
+    <title>Colar Olho Grego M</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/colecionadora--sitePrancheta-33_efdd2c71-ce1d-4d4c-a1d4-697c0582b1cb.png?v=1736102522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Colar no banho dourado 18k, com corrente 26cm.</p>
+<p data-mce-fragment="1">Disponível em 2 versões:<span data-mce-fragment="1"> com a pedra ônix e pedra turquesa</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>olho grego</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7968193413377</id>
+      <title>Sodalita</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6932</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7968193413377</id>
+      <title>Turquesa</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6933</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7968127484161</id>
+    <published>2025-01-03T15:39:29-03:00</published>
+    <updated>2025-01-03T15:39:29-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-olho-grego"/>
+    <title>Colar Olho Grego P</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/colecionadora--sitePrancheta-7_8fed39b2-1c79-4ab1-a88c-89848919874f.png?v=1723810668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Colar no banho dourado 18k, com corrente detalhada 20cm.</p>
+<p data-mce-fragment="1">Disponível em 3 versões:<span data-mce-fragment="1"> Sodalita, pérola e Turquesa</span></p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>olho grego</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7968127484161</id>
+      <title>Sodalita</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>6928</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7968127484161</id>
+      <title>Pérola</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>6929</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7968127484161</id>
+      <title>Turquesa</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>6930</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7967670305025</id>
+    <published>2025-01-03T15:39:28-03:00</published>
+    <updated>2025-01-03T15:39:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/pul-olho-grego-onix-c-dourado"/>
+    <title>Pulseira Olho Grego</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/colecionadora--sitePrancheta-13_a81cc67e-2001-427f-8883-850ff7a92bbc.png?v=1736103088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pulseira com cordão trançado, disponível nas versões com a pedra ônix e pedra turquesa</p>
+<p>Pode ser usada como choker e tornozeleira.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>olho grego</s:tag>
+    <s:tag>pulseira</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967670305025</id>
+      <title>Ônix</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>6936</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967670305025</id>
+      <title>Turquesa</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>6937</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7968140525825</id>
+    <published>2023-02-14T08:51:24-03:00</published>
+    <updated>2023-02-14T08:51:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-elefante-p"/>
+    <title>Colar Elefante P</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/fotos-stillPrancheta-9.png?v=1676308640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Colar com design exclusivo de elefante facetado, com corrente de 60cm e detalhes nas pedras olho de tigre e jade verde.</span></p>
+<p> </p>
+<p><span>*na foto a modelo usa colar P e M</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>elefante</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7968140525825</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">799.00</s:price>
+      <s:sku>6934</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7967670108417</id>
+    <published>2023-02-14T08:51:21-03:00</published>
+    <updated>2023-02-14T08:51:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/col-elefante-m-c-dourado"/>
+    <title>Colar Elefante M</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/fotos-stillPrancheta-8_b3a16820-8c20-4081-9918-711dc0fb5ba7.png?v=1676308265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Colar com design exclusivo de elefante facetado, com corrente de 75cm e detalhes nas pedras olho de tigre e jade verde.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>elefante</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967670108417</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">1099.00</s:price>
+      <s:sku>6931</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7967669879041</id>
+    <published>2023-02-14T08:51:19-03:00</published>
+    <updated>2023-02-14T08:51:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bri-elefante-c-dourado"/>
+    <title>Brinco Elefante</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/fotos-stillPrancheta-16.png?v=1676308008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            759.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco <span data-mce-fragment="1">com design exclusivo de elefante facetado, com detalhes nas pedras olho de tigre e quartzo verde.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>elefante</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967669879041</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">759.00</s:price>
+      <s:sku>6925</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7967663390977</id>
+    <published>2023-02-14T08:51:16-03:00</published>
+    <updated>2023-02-14T08:51:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bra-elefante-c-dourado"/>
+    <title>Bracelete Elefante</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/fotos-stillPrancheta-18.png?v=1676307813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            1799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Bracelete com design exclusivo de elefante facetado, com detalhes nas pedras olho de tigre e quartzo verde e lamina de madeira.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>bracelete</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>elefante</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>pulseira</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967663390977</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">1799.00</s:price>
+      <s:sku>6919</s:sku>
+      <s:grams>76</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7967663194369</id>
+    <published>2023-02-14T08:51:15-03:00</published>
+    <updated>2023-02-14T08:51:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-elefante-14-c-dourado"/>
+    <title>Anel Elefante</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/fotos-stillPrancheta-19.png?v=1676307684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Anel com design exclusivo de elefante facetado, com detalhes nas pedras olho de tigre e quartzo verde.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>elefante</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967663194369</id>
+      <title>14</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>6915</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967663194369</id>
+      <title>17</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>6916</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967663194369</id>
+      <title>20</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>6917</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967663194369</id>
+      <title>22</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>6918</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+</feed>

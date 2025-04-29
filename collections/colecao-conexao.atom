@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-conexao.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-02-26T14:32:54-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8004099440897</id>
+    <published>2025-02-26T14:32:54-03:00</published>
+    <updated>2025-02-26T14:32:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-enamorado-prata"/>
+    <title>Colar Enamorado</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/6_861de968-6276-4d76-87fc-7187314e8755.png?v=1715110598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            539.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Coleção inspirada no Dia dos Namorados.<br><br>Colar confeccionado artesanalmente em metal nobre banhado a ouro 18k ou prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Black Anna Prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>colar</s:tag>
+    <s:tag>conexão</s:tag>
+    <s:tag>enamorado</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004099440897</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">539.00</s:price>
+      <s:sku>7284</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004099440897</id>
+      <title>Prata</title>
+      <s:price currency="BRL">539.00</s:price>
+      <s:sku>7286</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8004094853377</id>
+    <published>2025-02-26T13:08:23-03:00</published>
+    <updated>2025-02-26T13:08:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-enamorado-p-dourado"/>
+    <title>Brinco Enamorado</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/8_15a5505c-2c4c-4ff4-be8e-becbb755166e.png?v=1715110619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            779.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Coleção inspirada no Dia dos Namorados.<br><br>Brinco confeccionado artesanalmente em metal nobre banhado a ouro 18k ou prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>conexão</s:tag>
+    <s:tag>DOURADO</s:tag>
+    <s:tag>enamorado</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004094853377</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">779.00</s:price>
+      <s:sku>7264</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004094853377</id>
+      <title>Prata</title>
+      <s:price currency="BRL">779.00</s:price>
+      <s:sku>7265</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8004097802497</id>
+    <published>2025-02-07T17:38:36-03:00</published>
+    <updated>2025-02-07T17:38:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-enamorado-20-dourado"/>
+    <title>Anel Enamorado</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Designsemnome_35_43e9a427-ba74-4df4-bf58-7896b893c08f.png?v=1715110537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Coleção inspirada no Dia dos Namorados.<br><br>Anel feito à mão com metal nobre banhado em ouro 18k ou prata 1000.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>conexão</s:tag>
+    <s:tag>enamorado</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004097802497</id>
+      <title>Dourado / 15</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>7407</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004097802497</id>
+      <title>Dourado / 17</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>7409</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004097802497</id>
+      <title>Dourado / 20</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>7275</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004097802497</id>
+      <title>Prata / 15</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>7408</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004097802497</id>
+      <title>Prata / 17</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>7410</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004097802497</id>
+      <title>Prata / 20</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>7277</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8004097966337</id>
+    <published>2025-01-04T18:12:58-03:00</published>
+    <updated>2025-01-04T18:12:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-enamorado-masc-dourado"/>
+    <title>Colar Enamorado Masculino</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Designsemnome_36.png?v=1715110675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coleção inspirada no Dia dos Namorados.<br><br>Colar Masculino confeccionado artesanalmente em metal nobre banhado a ouro 18k ou prata 1000. Colar no banho dourado com a pedra obsidiana preta e no banho prata com o quartzo verde. </p>
+<p>Dentro do colar está escrito "Você é meu".</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colar masculino</s:tag>
+    <s:tag>conexão</s:tag>
+    <s:tag>enamorado</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004097966337</id>
+      <title>Dourado pedra Obsidiana Preta</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>7282</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004097966337</id>
+      <title>Prata pedra Quartzo Verde</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>7283</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

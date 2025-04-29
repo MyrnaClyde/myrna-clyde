@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-babado.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-03-14T16:21:50-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578308473089</id>
+    <published>2025-03-14T16:21:50-03:00</published>
+    <updated>2025-03-14T16:21:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-emilia-dourado"/>
+    <title>Anel Emília</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0635_8ce4763e-b393-4840-85ff-b5d9ed1fadd4.png?v=1725966457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            389.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Complementando a família, o anel Emília traz as referencias orgânicas e conceituais da alta costura emSeus efeitos de luz e sombra e regulagem que garante modernidade e praticidade para vestir as mãos.<br><br>Altura 25,5cm / Largura 29mm / Espessura 29,5mm / Peso 7,7g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578308473089</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>9369</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578308473089</id>
+      <title>Prata</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>9370</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578360541441</id>
+    <published>2025-03-14T16:21:34-03:00</published>
+    <updated>2025-03-14T16:21:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-savana-dourado"/>
+    <title>Choker Savana</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/29_96f2109f-ae85-44cd-bbf8-3a70f8682092.png?v=1725371351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os babados permeiam o vestuário feminino como sinônimo de feminilidade e na Choker Savana trazemos esse efeito como uma gola, inspirada nas roupas da realeza francesa ele traz efeito de seda pura em seu acabamento liso e alto brilho.<br><br>Altura 57,5cm / Largura 14,5mm<br>Espessura 14,5mm / Peso 70g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578360541441</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1399.00</s:price>
+      <s:sku>9407</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578360541441</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1399.00</s:price>
+      <s:sku>9408</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578311356673</id>
+    <published>2025-03-07T08:43:19-03:00</published>
+    <updated>2025-03-07T08:43:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-mariana-dourado"/>
+    <title>Bracelete Mariana</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/14_7d85e477-845d-4d70-a2d1-64bf91a6895d.png?v=1725965196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            1259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sobreposição de tecidos em camadas são a inspiração do Bracelete Mariana, ele cria um volume em cortes assimétricos com efeitos especiais de luz e sombra trazendo muito brilho e sofisticação na peça, lembrando os vestidos de alta costura na passarela.<br><br>Altura 64cm / Largura 75mm<br>Espessura 36mm / Peso 65g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578311356673</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1259.00</s:price>
+      <s:sku>9373</s:sku>
+      <s:grams>66</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578311356673</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1259.00</s:price>
+      <s:sku>9374</s:sku>
+      <s:grams>66</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8600630591745</id>
+    <published>2024-10-08T08:47:36-03:00</published>
+    <updated>2024-10-08T08:47:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/broche-thatyana-dourado-1"/>
+    <title>Broche Thatyana</title>
+    <s:type>Broches</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/19_1.png?v=1730917201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Broches<br>
+        <strong>Preço: </strong>
+            759.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 11" class="page">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>A icônica Orquídea, símbolo da marca Anna Prata, homenageia seu aniversário em uma inédita versão modelada em babados com caimentos de tecidos ela traz um brilho especial em metal nobre e seu acabamento polido, com finalidade de arrematar e adornar os looks ele traz a pura essência da marca.</span></p>
+<p><span>Altura 80mm / Largura 70mm Espessura 20,5mm / Peso 32,8g<br></span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado_Orquideas</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8600630591745</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">759.00</s:price>
+      <s:sku>9494</s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8600630591745</id>
+      <title>Prata</title>
+      <s:price currency="BRL">759.00</s:price>
+      <s:sku>9495</s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8600622006529</id>
+    <published>2024-10-08T08:47:34-03:00</published>
+    <updated>2024-10-08T08:47:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-thatyana-dourado"/>
+    <title>Brinco Thatyana</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0466.png?v=1728065277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>A icônica Orquídea, símbolo da marca Anna Prata, homenageia seu aniversário em uma inédita versão modelada em babados com caimentos de tecidos ela traz um brilho especial em metal nobre e seu acabamento polido, com finalidade de arrematar e adornar os looks ele traz a pura essência da marca. </span></p>
+<p><span>Altura 48,5mm / Largura 42,5mm Espessura 10,5mm / Peso 25,5g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado_Orquideas</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8600622006529</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>9493</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8600622006529</id>
+      <title>Prata</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>9492</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8600621187329</id>
+    <published>2024-10-08T08:47:32-03:00</published>
+    <updated>2024-10-08T08:47:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-thatyana-dourado"/>
+    <title>Anel Thatyana</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0644.png?v=1728065062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            489.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>A icônica Orquídea, símbolo da marca Anna Prata, homenageia seu aniversário em uma inédita versão modelada em babados com caimentos de tecidos, ela traz um brilho especial em metal nobre e seu acabamento polido, em tamanho médio ele transita entre o dia e a noite sem perder a essência da marca. </span></p>
+<p><span>Altura 30cm / Largura 42mm Espessura 36,5mm / Peso 14g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado_Orquideas</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8600621187329</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">489.00</s:price>
+      <s:sku>9491</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8600621187329</id>
+      <title>Prata</title>
+      <s:price currency="BRL">489.00</s:price>
+      <s:sku>9496</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8584789295361</id>
+    <published>2024-09-04T08:49:51-03:00</published>
+    <updated>2024-09-04T08:49:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-emilia-dourado"/>
+    <title>Brinco Emília</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/17_1b56252d-1cb6-4b68-b9ec-7e55eac91cf0.png?v=1726241630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            659.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os brincos assimétricos tem referência aos looks conceituais de passarelas com babados e tecidos que criam volumes e brilho nas peças de alta costura, seu acabamento e liso e polido traz esse efeito de luz e sombra criando um estilo moderno e contemporâneo..<br><br>Altura 71cm / Largura 34mm / Espessura 19mm / Peso Total 24,8g<br>Altura 50cm / Largura 34mm / Espessura 14mm / Peso Total 24,8g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8584789295361</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">659.00</s:price>
+      <s:sku>9391</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8584789295361</id>
+      <title>Prata</title>
+      <s:price currency="BRL">659.00</s:price>
+      <s:sku>9392</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578364309761</id>
+    <published>2024-09-04T08:49:50-03:00</published>
+    <updated>2024-09-04T08:49:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/earcuff-savana-dourado"/>
+    <title>Earcuff Savana</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0658.png?v=1726077823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            589.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Com estilo minimalista e conceitual, o earcuff Savana traz em suas referências os tecidos em cortes esvoaçantes que envolvem as orelhas e contornam o rosto das mulheres. Seu acabamento em metal nobre com efeito polido e alto brilho garantem a beleza da peça.<br><br>Altura 48,5cm / Largura 41mm<br>Espessura 17mm / Peso 16,5g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578364309761</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">589.00</s:price>
+      <s:sku>9413</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578364309761</id>
+      <title>Prata</title>
+      <s:price currency="BRL">589.00</s:price>
+      <s:sku>9414</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578364211457</id>
+    <published>2024-09-04T08:49:49-03:00</published>
+    <updated>2024-09-04T08:49:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/pendulo-yvila-dourado"/>
+    <title>Pêndulo Yvila</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/18_3b1a617f-f265-4eb7-b0e1-0d4c26c836b6.png?v=1726241666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            579.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O Fuxico é uma homenagem à essência brasileira do artesanato manual e que ganhou seu lugar no mundo da moda, além disso a expressão “fuxico” vem de algo novo, que todos estão comentando e essa é a ideia central da coleção. O pêndulo traz um fuxico em metal altamente polido e com uma aplicação de uma agulha em linha como homenagem à essas artesãs, o colar segue em estilo regulável pelas correntes com seu polimento e brilho garantem um look sofisticado e contemporâneo. <br><br><em>Altura 52cm / Largura 30mm</em><br><em>Espessura 10,5mm / Peso 18g</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578364211457</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">579.00</s:price>
+      <s:sku>9411</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578364211457</id>
+      <title>Prata</title>
+      <s:price currency="BRL">579.00</s:price>
+      <s:sku>9412</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578364080385</id>
+    <published>2024-09-04T08:49:47-03:00</published>
+    <updated>2024-09-04T08:49:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-emilia-dourado"/>
+    <title>Choker Emília</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/2_96d92c49-d4b0-42f3-a6b7-b8d9ded487b7.png?v=1725966602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            879.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A choker Emília traz em sua essência o estilo contemporâneo dos babados e fitas numa peça autentica e cheia de estilo, com acabamento liso e polido e sua abertura lateral facilitando o uso e ajuste em vários tamanhos.<br><br><em>Altura 49,5cm / Largura 12mm</em><br><em>Espessura 12mm / Peso 35g</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578364080385</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">879.00</s:price>
+      <s:sku>9409</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578364080385</id>
+      <title>Prata</title>
+      <s:price currency="BRL">879.00</s:price>
+      <s:sku>9410</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578347729153</id>
+    <published>2024-09-04T08:49:45-03:00</published>
+    <updated>2024-09-04T08:49:45-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-juliana-dourado"/>
+    <title>Brinco Juliana</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0672.png?v=1725966448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            829.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“É babado forte!” essa expressão direciona nossa criação que traz algo surpreendente e escandaloso. A ideia lúdica da boquinha ao pé do ouvido e a orelha estilizada com formato de um babado forte e poderoso se complementam numa peça moderna e com acabamento de alto brilho e polimento..<br><br>Altura 19cm / Largura 25,5mm / Espessura 9mm / Peso Total 34,2g<br>Altura 54cm / Largura 50,5mm / Espessura 18,5mm / Peso Total 34,2g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578347729153</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">829.00</s:price>
+      <s:sku>9393</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578347729153</id>
+      <title>Prata</title>
+      <s:price currency="BRL">829.00</s:price>
+      <s:sku>9394</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578346909953</id>
+    <published>2024-09-04T08:49:44-03:00</published>
+    <updated>2024-09-04T08:49:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/argola-yvila-dourado"/>
+    <title>Argola Yvila</title>
+    <s:type>Argolas</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/25_13157c53-0146-46c9-bb27-9ee9dee490c9.png?v=1726241644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Argolas<br>
+        <strong>Preço: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O fuxico é uma homenagem à nossa brasilidade e seu artesanato que ganham lugar no mundo da moda além disso a expressão de algo novo e surpreendente é a ideia central da nossa coleção que traz argolas versáteis com estilo de segundo furo e aplicações de fuxicos em metal que garantem um look moderno.<br><br>Altura 30,5cm / Largura 13mm<br>Espessura 28,5mm / Peso24g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578346909953</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>9389</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578346909953</id>
+      <title>Prata</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>9390</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578346811649</id>
+    <published>2024-09-04T08:49:43-03:00</published>
+    <updated>2024-09-04T08:49:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-lanne-dourado"/>
+    <title>Brinco Lanne</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/27_1c2f830d-ea83-4aaa-94b6-fd43f3aca50b.png?v=1726241661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            589.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Com inspiração nos babados em corte godê os brincos de estilo ear jacket trazem modernidade e estilo em sua forma de uso com possiblidade de sua base ser usada no dia a dia. Seu acabamento altamente polido e liso se remete aos mais nobres tecidos da alta costura.<br><br><em>Altura 42,5cm / Largura 36,5mm / Espessura 12mm / Peso 21,6g</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578346811649</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">589.00</s:price>
+      <s:sku>9387</s:sku>
+      <s:grams>66</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578346811649</id>
+      <title>Prata</title>
+      <s:price currency="BRL">589.00</s:price>
+      <s:sku>9388</s:sku>
+      <s:grams>66</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578308604161</id>
+    <published>2024-09-04T08:49:40-03:00</published>
+    <updated>2024-09-04T08:49:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-juliana-dourado"/>
+    <title>Anel Juliana</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0564.png?v=1726241682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“É babado forte!” essa expressão direciona nossa criação que traz algo surpreendente e escandaloso. A ideia lúdica da boquinha ao pé do ouvido e a estilização com formato de um babado forte e poderoso se complementam numa peça moderna e com acabamento de alto brilho e polimento.<br><br><br><em>Altura 24,5cm / Largura 21,5mm</em><br><em>Espessura 11,5mm / Peso Total 12,5g</em><br><br><em>Altura 28cm / Largura 47mm</em><br><em>Espessura 35,7mm / Peso Total 12,5g</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578308604161</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>9371</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578308604161</id>
+      <title>Prata</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>9372</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578306015489</id>
+    <published>2024-09-04T08:49:38-03:00</published>
+    <updated>2024-09-04T08:49:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-lanne-dourado"/>
+    <title>Anel Lanne</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/7_4b9f5934-b4a5-4818-b4be-65e9b1919cb3.png?v=1725966582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os anéis Lanne expressam a feminilidade e elegância com sua forma vestir em várias possibilidades, dando modernidade e possibilidades de uso para o dia a dia num acabamento altamente polido e liso remetendo aos mais nobres tecidos da alta costura.<br><br>Altura 25,5cm / Largura 29mm / Espessura 29,5mm / Peso 7,7g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578306015489</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>9368</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578306015489</id>
+      <title>Prata</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>9367</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+</feed>

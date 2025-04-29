@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/all.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-04-25T10:38:23-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7901254746369</id>
+    <published>2025-04-25T10:38:23-03:00</published>
+    <updated>2025-04-25T10:38:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-lago-dourado"/>
+    <title>Bracelete Lago</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta30_ac69d37b-d8dc-4e0a-ad92-8175395a596c.png?v=1668014122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            769.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Bracelete dourado, inspirado nas ondas dos lagos. Complete o trio de braceletes fazendo um mix muito maravilhoso de banhos.</span><br></p>
+<p><span data-mce-fragment="1">*peça totalmente no banho de dourado. Compre junto os braceletes Lótus e sereno.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7901254746369</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">769.00</s:price>
+      <s:sku>6521</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8757988491521</id>
+    <published>2025-04-20T10:00:20-03:00</published>
+    <updated>2025-04-20T10:00:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-oracao-ii"/>
+    <title>Colar Oração II</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/1_7dd3c220-1820-4ca3-b4de-7d5655a623aa.png?v=1744992657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Neste Dia das Mães, celebramos aquelas que transformam cada oração em proteção, cada súplica em esperança e cada gesto em puro amor.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Mães que, de joelhos, sustentam a vida dos filhos com a força da fé, elevando suas preces como um abraço invisível que acolhe, orienta e fortalece. Para elas, criamos adornos cheios de significado — símbolos da maternidade, da devoção e da beleza que habita no amor inabalável de uma mãe.</span></p>
+<p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Peças que carregam histórias, brilham como reflexos de orações atendidas e envolvem com a mesma ternura de um colo materno.<br><br></span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Porque mãe que ora, orienta<br></span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">E mãe que ama, ilumina caminhos.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>COLAR</s:tag>
+    <s:tag>mães</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8757988491521</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>10509</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8757988491521</id>
+      <title>Prata</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>10510</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740862394625</id>
+    <published>2025-04-20T10:00:18-03:00</published>
+    <updated>2025-04-20T10:00:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-quantum"/>
+    <title>Piercing Quantum</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Piercing_Quantum_2.png?v=1742839164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As menores unidades de partículas são representadas nessa família que apesar de pequena é grandiosa em design e estilo. Os piercings vem com uma corrente com pino para dar um efeito “costurado” nas orelhas e assim garantir um look moderno e arrojado.<br><br><strong><em>Piercing vendido em par.</em></strong><br><br>Altura 17,5 mm / Largura 14mm / Espessura 14mm / Peso 11g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faces</s:tag>
+    <s:tag>piercing</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740862394625</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>10456</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740862394625</id>
+      <title>Prata</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>10457</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740862329089</id>
+    <published>2025-04-20T10:00:17-03:00</published>
+    <updated>2025-04-20T10:00:17-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/earhook-prisma"/>
+    <title>Earhook Prisma</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Earhook_Prisma.png?v=1742839164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os formatos do Earhook Prisma seguem linhas diagonais, que passam a ideia de energia e movimento, transmitindo vitalidade numa peça atemporal e sofisticada que vem com seu brilho extremo em nossos banhos dourado e prata.<br><br>Altura 33mm / Largura 13mm / Espessura 15mm / Peso 10g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earhook</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740862329089</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">469.00</s:price>
+      <s:sku>10454</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740862329089</id>
+      <title>Prata</title>
+      <s:price currency="BRL">469.00</s:price>
+      <s:sku>10455</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740852498689</id>
+    <published>2025-04-20T10:00:16-03:00</published>
+    <updated>2025-04-20T10:00:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-vertice-g"/>
+    <title>Colar Vértice G</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Colar_Vertice_G.png?v=1742839165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Contemplando a estabilidade e solidez como pilares da nossa coleção, o Colar Vértice traz em seu poderoso design a forma das pirâmides representando esse conceito. Em Quartzo Cristal e Quartzo Leitoso as pedras simbolizam a ligação coma tecnologia e refletem esse brilho moderno e contemporâneo que são os traços de identificação dessa coleção.<br></p>
+<p>Altura -mm / Largura -mm / Espessura -mm / Peso 38g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>COLAR</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852498689</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1099.00</s:price>
+      <s:sku>10451</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852498689</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1099.00</s:price>
+      <s:sku>10453</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740852433153</id>
+    <published>2025-04-20T10:00:15-03:00</published>
+    <updated>2025-04-20T10:00:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-vertice"/>
+    <title>Colar Vértice</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Colar_vertice_2d221491-8aca-4624-9edb-d4a2545c785f.png?v=1742839443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            569.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Acompanhando o design da família, os colares se apresentam em duas propostas de tamanho com o Colar Vértice sendo em um estilo minimalista e sofisticado. Sua estrutura de pirâmide acompanha uma pedra em cristal de quartzo e detalhes no banho prata e na versão quartzo leitoso no banho dourado.</p>
+<p><br>Altura -mm / Largura -mm / Espessura -mm / Peso 24g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>COLAR</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852433153</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">569.00</s:price>
+      <s:sku>10450</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852433153</id>
+      <title>Prata</title>
+      <s:price currency="BRL">569.00</s:price>
+      <s:sku>10452</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740852367617</id>
+    <published>2025-04-20T10:00:15-03:00</published>
+    <updated>2025-04-20T10:00:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-prisma"/>
+    <title>Choker Prisma</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Choker_Prisma_2_ef88b20f-0d83-4e66-8c9c-42a7463bf142.png?v=1742839482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uma imponente peça que transmite a verdadeira identidade de força e autoridade, com suas linhas inspiradas em traços de leitura facial a choker mostra que tem um estilo totalmente moderno e futurista. Suas facetas são trabalhadas em polimento de alto brilho que refletem essa identidade da mulher contemporânea, seu sistema de molas se adapta perfeitamente ao colo que se destaca nos banhos nobres em dourado e prata.</p>
+<p><br>Altura 171,5mm/ Largura 155,5mm / Espessura 79mm / Peso 110g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>choker</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852367617</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1999.00</s:price>
+      <s:sku>10448</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852367617</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1999.00</s:price>
+      <s:sku>10449</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740849647873</id>
+    <published>2025-04-20T10:00:14-03:00</published>
+    <updated>2025-04-20T10:00:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-prisma-p"/>
+    <title>Choker Prisma P</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Choker_Prisma_P_2_e495a71f-d309-4786-aede-271a5d2fd658.png?v=1742839520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As delicadas linhas que contornam o colo com seus traços facetadas e reluzentes são a identidade da Choker Prisma, um adorno atemporal que transmite uma energia vibrante e de entusiasmo. Seu formato minimalista permite compor looks sofisticados em um estilo único com a praticidade que o nosso tempo pede.<br><br>Altura 5mm / Largura 130mm/ Espessura 113mm / Peso 28g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>choker</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740849647873</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10446</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740849647873</id>
+      <title>Prata</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10447</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740849549569</id>
+    <published>2025-04-20T10:00:13-03:00</published>
+    <updated>2025-04-20T10:00:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-vertice"/>
+    <title>Brinco Vértice</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Brinco_Vertice_2.png?v=1742839540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            559.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os pontos de encontro das faces das pirâmides nomeiam essa família, representando a<br>estabilidade e solidez da tecnologia sendo pilares de resistência no mundo contemporâneo. Os brincos são como telas que refratam e refletem nos seus cristais o brilho tecnológico do mundo digital, transmitindo beleza e estilo.</p>
+<p><br>Altura 16mm / Largura 16mm / Espessura 10,5mm / Peso 13g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brinco</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740849549569</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">559.00</s:price>
+      <s:sku>10444</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740849549569</id>
+      <title>Prata</title>
+      <s:price currency="BRL">559.00</s:price>
+      <s:sku>10445</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740849516801</id>
+    <published>2025-04-20T10:00:12-03:00</published>
+    <updated>2025-04-20T10:00:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-quantum-p-dourado-e-prata"/>
+    <title>Brinco Quantum P</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Brinco_Quantum_P.png?v=1742839575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            389.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os dados de computador são pequenas partes de um complexo sistema, que unidos se transformam em algo grandioso, usando essa analogia os brincos Quantum P trazem em seus pequenos e minimalista tamanhos, um toque de estilo contemporâneo sendo uma dupla em banho nobre de prata e ouro.<br><br>Altura 10mm / Largura 10mm / Espessura 4,5mm / Peso 17g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brinco</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740849516801</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>10443</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740846797057</id>
+    <published>2025-04-20T10:00:11-03:00</published>
+    <updated>2025-04-20T10:00:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-quantum"/>
+    <title>Brinco Quantum</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Brinco_Quantum_ed4e5ceb-7bd3-4c2e-b2f4-8c3e52b5d16c.png?v=1742839165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As menores unidades de partículas são representadas nessa família que apesar de pequena é grandiosa em design e estilo, usando essa analogia os brincos Quantum trazem em seu design minimalista e geométrico um toque de estilo e grandeza que enriquece o look.</p>
+<p><br>Altura 30mm / Largura 30mm / Espessura 10,8mm / Peso 19g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brinco</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740846797057</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10441</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740846797057</id>
+      <title>Prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10442</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740844175617</id>
+    <published>2025-04-20T10:00:10-03:00</published>
+    <updated>2025-04-20T10:00:10-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-prisma"/>
+    <title>Brinco Prisma</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Brinco_Prisma.png?v=1742839164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os desenhos geométricos que inspiram as peças lembram prismas que refletem e refratam a identidade digital. Os desenhos e padrões criados pelas leituras faciais são representados pelas facetas nesses brincos que adoram o rosto emoldurando em suas linhas retas e diagonais, o contraste singular da beleza orgânica.<br><br>Altura 67mm / Largura 26,5mm / Espessura 7mm / Peso 18g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brinco</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740844175617</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>10439</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740844175617</id>
+      <title>Prata</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>10440</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740844110081</id>
+    <published>2025-04-20T10:00:10-03:00</published>
+    <updated>2025-04-20T10:00:10-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-face"/>
+    <title>Brinco Face</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Brinco_Face_48b53891-37af-4190-ba98-6024be4b0790.png?v=1742839164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A identidade no mundo digital aqui é expressada pela ligação do orgânico e geométrico, numa ideia de transição entre os dois mundos. Os pontos que identificam e diferenciam cada face, expressam essa união entre metal e pedra, num jogo de geométrico e orgânico representando nessa dualidade a identidade de cada pessoa. O cristal de quartzo aliado ao banho nobre de ouro e prata, traz o brilho tecnológico para a peça, emoldurando e iluminando a face.<br><br>Altura 33mm / Largura 21mm / Espessura 10 mm / Peso 12 g<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brinco</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740844110081</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10437</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740844110081</id>
+      <title>Prata</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10438</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740841423105</id>
+    <published>2025-04-20T10:00:09-03:00</published>
+    <updated>2025-04-20T10:00:09-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-prisma"/>
+    <title>Bracelete Prisma</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Bracelete_Prisma.png?v=1742839165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O poderoso bracelete facetado da nossa coleção transmite força e estabilidade, uma peça desenvolvida com sistema de molas que se adaptam a vários tamanhos de pulsos, sendo possível seu uso como pulseira e bracelete tipo três quartos. Seu brilho extremo é apresentado nos nossos banhos nobres em dourado e prata.</p>
+<p><br>Altura 72mm/ Largura 87,3mm / Espessura 17,9mm / Peso 65g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelete</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740841423105</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1299.00</s:price>
+      <s:sku>10435</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740841423105</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1299.00</s:price>
+      <s:sku>10436</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740841324801</id>
+    <published>2025-04-20T10:00:08-03:00</published>
+    <updated>2025-04-20T10:00:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-vertice"/>
+    <title>Anel Vértice</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Anel_Vertice.png?v=1742839165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os pontos de encontro das faces das pirâmides nomeiam essa família, representando a<br>estabilidade e solidez da tecnologia como pilares de resistência no mundo contemporâneo. Com suas pedras em cristal de quartzo, os anéis são robustos e imponentes, transmitem identidade e empoderamento da mulher que tem traços únicos e fortes.</p>
+<p><br>Altura 33mm / Largura 22mm / Espessura 22mm / Peso 20g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anel</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740841324801</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>10433</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740841324801</id>
+      <title>Prata</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>10434</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740839260417</id>
+    <published>2025-04-20T10:00:07-03:00</published>
+    <updated>2025-04-20T10:00:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-face"/>
+    <title>Anel Face</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Anel_Face.png?v=1742839165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A identidade no mundo digital aqui é expressada pela ligação do orgânico e geométrico, numa ideia de transição entre os dois mundos. Os pontos que identificam e diferenciam cada face, expressam essa união entre metal e pedra, num jogo de geométrico e orgânico representando nessa dualidade a identidade de cada pessoa. O cristal de quartzo aliado ao banho nobre em ouro e prata, traz o brilho tecnológico para a peça e iluminando o look.<br><br>Altura 29mm / Largura 21mm / Espessura 32,5mm / Peso 9g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anel</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740839260417</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">469.00</s:price>
+      <s:sku>10431</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740839260417</id>
+      <title>Prata</title>
+      <s:price currency="BRL">469.00</s:price>
+      <s:sku>10432</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740839194881</id>
+    <published>2025-04-20T10:00:06-03:00</published>
+    <updated>2025-04-20T10:00:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/alianca-prisma"/>
+    <title>Aliança Prisma</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Alianca_Prisma_2_244a2d83-b107-4a02-8820-d1b74d9789b3.png?v=1742839165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As linhas usadas para identificação facial se projetam como facetas nas alianças, elas contornam as mãos dando um traço de personalidade e identidade únicos para quem as usa, são peças versáteis e que usadas em conjunto com mix de banhos garantem um look moderno e contemporâneo. As linhas dinâmicas trazem movimento para peça, transmitindo uma sensação de aventura e vitalidade.</p>
+<p><br>Altura 22mm / Largura 22mm / Espessura 5mm / Peso 5g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aliança</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740839194881</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>10429</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740839194881</id>
+      <title>Prata</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>10430</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740836016385</id>
+    <published>2025-04-20T10:00:05-03:00</published>
+    <updated>2025-04-20T10:00:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-prisma"/>
+    <title>Anel Prisma</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Anel_Prisma_2.png?v=1742839164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O anel Prisma captura a essência das linhas diagonais que transmitem movimento e energia. Uma peça que parece se movimentar em volta das mãos e com suas facetas que são reflexo da identidade da coleção, que são tecnologia e modernidade. Seu acabamento em metal nobre e altamente polido ganham mais brilho com os banhos prata e dourado.</p>
+<p><br>Altura 25mm / Largura 22mm / Espessura 28mm / Peso 10g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anel</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740836016385</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10427</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740836016385</id>
+      <title>Prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10428</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684644565249</id>
+    <published>2025-04-12T09:38:28-03:00</published>
+    <updated>2025-04-12T09:38:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-cassia-dourado-1"/>
+    <title>Corrente Cássia</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/250203_AnnaPrata_FB_1980.jpg?v=1738942436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Cássia: um clássico da Anna Prata traz em sua estrutura uma corrente grumet poderosa e elegante que foi um grande sucesso de vendas na Coleção Ânima.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Comprimento 40cm / Largura 9mm / Espessura 3mm / Peso 24g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644565249</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>10267</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644565249</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>10274</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8484986749185</id>
+    <published>2025-04-08T15:26:43-03:00</published>
+    <updated>2025-04-08T15:26:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-lucy-calcedonia-m-dourado"/>
+    <title>Colar Lucy</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0096.png?v=1719859721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 56">
+<div class="layoutArea">
+<div class="column">
+<p><span>O casulo revelando em seu interior o resultado da metamorfose, uma preciosidade iluminada em seu esplendor simbolizado por uma pedra natural lapidada cheia de cor e brilho. O colar Lucy vem com uma Grande pedra lapidada em seu pingente suportado por uma corrente forte e cheia de personalidade. </span></p>
+</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484986749185</id>
+      <title>Calcedônia Dourado</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>9240</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484986749185</id>
+      <title>Cristal Prata</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>9241</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684641190145</id>
+    <published>2025-04-03T08:32:20-03:00</published>
+    <updated>2025-04-03T08:32:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-social-dourado"/>
+    <title>Corrente Casual</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/250203_AnnaPrata_FB_1996.jpg?v=1738942438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Casual: com elos finos e alongados ela se torna muito versátil e moderna em looks que transitam facilmente do dia para a noite.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Altura 75mm / Largura 82mm / Espessura 13mm / Peso 27g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684641190145</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">409.00</s:price>
+      <s:sku>10272</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684641190145</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">409.00</s:price>
+      <s:sku>10275</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8683989074177</id>
+    <published>2025-04-02T17:38:24-03:00</published>
+    <updated>2025-04-02T17:38:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-orquideas-mabe-negro-dourado"/>
+    <title>Brinco Orquideas Mabe</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/9_658f485e-1d02-4acb-aac3-cb752f3b496c.png?v=1738945888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. As pérolas, aliadas à orquídea, trazem elegância e tradição, formando uma combinação perfeita que celebra a beleza singular de cada mulher. Juntas, essas joias contam uma história de união e harmonia, homenageando o início dessa jornada. Os brincos trazem um design exclusivo que alinha modernidade e clássico, num estilo ear cuff que veste as orelhas com as pérolas, ora brancas e ora negras, contornando as orquídeas.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><meta charset="utf-8">
+<span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Altura 38mm / Largura 30mm / Espessura 12,5mm / Peso 10g</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orquidea</s:tag>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683989074177</id>
+      <title>PRATA / PÉROLA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10092</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683989074177</id>
+      <title>DOURADO / PÉROLA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10090</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683989074177</id>
+      <title>DOURADO /  NEGRA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10091</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6551979753521</id>
+    <published>2025-03-21T14:05:51-03:00</published>
+    <updated>2025-03-21T14:05:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-crenca"/>
+    <title>Colar Crença</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/3.png?v=1744995759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p>Colar com pingente de crucifixo em corrente veneziana com extensora.<br></p>
+<p>Peso 6 gramas<br>Pingente<br>Altura 56 mm<br>Largura 40 mm<br>Espessura 6 mm<br></p>
+<p>Corrente <br>Comprimento 50 cm<br>Largura 0,8 mm<br>Espessura 0,8 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Capsula Clamor</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colar fé</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>fé</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551979753521</id>
+      <title>dourado</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>COL-0142</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551979753521</id>
+      <title>prata</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>COL-0142A</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6596034986033</id>
+    <published>2025-03-21T14:02:03-03:00</published>
+    <updated>2025-03-21T14:02:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-maya"/>
+    <title>Bracelete Maya</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/ANNAPRATA4496.jpg?v=1736101265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Bracelete de pirâmides com pedras de mármore em lapidação especial. </p>
+<p data-mce-fragment="1">Especificações:</p>
+<p data-mce-fragment="1">Peça completa: peso 81g | altura 74mm | largura 90mm</p>
+<p data-mce-fragment="1">Pedras: altura 18,9mm | largura 26,4mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>bracelete</s:tag>
+    <s:tag>bracelete dourado</s:tag>
+    <s:tag>COLECAO NOVA</s:tag>
+    <s:tag>DOURADO</s:tag>
+    <s:tag>liberdade</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>shopping</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6596034986033</id>
+      <title>Mármore Ônix</title>
+      <s:price currency="BRL">1499.00</s:price>
+      <s:sku>BRA0042F</s:sku>
+      <s:grams>81</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6596034986033</id>
+      <title>Mármore Bamboo</title>
+      <s:price currency="BRL">1499.00</s:price>
+      <s:sku>BRA0042G</s:sku>
+      <s:grams>81</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7598067941633</id>
+    <published>2025-03-21T14:01:12-03:00</published>
+    <updated>2025-03-21T14:01:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-momentos"/>
+    <title>Colar Momentos</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta15.png?v=1646583898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar Momentos.<br>Colar em metal com textura martelada e detalhes com bolas de metal liso.<br></p>
+<p>Altura: 34 mm<br>Largura: 39 mm<br>Espessura: 15 mm<br>Corrente: 35 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>recomeço</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>shopping</s:tag>
+    <s:tag>textura</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7598067941633</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>COL-0183</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7598067941633</id>
+      <title>Prata</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>COL-0183A</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+</feed>

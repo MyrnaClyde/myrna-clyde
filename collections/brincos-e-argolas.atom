@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/brincos-e-argolas.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-04-20T10:00:17-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740862329089</id>
+    <published>2025-04-20T10:00:17-03:00</published>
+    <updated>2025-04-20T10:00:17-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/earhook-prisma"/>
+    <title>Earhook Prisma</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Earhook_Prisma.png?v=1742839164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os formatos do Earhook Prisma seguem linhas diagonais, que passam a ideia de energia e movimento, transmitindo vitalidade numa peça atemporal e sofisticada que vem com seu brilho extremo em nossos banhos dourado e prata.<br><br>Altura 33mm / Largura 13mm / Espessura 15mm / Peso 10g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earhook</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740862329089</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">469.00</s:price>
+      <s:sku>10454</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740862329089</id>
+      <title>Prata</title>
+      <s:price currency="BRL">469.00</s:price>
+      <s:sku>10455</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740849549569</id>
+    <published>2025-04-20T10:00:13-03:00</published>
+    <updated>2025-04-20T10:00:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-vertice"/>
+    <title>Brinco Vértice</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Brinco_Vertice_2.png?v=1742839540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            559.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os pontos de encontro das faces das pirâmides nomeiam essa família, representando a<br>estabilidade e solidez da tecnologia sendo pilares de resistência no mundo contemporâneo. Os brincos são como telas que refratam e refletem nos seus cristais o brilho tecnológico do mundo digital, transmitindo beleza e estilo.</p>
+<p><br>Altura 16mm / Largura 16mm / Espessura 10,5mm / Peso 13g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brinco</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740849549569</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">559.00</s:price>
+      <s:sku>10444</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740849549569</id>
+      <title>Prata</title>
+      <s:price currency="BRL">559.00</s:price>
+      <s:sku>10445</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740849516801</id>
+    <published>2025-04-20T10:00:12-03:00</published>
+    <updated>2025-04-20T10:00:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-quantum-p-dourado-e-prata"/>
+    <title>Brinco Quantum P</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Brinco_Quantum_P.png?v=1742839575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            389.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os dados de computador são pequenas partes de um complexo sistema, que unidos se transformam em algo grandioso, usando essa analogia os brincos Quantum P trazem em seus pequenos e minimalista tamanhos, um toque de estilo contemporâneo sendo uma dupla em banho nobre de prata e ouro.<br><br>Altura 10mm / Largura 10mm / Espessura 4,5mm / Peso 17g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brinco</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740849516801</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>10443</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740846797057</id>
+    <published>2025-04-20T10:00:11-03:00</published>
+    <updated>2025-04-20T10:00:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-quantum"/>
+    <title>Brinco Quantum</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Brinco_Quantum_ed4e5ceb-7bd3-4c2e-b2f4-8c3e52b5d16c.png?v=1742839165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As menores unidades de partículas são representadas nessa família que apesar de pequena é grandiosa em design e estilo, usando essa analogia os brincos Quantum trazem em seu design minimalista e geométrico um toque de estilo e grandeza que enriquece o look.</p>
+<p><br>Altura 30mm / Largura 30mm / Espessura 10,8mm / Peso 19g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brinco</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740846797057</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10441</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740846797057</id>
+      <title>Prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10442</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740844175617</id>
+    <published>2025-04-20T10:00:10-03:00</published>
+    <updated>2025-04-20T10:00:10-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-prisma"/>
+    <title>Brinco Prisma</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Brinco_Prisma.png?v=1742839164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os desenhos geométricos que inspiram as peças lembram prismas que refletem e refratam a identidade digital. Os desenhos e padrões criados pelas leituras faciais são representados pelas facetas nesses brincos que adoram o rosto emoldurando em suas linhas retas e diagonais, o contraste singular da beleza orgânica.<br><br>Altura 67mm / Largura 26,5mm / Espessura 7mm / Peso 18g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brinco</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740844175617</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>10439</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740844175617</id>
+      <title>Prata</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>10440</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740844110081</id>
+    <published>2025-04-20T10:00:10-03:00</published>
+    <updated>2025-04-20T10:00:10-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-face"/>
+    <title>Brinco Face</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Brinco_Face_48b53891-37af-4190-ba98-6024be4b0790.png?v=1742839164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A identidade no mundo digital aqui é expressada pela ligação do orgânico e geométrico, numa ideia de transição entre os dois mundos. Os pontos que identificam e diferenciam cada face, expressam essa união entre metal e pedra, num jogo de geométrico e orgânico representando nessa dualidade a identidade de cada pessoa. O cristal de quartzo aliado ao banho nobre de ouro e prata, traz o brilho tecnológico para a peça, emoldurando e iluminando a face.<br><br>Altura 33mm / Largura 21mm / Espessura 10 mm / Peso 12 g<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brinco</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740844110081</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10437</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740844110081</id>
+      <title>Prata</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10438</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8683989074177</id>
+    <published>2025-04-02T17:38:24-03:00</published>
+    <updated>2025-04-02T17:38:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-orquideas-mabe-negro-dourado"/>
+    <title>Brinco Orquideas Mabe</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/9_658f485e-1d02-4acb-aac3-cb752f3b496c.png?v=1738945888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. As pérolas, aliadas à orquídea, trazem elegância e tradição, formando uma combinação perfeita que celebra a beleza singular de cada mulher. Juntas, essas joias contam uma história de união e harmonia, homenageando o início dessa jornada. Os brincos trazem um design exclusivo que alinha modernidade e clássico, num estilo ear cuff que veste as orelhas com as pérolas, ora brancas e ora negras, contornando as orquídeas.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><meta charset="utf-8">
+<span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Altura 38mm / Largura 30mm / Espessura 12,5mm / Peso 10g</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orquidea</s:tag>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683989074177</id>
+      <title>PRATA / PÉROLA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10092</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683989074177</id>
+      <title>DOURADO / PÉROLA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10090</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683989074177</id>
+      <title>DOURADO /  NEGRA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10091</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7772637561089</id>
+    <published>2025-03-21T13:58:01-03:00</published>
+    <updated>2025-03-21T13:58:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/argola-onda-p"/>
+    <title>Argola Onda P</title>
+    <s:type>Argolas</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/piercing_944218a4-99e2-422b-88a4-74f0fcd39586.png?v=1723811560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Argolas<br>
+        <strong>Preço: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Argola tamanho P inspirada nas ondas do mar.</p>
+<p>Veja mais detalhes sobre tamanho abaixo ou nas fotos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>argola</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772637561089</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>6092</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772637561089</id>
+      <title>Prata</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>6093</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7829809987841</id>
+    <published>2025-03-14T16:17:25-03:00</published>
+    <updated>2025-03-14T16:17:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-alento-drusa-negra-dourado"/>
+    <title>Brinco Alento</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta25.png?v=1663178053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco tamanho 28mm, folheado no ouro 18k e aplicação de pedras naturais.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>ar</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>Black Anna Prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>brinco pequeno</s:tag>
+    <s:tag>brinco pequeno prata</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula ar</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829809987841</id>
+      <title>Quartzo Verde</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>6252</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829809987841</id>
+      <title>Olho de gato</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>6251</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829809987841</id>
+      <title>Drusa Negra</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>6253</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6627020931121</id>
+    <published>2025-03-14T10:19:54-03:00</published>
+    <updated>2025-03-14T10:19:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-orquidea-pp"/>
+    <title>Brinco Orquidea PP</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0841_4b827407-23d9-44a4-b2aa-480e31e717db.png?v=1718124611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco Orquidea PP<br></p>
+<p>Altura 13,5 cm<br>Largura 17 mm<br>Espessura 4,5 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>COLEÇÃO ORQUÍDEAS</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>orquidea</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6627020931121</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">279.00</s:price>
+      <s:sku>BRI-0137</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6627020931121</id>
+      <title>Prata</title>
+      <s:price currency="BRL">279.00</s:price>
+      <s:sku>BRI-0137A</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025098715393</id>
+    <published>2025-03-14T08:35:38-03:00</published>
+    <updated>2025-03-14T08:35:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-edith-dourado"/>
+    <title>Brinco Edith</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/16_08f07ef7-e915-4b54-9e1f-5f8015a8816d.png?v=1695843942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco feito à mão, disponível no banho ouro 18k ou prata 1000.</p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;">Nossos adornos são livres de níquel e cádmio, para que não prejudiquem a sua saúde e não agridem a sua pele, sendo livre de substâncias tóxicas e cancerígenas. </span></p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anima</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098715393</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>7622</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098715393</id>
+      <title>Prata</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>7623</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/410229997607</id>
+    <published>2025-03-12T14:08:25-03:00</published>
+    <updated>2025-03-12T14:08:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-lila"/>
+    <title>Brinco Lila</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Orquidea_5.png?v=1717007926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #000000;">O Brinco Lila foi feito em metal nobre com folheação de ouro 18k e prata 1000. Livre de níquel.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco pequeno</s:tag>
+    <s:tag>brinco prata</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>lila</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/410229997607</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">219.00</s:price>
+      <s:sku>brinou-290</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/410229997607</id>
+      <title>Prata</title>
+      <s:price currency="BRL">219.00</s:price>
+      <s:sku>brinpr-291</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7772604924161</id>
+    <published>2025-03-12T14:02:24-03:00</published>
+    <updated>2025-03-12T14:02:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-laguna"/>
+    <title>Brinco Laguna</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/brincolagunamodelodourado1.png?v=1736102172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco inspirado nas leves ondas dos lagos, com pedras naturais com lapidação exclusiva Anna Prata. </p>
+<p><strong><em>Informações sobre as peças clique em detalhes</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>brinco com pedra</s:tag>
+    <s:tag>brinco grande</s:tag>
+    <s:tag>capsula fluir</s:tag>
+    <s:tag>capsula água</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>fluir</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772604924161</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6102</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772604924161</id>
+      <title>Prata</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6103</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654167081217</id>
+    <published>2025-03-07T08:52:55-03:00</published>
+    <updated>2025-03-07T08:52:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-vento-dourado"/>
+    <title>Brinco Vento</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/IMG_4454.jpg?v=1734377511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 5">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 5">
+<div class="layoutArea">
+<div class="column">
+<p><span>O vento e o tempo são forças invisíveis, porém poderosas, que esculpem o mundo ao seu redor com precisão e paciência. Seguindo esse conceito trouxemos joias que parecem moldadas por essas ações ao longo de uma longa jornada, movimentos fluidos e leves estão presentes nas peças que circulam o corpo como um toque suave de uma brisa no deserto... os brincos Vento são orgânicos e volumosos e trazem em sua essência esse sentimento. Feitos em metal e banho nobre eles protagonizam o look de forma poderosa como os ventos que do deserto. </span></p>
+<p><span><meta charset="utf-8">
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 64,5mm / Largura 32mm / Espessura 14mm / Peso 27,8g</span></span></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654167081217</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>9794</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654167081217</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>9795</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/1904184950833</id>
+    <published>2025-02-27T08:55:11-03:00</published>
+    <updated>2025-02-27T08:55:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-evolua"/>
+    <title>Brinco Evolua</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0768.png?v=1718124507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #000000;">O Brinco Evolua foi feito em metal nobre com folheação de ouro sem níquel. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>brinco evolua</s:tag>
+    <s:tag>COLECAO NOVA</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>COLEÇÃO ORQUÍDEAS</s:tag>
+    <s:tag>EVOLUA</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>menor</s:tag>
+    <s:tag>orquidea</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/1904184950833</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>brinou-264</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/1904184950833</id>
+      <title>Prata</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>brinpr-265</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7980514935041</id>
+    <published>2025-02-26T13:14:28-03:00</published>
+    <updated>2025-02-26T13:14:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-laco-m-dourado"/>
+    <title>Brinco Laço M</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta4_bd0caacf-ff9f-4ecb-a9a2-6e4d99abec5b.png?v=1680809204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            619.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco assimétrico inspirado em laços. Disponível no banho ouro 18k ou prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Black Anna Prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>laço</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514935041</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">619.00</s:price>
+      <s:sku>7039</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514935041</id>
+      <title>Prata</title>
+      <s:price currency="BRL">619.00</s:price>
+      <s:sku>7040</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7980514869505</id>
+    <published>2025-02-26T13:14:25-03:00</published>
+    <updated>2025-02-26T13:14:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-laco-p-dourado"/>
+    <title>Brinco Laço P</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/editada12.png?v=1736102783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco inspirado em laços, disponível no banho ouro 18k ou prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>laço</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514869505</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>7037</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514869505</id>
+      <title>Prata</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>7038</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8004094853377</id>
+    <published>2025-02-26T13:08:23-03:00</published>
+    <updated>2025-02-26T13:08:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-enamorado-p-dourado"/>
+    <title>Brinco Enamorado</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/8_15a5505c-2c4c-4ff4-be8e-becbb755166e.png?v=1715110619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            779.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Coleção inspirada no Dia dos Namorados.<br><br>Brinco confeccionado artesanalmente em metal nobre banhado a ouro 18k ou prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>conexão</s:tag>
+    <s:tag>DOURADO</s:tag>
+    <s:tag>enamorado</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004094853377</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">779.00</s:price>
+      <s:sku>7264</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8004094853377</id>
+      <title>Prata</title>
+      <s:price currency="BRL">779.00</s:price>
+      <s:sku>7265</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159005638913</id>
+    <published>2025-02-26T12:56:22-03:00</published>
+    <updated>2025-02-26T12:56:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-celine-g-dourado"/>
+    <title>Brinco Celine</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0497.jpg?v=1706277176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            809.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Inspirados nas conchas marinhas que simbolizam os tesouros do mar, o brinco Cline tem um conceito statement e divertido.<br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>concha</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159005638913</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">809.00</s:price>
+      <s:sku>8455</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159005638913</id>
+      <title>Prata</title>
+      <s:price currency="BRL">809.00</s:price>
+      <s:sku>8456</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8040784822529</id>
+    <published>2025-02-26T12:56:22-03:00</published>
+    <updated>2025-02-26T12:56:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-clarice-dourado"/>
+    <title>Brinco Clarice</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/3_e069af56-f156-452a-9ef2-e970a4253897.png?v=1695845636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            949.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco Clarice inspirado em elos feito à mão, disponível no banho dourado com as pedras jaspe cobra, sodalita e quartzo laranja e no banho prata com as pedras sodalita e quartzo laranja.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>clarice</s:tag>
+    <s:tag>drop elo</s:tag>
+    <s:tag>elos</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040784822529</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">949.00</s:price>
+      <s:sku>7796</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040784822529</id>
+      <title>Prata</title>
+      <s:price currency="BRL">949.00</s:price>
+      <s:sku>7797</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7967669780737</id>
+    <published>2025-02-26T11:08:18-03:00</published>
+    <updated>2025-02-26T11:08:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bri-olho-grego-sodalita-c-dourado"/>
+    <title>Brinco Olho Grego</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/colecionadora--sitePrancheta-8.png?v=1736102826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco disponível no banho ouro 18k com pedras naturais com lapidação exclusiva.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>colecionadora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>olho grego</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967669780737</id>
+      <title>Sodalita</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>6922</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967669780737</id>
+      <title>Pérola</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>6923</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7967669780737</id>
+      <title>Turquesa</title>
+      <s:price currency="BRL">369.00</s:price>
+      <s:sku>6924</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/407138762791</id>
+    <published>2025-02-18T14:27:05-03:00</published>
+    <updated>2025-02-18T14:27:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-orquidea"/>
+    <title>Brinco Orquídea</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0876.png?v=1718125444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            439.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Orquídeas</strong> são flores que podem significar <strong>amor</strong><strong>, autoridade, poder, desejo </strong>e<strong>sedução</strong>, dependendo da cor em questão. Feito no metal nobre é produzido manualmente com recortes e sinuosidade. A solda de prata utilizada na peça aumenta a qualidade do produto. O banho é folheado e <em>níquel free</em>.  Produzidos no banho Rosê.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco dourado</s:tag>
+    <s:tag>brinco prata</s:tag>
+    <s:tag>brinco rosê</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>orquidea</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/407138762791</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">439.00</s:price>
+      <s:sku>brinou-309</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/407138762791</id>
+      <title>Prata</title>
+      <s:price currency="BRL">439.00</s:price>
+      <s:sku>brinpr-310</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7609010946305</id>
+    <published>2025-02-14T14:02:21-03:00</published>
+    <updated>2025-02-14T14:02:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-caminho"/>
+    <title>Brinco Caminho</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Designsemnome_9_911ac781-b1f1-476d-aa33-5c0f5a381d72.png?v=1723810458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            679.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco Caminho.<br>Brinco Earjacket em chapa lisa de metal com detalhe em bola  e franjas.<br>Fios com 9 cm de comprimento</p>
+<p>Altura 40 mm<br>Largura 31 mm<br>Espessura 11 mm<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco dourado</s:tag>
+    <s:tag>brinco grande</s:tag>
+    <s:tag>brinco versátil</s:tag>
+    <s:tag>caminho</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7609010946305</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">679.00</s:price>
+      <s:sku>5498</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7609010946305</id>
+      <title>Prata</title>
+      <s:price currency="BRL">679.00</s:price>
+      <s:sku>6889</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102862848257</id>
+    <published>2025-02-12T16:21:18-03:00</published>
+    <updated>2025-02-12T16:21:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-bela-dois-dourado"/>
+    <title>Brinco Bela</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3414_b0313610-4d5a-4859-af4c-eec0d733dff5.jpg?v=1700847814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            309.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">O brinco Bela é uma peça elegante e leve, apresentando </span><span class="OYPEnA text-decoration-none text-strikethrough-none">um canutilho, corrente e uma pérola de água doce na ponta. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102862848257</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>8149</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457115393</id>
+    <published>2025-02-08T11:08:18-03:00</published>
+    <updated>2025-02-08T11:08:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/earhook-kira-dourado"/>
+    <title>Earhook Kira</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/kira.png?v=1734362023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As inconfundíveis manchas do jaguar inspiram a linha Kira, forte e poderosa vem com um design orgânico e clássico, os earhooks em metal no brilho polido trazem o estilo earjacket que abraçam as orelhas como uma fera dominando sua presa numa exaltação sexy e poderosa.<br><br>Altura 23,5mm / Largura 24,5mm<br>Espessura 18mm / Peso total 13g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457115393</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9671</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457115393</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9672</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+</feed>

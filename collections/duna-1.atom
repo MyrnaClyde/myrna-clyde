@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/duna-1.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-03-07T08:52:55-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654167081217</id>
+    <published>2025-03-07T08:52:55-03:00</published>
+    <updated>2025-03-07T08:52:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-vento-dourado"/>
+    <title>Brinco Vento</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/IMG_4454.jpg?v=1734377511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 5">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 5">
+<div class="layoutArea">
+<div class="column">
+<p><span>O vento e o tempo são forças invisíveis, porém poderosas, que esculpem o mundo ao seu redor com precisão e paciência. Seguindo esse conceito trouxemos joias que parecem moldadas por essas ações ao longo de uma longa jornada, movimentos fluidos e leves estão presentes nas peças que circulam o corpo como um toque suave de uma brisa no deserto... os brincos Vento são orgânicos e volumosos e trazem em sua essência esse sentimento. Feitos em metal e banho nobre eles protagonizam o look de forma poderosa como os ventos que do deserto. </span></p>
+<p><span><meta charset="utf-8">
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 64,5mm / Largura 32mm / Espessura 14mm / Peso 27,8g</span></span></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654167081217</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>9794</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654167081217</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>9795</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654167015681</id>
+    <published>2025-03-07T08:42:31-03:00</published>
+    <updated>2025-03-07T08:42:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-ciclo-dourado"/>
+    <title>Bracelete Ciclo</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/8_97dccf2e-0c89-400f-b3e7-b5adcf7b80c6.png?v=1734380084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 2">
+<div class="layoutArea">
+<div class="column">
+<p><span>O ciclo da vida, tal como o tempo, é moldado pelas forças da natureza e do destino. E na família Ciclo representamos um processo de transformação da vida atravessando fases de crescimento, mudança e evolução. Através do seu design limpo e audacioso, mostramos o caminho dessa jornada com altos e baixos e obstáculos ao longo do tempo, porém refletindo com uma luz única revelando seu valor imensurável. O imponente bracelete que segue a linha minimalista e sofisticada, traz um efeito bold e super robusto que enriquece qualquer produção. </span></p>
+<p><span><meta charset="utf-8">
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 84mm / Largura 94mm / Espessura 49,5mm / Peso 92g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654167015681</id>
+      <title>DOURADA</title>
+      <s:price currency="BRL">1499.00</s:price>
+      <s:sku>9792</s:sku>
+      <s:grams>93</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654167015681</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">1499.00</s:price>
+      <s:sku>9793</s:sku>
+      <s:grams>93</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654482866433</id>
+    <published>2024-12-16T20:10:21-03:00</published>
+    <updated>2024-12-16T20:10:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/argola-ciclo-dourado"/>
+    <title>Tornozeleira Ciclo</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/46.png?v=1734356327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 3">
+<div class="layoutArea">
+<div class="column">
+<p><span>O ciclo da vida, tal como o tempo, é moldado pelas forças da natureza e do destino. E na família Ciclo representamos um processo de transformação da vida atravessando fases de crescimento, mudança e evolução. Através do seu design limpo e audacioso, mostramos o caminho dessa jornada com altos e baixos e obstáculos ao longo do tempo, porém refletindo com uma luz única revelando seu valor imensurável. Uma peça statement que aliada ao couro natural metalizado traz um ar sexy e sofisticado em sua produção. </span></p>
+<p><span><meta charset="utf-8">
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 29mm / Largura 86,5mm / Espessura 76mm / Peso 120g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654482866433</id>
+      <title>DOURADA</title>
+      <s:price currency="BRL">1299.00</s:price>
+      <s:sku>9839</s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654482866433</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">1299.00</s:price>
+      <s:sku>9840</s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654480703745</id>
+    <published>2024-12-16T20:10:19-03:00</published>
+    <updated>2024-12-16T20:10:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/prendedor-ciclo-dourado"/>
+    <title>Prendedor Ciclo Dourado</title>
+    <s:type>Prendedores</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Design_sem_nome_4.png?v=1734357329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Prendedores<br>
+        <strong>Preço: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 2">
+<div class="layoutArea">
+<div class="column">
+<p><span>O ciclo da vida, tal como o tempo, é moldado pelas forças da natureza e do destino. E na família Ciclo representamos um processo de transformação da vida atravessando fases de crescimento, mudança e evolução. Através do seu design limpo e audacioso, mostramos o caminho dessa jornada com altos e baixos e obstáculos ao longo do tempo, porém refletindo com uma luz única revelando seu valor imensurável. Seguindo a tendência de acessórios de cabeça o prendedor Ciclo, traz esse design arrojado em sua essência transmitindo modernidade e sofisticação. </span></p>
+<p><span><meta charset="utf-8"> <span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 49mm / Largura 72,5mm / Espessura 41,5mm / Peso 55,4g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654480703745</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>9835</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654480277761</id>
+    <published>2024-12-16T20:10:18-03:00</published>
+    <updated>2024-12-16T20:10:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/argola-solare-dourado"/>
+    <title>Argola Solare</title>
+    <s:type>Argolas</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/2_27ec25cb-3eb3-4ffa-ab8c-60d96c5de00f.png?v=1734382519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Argolas<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 6" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span>Assim como uma joia se revela em sua mais pura essência após ser cuidadosamente trabalhada, o sol inclemente e o tempo paciente transformam as paisagens desérticas em espetáculos de brilho e cor. No deserto, com seu sol e o tempo, aprendemos que a verdadeira preciosidade está na persistência e na capacidade de transformação. Como um verdadeiro sol trazemos no design da argola </span><span>Solare </span><span>um efeito de brilho intenso e movimentos em seu trabalho manual em crochê, que lembram raios escaldantes em meio ao deserto que recebe e abraça o sol ao longo do dia. </span></p>
+<p><span><meta charset="utf-8"> <span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 76mm / Largura 76mm / Espessura 2mm / Peso 42g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654480277761</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>9833</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654480277761</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>9834</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654478934273</id>
+    <published>2024-12-16T20:10:16-03:00</published>
+    <updated>2024-12-16T20:10:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/argola-sopro-dourado"/>
+    <title>Argola Sopro</title>
+    <s:type>Argolas</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Design_sem_nome_6.png?v=1734381638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Argolas<br>
+        <strong>Preço: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Página 3">
+<div class="layoutArea">
+<div class="column">
+<p><span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">O movimento dos ventos, como um sopro que circula pelo ar, ajuda a transformar a paisagem do deserto, move cada grão de areia e cria novas perspectivas... esse fôlego é o que nos rege e da força em nossa jornada e transformação ao longo da vida, a família </span></span></span><span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Sopro </span></span></span><span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">traz isso em seus formatos robustos e curvos como um forte vento capaz de mudar tudo. Seu design é forte como esse sopro deve ser o suficiente para mudar tudo porém dentro do seu tempo... usando uma técnica de eletroformação, garantimos uma peça leve, moderna e atemporal aliada ao nosso nobre banho dourado e prata.</span></span></span></p>
+<p><span><meta charset="utf-8"> <span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 54mm / Largura 21mm / Espessura 53mm / Peso 34g</span></span></span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654478934273</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">799.00</s:price>
+      <s:sku>9827</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654478934273</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">799.00</s:price>
+      <s:sku>9828</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654189560065</id>
+    <published>2024-12-16T20:10:15-03:00</published>
+    <updated>2024-12-16T20:10:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-vento-dourado"/>
+    <title>Choker Vento</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/6_a18e2401-bca8-43cd-b877-f348dcf5105d.png?v=1734377630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            2599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 5">
+<div class="layoutArea">
+<div class="column">
+<p><span>O vento e o tempo são forças invisíveis, porém poderosas, que esculpem o mundo ao seu redor com precisão e paciência. Seguindo esse conceito trouxemos joias que parecem moldadas por essas ações ao longo de uma longa jornada, movimentos fluidos e leves estão presentes nas peças que circulam o corpo como um toque suave de uma brisa no deserto... a choker Vento tem formas orgânicas e volumosas trazendo esse sentimento. Feitos em metal e banho nobre ela envolve e circula o colo da mulher de forma poderosa como os ventos do deserto. </span></p>
+<p><span><meta charset="utf-8">
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 153mm / Largura 157mm / Espessura 56mm / Peso 100g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654189560065</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">2599.00</s:price>
+      <s:sku>9807</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654189560065</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">2599.00</s:price>
+      <s:sku>10527</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654180778241</id>
+    <published>2024-12-16T20:10:14-03:00</published>
+    <updated>2024-12-16T20:10:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-ciclo-dourado"/>
+    <title>Choker Ciclo</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/9_9cee57d6-75ca-4af8-bb99-cba712de52ce.png?v=1734379852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            2579.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 3">
+<div class="layoutArea">
+<div class="column">
+<p><span>O ciclo da vida, tal como o tempo, é moldado pelas forças da natureza e do destino. E na família Ciclo representamos um processo de transformação da vida atravessando fases de crescimento, mudança e evolução. Através do seu design limpo e audacioso, mostramos o caminho dessa jornada com altos e baixos e obstáculos ao longo do tempo, porém refletindo com uma luz única revelando seu valor imensurável. Minimalista e com muita personalidade, a Choker Ciclo traz um design clean e elegante em seu acabamento altamente polido em metal e banhos nobre em dourado e prata. </span></p>
+<p><span><meta charset="utf-8"> <span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 154mm / Largura 176mm / Espessura 36mm / Peso 155g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654180778241</id>
+      <title>DORADO</title>
+      <s:price currency="BRL">2579.00</s:price>
+      <s:sku>9802</s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654180778241</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">2579.00</s:price>
+      <s:sku>9803</s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654180450561</id>
+    <published>2024-12-16T20:10:13-03:00</published>
+    <updated>2024-12-16T20:10:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-sopro-dourado"/>
+    <title>Piercing Sopro</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Design_sem_nome_6.png?v=1734381638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            459.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 4">
+<div class="layoutArea">
+<div class="column">
+<p><span>O movimento dos ventos, como um sopro que circula pelo ar, ajuda a transformar a paisagem do deserto, movimenta cada grão de areia e cria novas perspectivas... esse fôlego é o que nos rege e da força em nossa jornada e transformação ao longo da vida, a família </span><span>Sopro </span><span>traz isso em seus formatos robustos e curvos como um forte vento capaz de mudar tudo. Seu design é forte como esse sopro deve ser o suficiente para mudar tudo porém dentro do seu tempo... feito em metal garantimos uma peça leve, moderna e atemporal aliado ao nosso nobre banho dourado e prata. </span></p>
+<p><span><meta charset="utf-8">
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 29mm / Largura 20,5mm / Espessura 32mm / Peso 22g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654180450561</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">459.00</s:price>
+      <s:sku>9800</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654180450561</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">459.00</s:price>
+      <s:sku>9801</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654176026881</id>
+    <published>2024-12-16T20:10:11-03:00</published>
+    <updated>2024-12-16T20:10:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-miragem-dourado"/>
+    <title>Piercing Miragem</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/11_7931923d-2cd8-4884-95a0-b94a64feb3ed.png?v=1734377467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p><span>Capturando a essência mágica e misteriosa dos desertos, o piercing </span><span>Miragem</span><span>, traz em seu design a ideia das ondas de calor que provoca movimentos que se parecem água na areia, uma esperança em meio a uma jornada árdua e cansativa ao longo do tempo. Trazendo esse refresco de modernidade e tendência, ele é produzido em metal e banho nobres em dourado e prata, com seu acabamento polido revela uma possa imponente e sedutora. <br><br><meta charset="utf-8"> <span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 34mm / Largura 33mm / Espessura 18mm / Peso 15g</span></span></span><br></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654176026881</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9798</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654176026881</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9799</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654175961345</id>
+    <published>2024-12-16T20:10:10-03:00</published>
+    <updated>2024-12-16T20:10:10-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/earhook-ciclo-dourado"/>
+    <title>Earhook Ciclo</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/5_efd0abd7-461a-4d11-b21b-035ebbac49a8.png?v=1734376846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p><span>O ciclo da vida, tal como o tempo, é moldado pelas forças da natureza e do destino. E na família Ciclo representamos um processo de transformação da vida atravessando fases de crescimento, mudança e evolução. Através do seu design limpo e audacioso, mostramos o caminho dessa jornada com altos e baixos e obstáculos ao longo do tempo, porém refletindo com uma luz única revelando seu valor imensurável. O earhook é uma peça atemporal com design e estilos únicos, feito em metal e banho nobre ele garante destaque e beleza a mulher Anna Prata. </span><br></p>
+<p><span><meta charset="utf-8">
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 46,5mm / Largura 33,5mm / Espessura 29mm / Peso 42,5g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654175961345</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>9796</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654175961345</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>9797</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654164525313</id>
+    <published>2024-12-16T20:10:06-03:00</published>
+    <updated>2024-12-16T20:10:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-mutavel-dourado"/>
+    <title>Bracelete Mutável</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/3_762319bb-6f3b-4a17-8a4b-b5fe96624720.png?v=1734381242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 5">
+<div class="layoutArea">
+<div class="column">
+<p><span>As areias do deserto são estão em constante mudança, moldadas pelo vento e pelo tempo. Elas revelam suas diversas facetas a cada momento, brilhando com a luz do sol em nuances douradas em meio a imensidão. Onde ontem havia uma duna majestosa, hoje pode haver um vale, refletindo essa natureza efêmera da ação do tempo trazemos o bracelete </span><span>Mutável</span><span>, com design minimalista e bold ao mesmo tempo numa perfeita harmonia nos mostrando a beleza da contínua transformação e preciosidade das mudanças. </span></p>
+<p><span><meta charset="utf-8">
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 56,5mm / Largura 76mm / Espessura 54mm / Peso 65g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654164525313</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">1599.00</s:price>
+      <s:sku>9790</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654164525313</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">1599.00</s:price>
+      <s:sku>9791</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654164099329</id>
+    <published>2024-12-16T20:10:04-03:00</published>
+    <updated>2024-12-16T20:10:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-sopro-dourado"/>
+    <title>Bracelete Sopro</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Design_sem_nome_8.png?v=1734381470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 4" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span>O movimento dos ventos, como um sopro que circula pelo ar, ajuda a transformar a paisagem do deserto, movimenta cada grão de areia e cria novas perspectivas... esse fôlego é o que nos rege e da força em nossa jornada e transformação ao longo da vida, a família </span><span>Sopro </span><span>traz isso em seus formatos robustos e curvos como um forte vento capaz de mudar tudo. Seu design é forte como esse sopro deve ser o suficiente para mudar tudo porém dentro do seu tempo, usando a técnica de eletroformação, garantimos uma peça leve, moderna e atemporal aliado ao nosso nobre banho dourado e prata. </span></p>
+<p><span><meta charset="utf-8"> <span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 77mm / Largura 87mm / Espessura 27mm / Peso 44g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654164099329</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">1599.00</s:price>
+      <s:sku>9788</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654164099329</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">1599.00</s:price>
+      <s:sku>9789</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654164033793</id>
+    <published>2024-12-16T20:10:03-03:00</published>
+    <updated>2024-12-16T20:10:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/pulseira-miragem-dourado"/>
+    <title>Pulseira de Mão Miragem</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/10_7a1091f5-3c89-4bf3-9f97-dd16657d8a04.png?v=1734382094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capturando a essência mágica e misteriosa dos desertos, a pulseira de mão Miragem, traz em seu design a ideia das ondas de calor que provoca movimentos que se parecem água na areia, uma esperança em meio a uma jornada árdua e cansativa ao longo do tempo. Trazendo esse refresco de modernidade e tendência, ela é produzida em metal e banho nobres em dourado e prata, com seu acabamento polido revela uma peça imponente e sedutora.<br><br>Altura 107mm / Largura 89mm<br>Espessura 61mm / Peso 30g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654164033793</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>9786</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654164033793</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>9787</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654157775105</id>
+    <published>2024-12-16T20:10:02-03:00</published>
+    <updated>2024-12-16T20:10:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-mutavel-dourado"/>
+    <title>Anel Mutável</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Design_sem_nome_10_1a9b05b9-6da9-4a12-91bc-567d7baba0f3.png?v=1734381242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 4">
+<div class="layoutArea">
+<div class="column">
+<p><span>As areias do deserto são estão em constante mudança, moldadas pelo vento e pelo tempo. Elas revelam suas diversas facetas a cada momento, brilhando com a luz do sol em nuances douradas em meio a imensidão. Onde ontem havia uma duna majestosa, hoje pode haver um vale, refletindo essa natureza efêmera da ação do tempo trazemos o anel </span><span>Mutável</span><span>, com design minimalista e bold ao mesmo tempo numa perfeita harmonia nos mostrando a beleza da contínua transformação e preciosidade das mudanças. </span></p>
+<p><span><meta charset="utf-8">
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 29mm / Largura 29mm / Espessura 31mm / Peso 11,8g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anel</s:tag>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654157775105</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>9784</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654157775105</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>9785</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654157709569</id>
+    <published>2024-12-16T20:10:00-03:00</published>
+    <updated>2024-12-16T20:10:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-ciclo-dourado"/>
+    <title>Anel Ciclo</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/7_6884ca42-29ea-42c5-8e79-b5668e0c6936.png?v=1734380409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            359.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Página 2" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">O ciclo da vida, tal como o tempo, é moldado pelas forças da natureza e do destino. E na família Ciclo representamos um processo de transformação da vida atravessando fases de crescimento, mudança e evolução. Através do seu design limpo e audacioso, mostramos o caminho dessa jornada com altos e baixos e obstáculos ao longo do tempo, porém refletindo com uma luz única revelando seu valor imensurável. O Anel Ciclo traz em seu design minimalista e moderno um estilo único que ornamenta as mãos valorizadas pela sua produção em metal e banhos nobres em dourado e prata.</span></span></span></p>
+<p><span><meta charset="utf-8"> <span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 32mm / Largura 30mm / Espessura 18,5mm / Peso 10,5g</span></span></span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anel</s:tag>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654157709569</id>
+      <title>DOURADA</title>
+      <s:price currency="BRL">359.00</s:price>
+      <s:sku>9782</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654157709569</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">359.00</s:price>
+      <s:sku>9783</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

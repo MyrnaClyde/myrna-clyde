@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/capsula-clamor.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-03-21T14:05:51-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6551979753521</id>
+    <published>2025-03-21T14:05:51-03:00</published>
+    <updated>2025-03-21T14:05:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-crenca"/>
+    <title>Colar Crença</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/3.png?v=1744995759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p>Colar com pingente de crucifixo em corrente veneziana com extensora.<br></p>
+<p>Peso 6 gramas<br>Pingente<br>Altura 56 mm<br>Largura 40 mm<br>Espessura 6 mm<br></p>
+<p>Corrente <br>Comprimento 50 cm<br>Largura 0,8 mm<br>Espessura 0,8 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Capsula Clamor</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colar fé</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>fé</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551979753521</id>
+      <title>dourado</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>COL-0142</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551979753521</id>
+      <title>prata</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>COL-0142A</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6551936598065</id>
+    <published>2025-02-27T09:32:20-03:00</published>
+    <updated>2025-02-27T09:32:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/gargantilha-mateus-6-13"/>
+    <title>Gargantilha Mateus 6:13</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Designsemnome_ae9f9f76-050d-4bdd-879d-39cbb55d4ad0.png?v=1744995778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            319.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gargantilha escrito Livrai-me de todo mal<br><br>Peso 9 gramas<br>Altura 12,5 cm<br>Largura 12,5 cm <br>Espessura 1,7 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula clamor</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>dourado</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>gargantilha</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>livrai me</s:tag>
+    <s:tag>mateus</s:tag>
+    <s:tag>prata</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551936598065</id>
+      <title>dourado</title>
+      <s:price currency="BRL">319.00</s:price>
+      <s:sku>COL-0145</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551936598065</id>
+      <title>prata</title>
+      <s:price currency="BRL">319.00</s:price>
+      <s:sku>COL-0145A</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/4519253999665</id>
+    <published>2025-02-26T14:44:23-03:00</published>
+    <updated>2025-02-26T14:44:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-passaros-p"/>
+    <title>Colar Pássaros P</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Colar_passaros_pequeno_e_grande_19204113-abbc-4acb-b196-c11abec06515.jpg?v=1744995844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            339.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+Colar Pássaros P</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A Criação</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula clamor</s:tag>
+    <s:tag>capsula passaro</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>colar passaro</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4519253999665</id>
+      <title>Prata</title>
+      <s:price currency="BRL">339.00</s:price>
+      <s:sku>colpr-469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4519253999665</id>
+      <title>Ouro</title>
+      <s:price currency="BRL">339.00</s:price>
+      <s:sku>colou-470</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/4519255670833</id>
+    <published>2025-02-04T15:14:59-03:00</published>
+    <updated>2025-02-04T15:14:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-passaros-g"/>
+    <title>Colar Pássaros M</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/image_f937f0da-0167-4d1c-ab00-17d997a7a012.jpg?v=1744995801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Colar Pássaros M</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A Criação</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula clamor</s:tag>
+    <s:tag>capsula passaro</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>colar passaro</s:tag>
+    <s:tag>colar prata</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4519255670833</id>
+      <title>Prata</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>colpr-467</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4519255670833</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>colou-468</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6551986143281</id>
+    <published>2023-05-08T15:01:01-03:00</published>
+    <updated>2023-05-08T15:01:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-graca"/>
+    <title>Colar Graça</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/5.png?v=1717008009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar em corrente veneziana 0,8mm diamantada com pingente Pombinha e Gratidão </p>
+<p>Peso 12 gramas<br>Pingente<br>Altura 12,5 mm<br>Largura 12,5 mm<br>Espessura 3 mm<br></p>
+<p>Corrente <br>Comprimento 45 cm<br>Largura 0,8 mm<br>Espessura 0,8 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula clamor</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>colar</s:tag>
+    <s:tag>colar passaro</s:tag>
+    <s:tag>crença</s:tag>
+    <s:tag>dourado</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>graditao</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>passaro</s:tag>
+    <s:tag>prata</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551986143281</id>
+      <title>dourado</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>COL-0141</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551986143281</id>
+      <title>prata</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>COL-0141A</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

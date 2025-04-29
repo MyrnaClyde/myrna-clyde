@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-recomeco.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-03-21T14:01:12-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7598067941633</id>
+    <published>2025-03-21T14:01:12-03:00</published>
+    <updated>2025-03-21T14:01:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-momentos"/>
+    <title>Colar Momentos</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta15.png?v=1646583898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar Momentos.<br>Colar em metal com textura martelada e detalhes com bolas de metal liso.<br></p>
+<p>Altura: 34 mm<br>Largura: 39 mm<br>Espessura: 15 mm<br>Corrente: 35 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>recomeço</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>shopping</s:tag>
+    <s:tag>textura</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7598067941633</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>COL-0183</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7598067941633</id>
+      <title>Prata</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>COL-0183A</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7608980013313</id>
+    <published>2025-03-12T14:22:31-03:00</published>
+    <updated>2025-03-12T14:22:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/gargantilha-coragem"/>
+    <title>Gargantilha Coragem</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta9_97078078-210c-430f-833d-388920cb4eab.png?v=1736102297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gargantilha nos banhos prata ou dourado, com pingente de efeito martelado e detalhe de pedra natural.</p>
+<p>Mais informações clique em detalhes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>coragem</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>recomeço</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>shopping</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608980013313</id>
+      <title>Howlita/Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>COL-0180</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608980013313</id>
+      <title>Quartzo Goiaba/Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>COL-0180B</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608980013313</id>
+      <title>Angelita/Prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>COL-0180C</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7598118240513</id>
+    <published>2025-01-21T08:51:23-03:00</published>
+    <updated>2025-01-21T08:51:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/alianca-sentimentos-prata"/>
+    <title>Aliança Sentimentos Prata</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/lookbookPrancheta-10.png?v=1736101488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Aliança prata com detalhes em bola de metal liso, disponivel em 5(cinco) tamanhos: 14, 16, 18, 20 e 22.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aliança</s:tag>
+    <s:tag>aneis</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>bolas</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>recomeço</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>shopping</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7598118240513</id>
+      <title>Aro 14</title>
+      <s:price currency="BRL">159.00</s:price>
+      <s:sku>ANE-0147A</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7598118240513</id>
+      <title>Aro 16</title>
+      <s:price currency="BRL">159.00</s:price>
+      <s:sku>ANE-0148A</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7598118240513</id>
+      <title>Aro 18</title>
+      <s:price currency="BRL">159.00</s:price>
+      <s:sku>ANE-0149A</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7598118240513</id>
+      <title>Aro 20</title>
+      <s:price currency="BRL">159.00</s:price>
+      <s:sku>ANE-0150A</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7598118240513</id>
+      <title>Aro 22</title>
+      <s:price currency="BRL">159.00</s:price>
+      <s:sku>ANE-0151A</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7597697433857</id>
+    <published>2025-01-04T18:13:33-03:00</published>
+    <updated>2025-01-04T18:13:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-destino"/>
+    <title>Colar Destino</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/2_e32be103-f54c-4993-893a-26ac4a53bde0.png?v=1736100834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar Destino.<br>Colar em Metal com cravação de pedra e detalhe com bolas de metal liso.</p>
+<p>Altura: 34 mm<br>Largura: 39 mm<br>Espessura: 15 mm<br>Comprimento: 40 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>colar</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>pedra</s:tag>
+    <s:tag>recomeço</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>shopping</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7597697433857</id>
+      <title>Howlita/Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>COL-0182</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7597697433857</id>
+      <title>Quartzo Goiaba/Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>COL-0182B</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7597697433857</id>
+      <title>Angelita/Prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>COL-0182A</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+</feed>

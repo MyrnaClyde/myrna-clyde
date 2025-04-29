@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/essenciais-voltando-a-essencia.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-04-12T09:38:28-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684644565249</id>
+    <published>2025-04-12T09:38:28-03:00</published>
+    <updated>2025-04-12T09:38:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-cassia-dourado-1"/>
+    <title>Corrente Cássia</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/250203_AnnaPrata_FB_1980.jpg?v=1738942436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Cássia: um clássico da Anna Prata traz em sua estrutura uma corrente grumet poderosa e elegante que foi um grande sucesso de vendas na Coleção Ânima.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Comprimento 40cm / Largura 9mm / Espessura 3mm / Peso 24g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644565249</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>10267</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644565249</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>10274</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684641190145</id>
+    <published>2025-04-03T08:32:20-03:00</published>
+    <updated>2025-04-03T08:32:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-social-dourado"/>
+    <title>Corrente Casual</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/250203_AnnaPrata_FB_1996.jpg?v=1738942438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Casual: com elos finos e alongados ela se torna muito versátil e moderna em looks que transitam facilmente do dia para a noite.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Altura 75mm / Largura 82mm / Espessura 13mm / Peso 27g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684641190145</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">409.00</s:price>
+      <s:sku>10272</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684641190145</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">409.00</s:price>
+      <s:sku>10275</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8683989074177</id>
+    <published>2025-04-02T17:38:24-03:00</published>
+    <updated>2025-04-02T17:38:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-orquideas-mabe-negro-dourado"/>
+    <title>Brinco Orquideas Mabe</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/9_658f485e-1d02-4acb-aac3-cb752f3b496c.png?v=1738945888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. As pérolas, aliadas à orquídea, trazem elegância e tradição, formando uma combinação perfeita que celebra a beleza singular de cada mulher. Juntas, essas joias contam uma história de união e harmonia, homenageando o início dessa jornada. Os brincos trazem um design exclusivo que alinha modernidade e clássico, num estilo ear cuff que veste as orelhas com as pérolas, ora brancas e ora negras, contornando as orquídeas.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><meta charset="utf-8">
+<span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Altura 38mm / Largura 30mm / Espessura 12,5mm / Peso 10g</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orquidea</s:tag>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683989074177</id>
+      <title>PRATA / PÉROLA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10092</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683989074177</id>
+      <title>DOURADO / PÉROLA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10090</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683989074177</id>
+      <title>DOURADO /  NEGRA</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10091</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684644630785</id>
+    <published>2025-03-12T07:20:46-03:00</published>
+    <updated>2025-03-12T07:20:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-artistica-dourado"/>
+    <title>Corrente Clássica</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Classica.png?v=1738943580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            559.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Clássica: a alfaiataria foi o norte para escolhermos essa corrente que pode acompanhar looks variados e sofisticados.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Comprimento 38cm / Largura 19mm / Espessura 3,5mm / Peso 90g / 10cm extensora</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644630785</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">559.00</s:price>
+      <s:sku>10131</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644630785</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">559.00</s:price>
+      <s:sku>10269</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684644729089</id>
+    <published>2025-03-12T07:20:43-03:00</published>
+    <updated>2025-03-12T07:20:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-cacto-dourado"/>
+    <title>Corrente Cacto</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Cacto_2_61e42fa6-7779-43d3-8b58-51056cd9655c.png?v=1745326450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Cacto: no auge da tendência de correntarias pesadas surge a corrente Cacto com elos de “espinhos” que se torna um sucesso instantâneo que volta em homenagem a essa ligação que trazemos da nossa essência Anna Prata.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><meta charset="utf-8"> <span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Altura 21,5mm / Largura 16mm / Espessura 7mm / Peso 3,25g</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644729089</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">1299.00</s:price>
+      <s:sku>10276</s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644729089</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">1299.00</s:price>
+      <s:sku>10268</s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8682855891201</id>
+    <published>2025-03-11T10:32:23-03:00</published>
+    <updated>2025-03-11T10:32:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/cinto-orquidea-essencia-prata"/>
+    <title>Cinto Orquidea Essência Dourado</title>
+    <s:type>Cintos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/2_0a3b5212-8ba7-4208-8d4c-72636c83665d.png?v=1738947129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Cintos<br>
+        <strong>Preço: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. E para arrematar nossa coleção os cintos Orquídea Essência trazem, em suas cores clássicas e de fácil combinação nos mais variados looks, um mix de sintético com couro natural, o nosso símbolo da orquídea em um metal extremamente trabalhado em polimento e brilho em nosso metal e banho nobre nas cores dourado e prata.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Altura 70mm / Largura variada / Espessura 13 mm / Peso 128g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orquidea</s:tag>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855891201</id>
+      <title>CARAMELO / P</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10193</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855891201</id>
+      <title>CARAMELO / M</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10194</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855891201</id>
+      <title>CARAMELO / G</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10195</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855891201</id>
+      <title>PRETO / P</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10190</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855891201</id>
+      <title>PRETO / M</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10191</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855891201</id>
+      <title>PRETO / G</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10192</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684001788161</id>
+    <published>2025-02-18T09:32:24-03:00</published>
+    <updated>2025-02-18T09:32:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-orquidea-essencia-dourado"/>
+    <title>Colar Orquidea Essência</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Colar_essencia.png?v=1738941053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. E pensando nisso trouxemos o Colar Orquídea Essência, exaltando nossa personalidade a fim de adornar o colo das mulheres de todos os estilos.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><meta charset="utf-8">
+<span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Altura 21,5mm / Largura 16mm / Espessura 7mm / Peso 3,25g</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orquidea</s:tag>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684001788161</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10270</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684001788161</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10273</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8687420342529</id>
+    <published>2025-02-10T23:29:23-03:00</published>
+    <updated>2025-02-10T23:29:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-correntesa-dourado"/>
+    <title>Corrente Correntesa</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Correntesa_5c1ac7c1-6e9c-4987-854f-7a8c135db98e.png?v=1738943496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-center para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Correntesa: vinda da coleção Água esse grande sucesso de vendas está de volta com seu estilo bold e poderoso ela compõe diversos looks dos mais ousados ao básico.</span></p>
+<p class="cvGsUA direction-ltr align-center para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Comprimento 40cm / Largura 8mm / Espessura 8mm / Peso 43g / 10cm extensora</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8687420342529</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>10210</s:sku>
+      <s:grams>44</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684643188993</id>
+    <published>2025-02-10T23:29:21-03:00</published>
+    <updated>2025-02-10T23:29:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-convencional-dourado"/>
+    <title>Corrente Elegante</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Elegante.png?v=1738941054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Elegante: o estilo mais sofisticado e sóbrio vem nessa corrente de malha metálica protagonizando produções de looks contemporâneos e chic.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><meta charset="utf-8">
+<span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Comprimento 40cm / Largura 10mm / Espessura 3,5mm / Peso 33g / 10 cm extensora</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684643188993</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>10127</s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684643188993</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>10128</s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684643123457</id>
+    <published>2025-02-10T23:29:21-03:00</published>
+    <updated>2025-02-10T23:29:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-realista-dourado"/>
+    <title>Corrente Criativa</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/250203_AnnaPrata_FB_1988.jpg?v=1738942441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Criativa: O estilo ousado e arrojado dessa corrente contempla a criatividade em looks que são divertidos e inusitados, traz um toque estiloso em seus elos geométricos e com efeito bold.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><meta charset="utf-8">
+<span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Comprimento 46cm / Largura 7mm / Espessura 4mm / Peso 45g / 10cm extensora</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684643123457</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>10125</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684643123457</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>10126</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684641288449</id>
+    <published>2025-02-10T23:29:21-03:00</published>
+    <updated>2025-02-10T23:29:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-investigativa-dourado"/>
+    <title>Corrente Romantica</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Romantica.png?v=1738941053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Romântica: seus pequenos e delicados elos compõe em produções de estilo leve e descontraído.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><meta charset="utf-8">
+<span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Comprimento 44cm / Largura 5mm / Espessura 1mm / Peso 10g / 8cm extensora</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684641288449</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>10123</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684641288449</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>10124</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8683993104641</id>
+    <published>2025-02-10T23:29:19-03:00</published>
+    <updated>2025-02-10T23:29:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-orquideas-mabe-dourado"/>
+    <title>Colar Orquideas Mabe</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/15_3856e399-6243-495f-90cd-74876030d289.png?v=1744993192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. As pérolas, aliadas à orquídea, trazem elegância e tradição, formando uma combinação perfeita que celebra a beleza singular de cada mulher. Juntas, essas joias contam uma história de união e harmonia, homenageando o início dessa jornada. Nosso colar alinha o clássico das pérolas, ora brancas e ora negras, ao nosso ícone da orquídea em metal e banho nobre disponível nas cores prata e dourado.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><meta charset="utf-8">
+<span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Altura 20,5mm / Largura 29,5mm / Espessura 10,5mm / Peso 45g</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orquidea</s:tag>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683993104641</id>
+      <title>DOURADO / PÉROLA</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>10098</s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683993104641</id>
+      <title>PRATA / PÉROLA</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>10097</s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683993104641</id>
+      <title>DOURADO / NEGRA</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>10096</s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8683823071489</id>
+    <published>2025-02-10T23:29:19-03:00</published>
+    <updated>2025-02-10T23:29:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-orquideas-mabe-negra-dourado"/>
+    <title>Anel Orquideas Mabe</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/11_94055e15-64b0-4420-9d08-d11a38c25bda.png?v=1744993204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. As pérolas, aliadas à orquídea, trazem elegância e tradição, formando uma combinação perfeita que celebra a beleza singular de cada mulher. Juntas, essas joias contam uma história de união e harmonia, homenageando o início dessa jornada. O anel trazem um design exclusivo que alinha modernidade e clássico, vestindo as mãos com uma fileira de pérolas, ora brancas e ora negras, acompanhando a nossa orquídea.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Altura 20,5mm / Largura 22,5mm / Espessura 29mm / Peso 4,4g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orquidea</s:tag>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683823071489</id>
+      <title>DOURADO / PÉROLA</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10068</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683823071489</id>
+      <title>PRATA / PÉROLA</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10070</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683823071489</id>
+      <title>DOURADO/ NEGRA</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10072</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8683709890817</id>
+    <published>2025-02-10T23:29:18-03:00</published>
+    <updated>2025-02-10T23:29:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/elastico-orquidea-marfim"/>
+    <title>Elastico Orquidea Marfim</title>
+    <s:type>Prendedores</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/14_92cf71aa-3a90-451e-b6c2-981c68982d8d.png?v=1738940923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Prendedores<br>
+        <strong>Preço: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. As pérolas, aliadas à orquídea, trazem elegância e tradição, pensando nisso os prendedores de cabelo e elásticos se tornam itens essenciais em uma resina perolada que vai compor penteados e looks celebrando a beleza singular de cada mulher.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Altura 75mm / Largura 82mm / Espessura 13mm / Peso 27g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orquidea</s:tag>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683709890817</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>10271</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8683655561473</id>
+    <published>2025-02-10T23:29:18-03:00</published>
+    <updated>2025-02-10T23:29:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/prendedor-orquidea-marfil"/>
+    <title>Prendedor Orquidea Marfim</title>
+    <s:type>Prendedores</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/15_cdd02faf-fb1a-420f-9585-af2a1281edfa.png?v=1738946516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Prendedores<br>
+        <strong>Preço: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. As pérolas, aliadas à orquídea, trazem elegância e tradição, pensando nisso os prendedores de cabelo e elásticos se tornam itens essenciais em uma resina perolada que vai compor penteados e looks celebrando a beleza singular de cada mulher.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><meta charset="utf-8">
+<span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Altura 75mm / Largura 85mm / Espessura 13mm / Peso 33g</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orquidea</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8683655561473</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>10048</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8682855923969</id>
+    <published>2025-02-10T23:29:17-03:00</published>
+    <updated>2025-02-10T23:29:17-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/cinto-orquidea-essencia-dourado"/>
+    <title>Cinto Orquidea Essência Prata</title>
+    <s:type>Cintos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/3_529c8970-54a7-47ae-bd0a-cbd8a5453126.png?v=1738946882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Cintos<br>
+        <strong>Preço: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">A nossa coleção destaca a orquídea como símbolo principal de nossa essência, representando a feminilidade com sua beleza exótica e delicada. E para arrematar nossa coleção os cintos Orquídea Essência trazem, em suas cores clássicas e de fácil combinação nos mais variados looks, <meta charset="utf-8">um mix de sintético com couro natural, o nosso símbolo da orquídea em um metal extremamente trabalhado em polimento e brilho em nosso metal e banho nobre nas cores dourado e prata.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Altura 70mm / Largura variada / Espessura 13 mm / Peso 128g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orquidea</s:tag>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855923969</id>
+      <title>VERDE / PP</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10166</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855923969</id>
+      <title>VERDE / P</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10170</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855923969</id>
+      <title>VERDE / M</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10168</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855923969</id>
+      <title>CINZA / PP</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10172</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855923969</id>
+      <title>CINZA / P</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10173</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855923969</id>
+      <title>CINZA / M</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10174</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8682855923969</id>
+      <title>CINZA / G</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>10175</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+  </entry>
+</feed>

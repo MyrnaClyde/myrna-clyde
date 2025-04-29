@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-fluir.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-03-21T13:57:42-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7829864382721</id>
+    <published>2025-03-21T13:57:42-03:00</published>
+    <updated>2025-03-21T13:57:42-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-ciclone-g-agata-azul-prata"/>
+    <title>Colar Ciclone G</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta4_536041f7-c2b9-4046-97dc-547fead7a02e.png?v=1736102140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar com corrente veneziana 62cm, com folheação no ouro e prata, aplicação de pedras naturais e lapidação exclusiva Anna Prata.</p>
+<p>As pedras podem apresentar diferentes tonalidades.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>ciclone</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula ar</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864382721</id>
+      <title>Olho de Gato / dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6269</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864382721</id>
+      <title>Quartzo Verde / dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6270</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864382721</id>
+      <title>Drusa Negra / dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6268</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864382721</id>
+      <title>Agata Azul / dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6276</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7830369206529</id>
+    <published>2025-03-21T13:52:58-03:00</published>
+    <updated>2025-03-21T13:52:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-brisa-15-agata-azul-prata"/>
+    <title>Anel Brisa</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/stillPrancheta-25.png?v=1663163953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Anel regulável, com folheação de ouro ou prata, aplicação de pedras naturais e lapidação exclusiva Anna Prata.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Black Anna Prata</s:tag>
+    <s:tag>brisa</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula ar</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7830369206529</id>
+      <title>Drusa Negra/dourado / 15</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6315</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7830369206529</id>
+      <title>Drusa Negra/dourado / 19</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6311</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7830369206529</id>
+      <title>Rodocrosita/dourado / 15</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6310</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7830369206529</id>
+      <title>Rodocrosita/dourado / 19</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6312</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7830369206529</id>
+      <title>Olho de Gato/dourado / 15</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6309</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7830369206529</id>
+      <title>Olho de Gato/dourado / 19</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6313</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7830369206529</id>
+      <title>Agata Azul/prata / 15</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6314</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7830369206529</id>
+      <title>Agata Azul/prata / 19</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6316</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7829809987841</id>
+    <published>2025-03-14T16:17:25-03:00</published>
+    <updated>2025-03-14T16:17:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-alento-drusa-negra-dourado"/>
+    <title>Brinco Alento</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta25.png?v=1663178053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco tamanho 28mm, folheado no ouro 18k e aplicação de pedras naturais.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>ar</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>Black Anna Prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>brinco pequeno</s:tag>
+    <s:tag>brinco pequeno prata</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula ar</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829809987841</id>
+      <title>Quartzo Verde</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>6252</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829809987841</id>
+      <title>Olho de gato</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>6251</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829809987841</id>
+      <title>Drusa Negra</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>6253</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7692855443713</id>
+    <published>2025-03-12T14:32:19-03:00</published>
+    <updated>2025-03-12T14:32:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-agreste"/>
+    <title>Piercing Agreste</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta15_4041734b-a005-4005-b2a8-a441494670b3.png?v=1654775146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            339.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Piercing dourado ou prata, estilo ear cuff com design orgânicos e fios.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula terra</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>earcuff</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>piercing</s:tag>
+    <s:tag>piercing ajustável</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>terra</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7692855443713</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">339.00</s:price>
+      <s:sku>PIE-0183</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7692855443713</id>
+      <title>Prata</title>
+      <s:price currency="BRL">339.00</s:price>
+      <s:sku>PIE-0183A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7690238755073</id>
+    <published>2025-03-12T14:08:19-03:00</published>
+    <updated>2025-03-12T14:08:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-orbe"/>
+    <title>Bracelete Orbe</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta19.png?v=1654717319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bracelete dourado com design orgânico e fios inspirado em rachaduras do solo.  Muito maravilhoso para completar seu look.</p>
+<p>Mais informações clique em <em><strong>detalhes.</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula terra</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>terra</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7690238755073</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">1399.00</s:price>
+      <s:sku>BRA-0049</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7772604924161</id>
+    <published>2025-03-12T14:02:24-03:00</published>
+    <updated>2025-03-12T14:02:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-laguna"/>
+    <title>Brinco Laguna</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/brincolagunamodelodourado1.png?v=1736102172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco inspirado nas leves ondas dos lagos, com pedras naturais com lapidação exclusiva Anna Prata. </p>
+<p><strong><em>Informações sobre as peças clique em detalhes</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>brinco com pedra</s:tag>
+    <s:tag>brinco grande</s:tag>
+    <s:tag>capsula fluir</s:tag>
+    <s:tag>capsula água</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>fluir</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772604924161</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6102</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772604924161</id>
+      <title>Prata</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6103</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7692848595201</id>
+    <published>2025-03-12T14:02:19-03:00</published>
+    <updated>2025-03-12T14:02:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-rochedo"/>
+    <title>Colar Rochedo</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta13_5a6f72c8-f2f6-4faf-94b8-06762b294476.png?v=1654717782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar Rochedo.</p>
+<p>Colar com design orgânico inspirado no solo e rochas.</p>
+<p>Comprimento 42 cm<br>Largura 49 mm<br>Espessura 7 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula terra</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>terra</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7692848595201</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>COL-0204</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7690298753281</id>
+    <published>2025-03-12T14:02:19-03:00</published>
+    <updated>2025-03-12T14:02:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/pulseira-rochedo"/>
+    <title>Pulseira Rochedo</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta3_de97d9b2-c104-4a69-bdb4-572d3369a7ab.png?v=1736102417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            709.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pulseira dourada ou prata, com design orgânico inspirado no solo e rochas.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula terra</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>terra</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7690298753281</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">709.00</s:price>
+      <s:sku>PUL-0030</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7690298753281</id>
+      <title>Prata</title>
+      <s:price currency="BRL">709.00</s:price>
+      <s:sku>PUL-0030A</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7829867561217</id>
+    <published>2025-02-28T16:38:18-03:00</published>
+    <updated>2025-02-28T16:38:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-chamas-15-dourado"/>
+    <title>Anel Chamas</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta14_ef22fe3a-45e8-45e0-b2e5-982357668d64.png?v=1663098266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Anel regulável a partir dos aros 15 e 19, com folheação no ouro ou prata,  com design inspirado nas chamas do fogo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula fogo</s:tag>
+    <s:tag>fogo</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829867561217</id>
+      <title>Dourado / 15</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>6285</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829867561217</id>
+      <title>Dourado / 19</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>6283</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829867561217</id>
+      <title>Prata / 15</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>6282</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829867561217</id>
+      <title>Prata / 19</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>6284</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7830352953601</id>
+    <published>2025-02-05T11:44:19-03:00</published>
+    <updated>2025-02-05T11:44:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-brisa-agata-azul-prata"/>
+    <title>Brinco Brisa</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta13_1d5c1aa0-38e1-4ab1-9656-62d2ce88da7c.png?v=1736102262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco com folheação de ouro ou prata, com aplicação de pedras naturais e lapidação exclusiva Anna Prata.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>brinco com pedra</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula ar</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7830352953601</id>
+      <title>Agata Azul / prata</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6308</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7830352953601</id>
+      <title>Rodocrosita / dourado</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6307</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7829864349953</id>
+    <published>2025-01-09T17:28:19-03:00</published>
+    <updated>2025-01-09T17:28:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-ciclone-p"/>
+    <title>Colar Ciclone P</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta6_fab552e6-fe61-4bf4-8328-d4f6bd1fc082.png?v=1736102240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Colar com corrente veneziana 50cm, com folheação no ouro e prata e aplicação de pedras naturais e lapidação exclusiva Anna Prata.</span></p>
+<p><span>As pedras podem apresentar diferentes tonalidades.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>ciclone</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula ar</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864349953</id>
+      <title>Olho de Gato / dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864349953</id>
+      <title>Quartzo Verde / dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6265</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864349953</id>
+      <title>Drusa Negra / dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6267</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864349953</id>
+      <title>Agata Azul / prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>6275</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7829837611265</id>
+    <published>2025-01-04T18:13:25-03:00</published>
+    <updated>2025-01-04T18:13:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-ventania-agata-azul-prata"/>
+    <title>Brinco Ventania</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta12_81b81d93-a120-4de4-a3ff-f1d642f49732.png?v=1736102279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco com folheação de ouro prata e aplicação de pedras naturais com lapidação exclusiva Anna Prata.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>brinco grande</s:tag>
+    <s:tag>brinco grande dourado</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula ar</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829837611265</id>
+      <title>Olho de Gato e Drusa Negra / dourado</title>
+      <s:price currency="BRL">1099.00</s:price>
+      <s:sku>6263</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829837611265</id>
+      <title>Agata Azul e Olho de Gato / prata</title>
+      <s:price currency="BRL">1099.00</s:price>
+      <s:sku>6264</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829837611265</id>
+      <title>Quartzo Verde e Rodocrosita / dourado</title>
+      <s:price currency="BRL">1099.00</s:price>
+      <s:sku>6262</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7829864448257</id>
+    <published>2025-01-04T18:13:21-03:00</published>
+    <updated>2025-01-04T18:13:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-vulcao-dourado"/>
+    <title>Brinco Vulcão</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/foto-sitePrancheta-6.png?v=1736102359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco resina italiana vermelha e detalhes em dourado.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula fogo</s:tag>
+    <s:tag>fogo</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864448257</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>6278</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7829867593985</id>
+    <published>2025-01-04T18:13:20-03:00</published>
+    <updated>2025-01-04T18:13:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-magma-dourado"/>
+    <title>Brinco Magma</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/foto-sitePrancheta-1.png?v=1736102803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            459.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco inspirado nas magmas, com pedra natural chamada Feldspato Vermelho com lapidação exclusiva Anna Prata.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula fogo</s:tag>
+    <s:tag>fogo</s:tag>
+    <s:tag>magma</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829867593985</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">459.00</s:price>
+      <s:sku>6286</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7829864481025</id>
+    <published>2025-01-04T18:13:20-03:00</published>
+    <updated>2025-01-04T18:13:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-vulcao-dourado"/>
+    <title>Colar Vulcão</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/foto-sitePrancheta-3.png?v=1736103068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            519.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar com resina italiana e detalhes no dourado.<br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>colar</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula fogo</s:tag>
+    <s:tag>fogo</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864481025</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">519.00</s:price>
+      <s:sku>6279</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7690292723969</id>
+    <published>2025-01-03T15:39:25-03:00</published>
+    <updated>2025-01-03T15:39:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/pulseira-de-mao-rochedo"/>
+    <title>Pulseira de mão Rochedo</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta16_874e0f89-67f4-4e03-bf88-580ad693ac72.png?v=1736102381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            309.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pulseira de mão dourada ou prata, com design orgânico inspirados no solo e rochas com correntaria de elos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula terra</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>terra</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7690292723969</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>PUL-0032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7690292723969</id>
+      <title>Prata</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>PUL-0032A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

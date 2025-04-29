@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-ah-mar.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-03-07T08:56:21-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159488540929</id>
+    <published>2025-03-07T08:56:21-03:00</published>
+    <updated>2025-03-07T08:56:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-z-dourado"/>
+    <title>Colar Letra Z</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0770.jpg?v=1706291261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159488540929</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8493</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159005638913</id>
+    <published>2025-02-26T12:56:22-03:00</published>
+    <updated>2025-02-26T12:56:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-celine-g-dourado"/>
+    <title>Brinco Celine</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0497.jpg?v=1706277176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            809.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Inspirados nas conchas marinhas que simbolizam os tesouros do mar, o brinco Cline tem um conceito statement e divertido.<br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>concha</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159005638913</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">809.00</s:price>
+      <s:sku>8455</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159005638913</id>
+      <title>Prata</title>
+      <s:price currency="BRL">809.00</s:price>
+      <s:sku>8456</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159450530049</id>
+    <published>2025-01-04T18:12:43-03:00</published>
+    <updated>2025-01-04T18:12:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-c-dourado"/>
+    <title>Colar Letra C</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0642.jpg?v=1706279568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159450530049</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8470</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159452823809</id>
+    <published>2025-01-04T18:12:42-03:00</published>
+    <updated>2025-01-04T18:12:42-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-d-dourado"/>
+    <title>Colar Letra D</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0648.jpg?v=1706280040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159452823809</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8471</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159452856577</id>
+    <published>2025-01-04T18:12:41-03:00</published>
+    <updated>2025-01-04T18:12:41-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-e-dourado"/>
+    <title>Colar Letra E</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0655.jpg?v=1706280185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159452856577</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8472</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159452922113</id>
+    <published>2025-01-04T18:12:40-03:00</published>
+    <updated>2025-01-04T18:12:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-g-dourado"/>
+    <title>Colar Letra G</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0667.jpg?v=1706280351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159452922113</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8474</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159452889345</id>
+    <published>2025-01-04T18:12:40-03:00</published>
+    <updated>2025-01-04T18:12:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-f-dourado"/>
+    <title>Colar Letra F</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0660.jpg?v=1706280271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159452889345</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8473</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159458722049</id>
+    <published>2025-01-04T18:12:39-03:00</published>
+    <updated>2025-01-04T18:12:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-h-dourado"/>
+    <title>Colar Letra H</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0672.jpg?v=1706280422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159458722049</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8475</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159458951425</id>
+    <published>2025-01-04T18:12:37-03:00</published>
+    <updated>2025-01-04T18:12:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-j-dourado"/>
+    <title>Colar Letra J</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0682.jpg?v=1706280719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159458951425</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8477</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159488508161</id>
+    <published>2025-01-03T15:39:48-03:00</published>
+    <updated>2025-01-03T15:39:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-y-dourado"/>
+    <title>Colar Letra Y</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0762.jpg?v=1706291240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159488508161</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8492</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159488475393</id>
+    <published>2025-01-03T15:39:47-03:00</published>
+    <updated>2025-01-03T15:39:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-w-dourado"/>
+    <title>Colar Letra W</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0748.jpg?v=1706290818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159488475393</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8491</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159488442625</id>
+    <published>2025-01-03T15:39:46-03:00</published>
+    <updated>2025-01-03T15:39:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-x-dourado"/>
+    <title>Colar Letra X</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0752.jpg?v=1706291156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar com inicial de letra e detalhe em spalsh de metal polido. </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159488442625</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8490</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159480873217</id>
+    <published>2025-01-03T15:39:45-03:00</published>
+    <updated>2025-01-03T15:39:45-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-u-dourado"/>
+    <title>Colar Letra U</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0740.jpg?v=1706290653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159480873217</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8488</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159480774913</id>
+    <published>2025-01-03T15:39:44-03:00</published>
+    <updated>2025-01-03T15:39:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-s-dourado"/>
+    <title>Colar Letra S</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0729.jpg?v=1706281833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159480774913</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8486</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159472451841</id>
+    <published>2025-01-03T15:39:42-03:00</published>
+    <updated>2025-01-03T15:39:42-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-q-dourado"/>
+    <title>Colar Letra Q</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0720.jpg?v=1706281572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159472451841</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8484</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159472419073</id>
+    <published>2025-01-03T15:39:40-03:00</published>
+    <updated>2025-01-03T15:39:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-p-dourado"/>
+    <title>Colar Letra P</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0717.jpg?v=1706281445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com incial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159472419073</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8483</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159472386305</id>
+    <published>2025-01-03T15:39:39-03:00</published>
+    <updated>2025-01-03T15:39:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-o-dourado"/>
+    <title>Colar Letra O</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0712.jpg?v=1706281320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159472386305</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8482</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159450431745</id>
+    <published>2024-02-20T09:24:32-03:00</published>
+    <updated>2024-02-20T09:24:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-celine-g-dourado"/>
+    <title>Colar Celine</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0518.jpg?v=1706278472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            1349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Body Chain com inspiração marinha no formato de conchas em tamanhos variados que permite diferentes formas de uso, como colar, body e cinto usando correntes de elos alongados que acompanham a peça permitindo um visual despachado e chic.<br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>concha</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159450431745</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">1349.00</s:price>
+      <s:sku>8467</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159011864833</id>
+    <published>2024-02-20T09:24:31-03:00</published>
+    <updated>2024-02-20T09:24:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-celine-dourado"/>
+    <title>Anel Celine</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0509.jpg?v=1706276844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Inspirados nas conchas marinhas que simbolizam os tesouros do mar, o brinco Cline tem um conceito statement e divertido.  <br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>concha</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159011864833</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>8459</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159011864833</id>
+      <title>Prata</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>8460</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8158999511297</id>
+    <published>2024-02-20T09:24:27-03:00</published>
+    <updated>2024-02-20T09:24:27-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-aime-p-dourado"/>
+    <title>Brinco Aimê P</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0549.jpg?v=1706275921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brincos com inspiração no símbolo universal do amor, o coração, onde é representado em metal liso e polido.  <br><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>coração</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8158999511297</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>8453</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8158999511297</id>
+      <title>Prata</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>8454</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8158987452673</id>
+    <published>2024-02-20T09:24:24-03:00</published>
+    <updated>2024-02-20T09:24:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-aime-dourado"/>
+    <title>Anel Aime</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0553.jpg?v=1706275296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Anel com inspiração no símbolo universal do amor, o coração, onde é representado em metal liso e polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>coração</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8158987452673</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>8447</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8158987452673</id>
+      <title>Prata</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>8448</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

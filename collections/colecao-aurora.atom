@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-aurora.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-01-24T16:26:28-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198846087425</id>
+    <published>2025-01-24T16:26:28-03:00</published>
+    <updated>2025-01-24T16:26:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-sintonia-dourado"/>
+    <title>Bracelete Sintonia</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1916.jpg?v=1709921785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            539.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O <strong>Bracelete Sintonia</strong> é a peça ideal para simbolizar o fortalecimento dos laços de amizade e companheirismo. Confeccionado com um design delicado e extremamente feminino, este acessório é um verdadeiro símbolo de elegância e estilo.</p>
+<p><strong>Características:</strong></p>
+<ul>
+<li>
+<strong>Design:</strong> Fio de luz em forma de nó</li>
+<li>
+<strong>Material:</strong> Metal com banho nobre</li>
+<li>
+<strong>Estilo:</strong> Delicado e feminino</li>
+</ul>
+<p>Adicione um toque de sofisticação e significado ao seu visual com o <strong>Bracelete Sintonia</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>bracelete</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198846087425</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">539.00</s:price>
+      <s:sku>8670</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198846087425</id>
+      <title>Prata</title>
+      <s:price currency="BRL">539.00</s:price>
+      <s:sku>8669</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198846021889</id>
+    <published>2025-01-08T18:49:28-03:00</published>
+    <updated>2025-01-08T18:49:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-duplo-nevoa-aro-14-dourado"/>
+    <title>Anel Duplo Névoa</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1740.jpg?v=1709924067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            659.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O <strong>Anel Duplo Névoa</strong> é uma peça única que captura a essência dos movimentos da névoa ao vento. Este anel duplo envolve as mãos com um efeito denso e poderoso, destacando-se por seu design inovador.</p>
+<p>Criado em <strong>metal liso e polido</strong>, o anel traz um brilho intenso e um estilo sofisticado para as suas mãos. A inspiração na névoa proporciona uma sensação de movimento contínuo e elegância.</p>
+<p>Destaque-se com o <strong>Anel Duplo Névoa</strong> e adicione um toque de modernidade e charme ao seu visual diário.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198846021889</id>
+      <title>Dourado / 14</title>
+      <s:price currency="BRL">659.00</s:price>
+      <s:sku>8667</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198846021889</id>
+      <title>Dourado / 19</title>
+      <s:price currency="BRL">659.00</s:price>
+      <s:sku>8672</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198846021889</id>
+      <title>Prata / 14</title>
+      <s:price currency="BRL">659.00</s:price>
+      <s:sku>8665</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198846021889</id>
+      <title>Prata / 19</title>
+      <s:price currency="BRL">659.00</s:price>
+      <s:sku>8673</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198863454465</id>
+    <published>2024-08-20T15:17:04-03:00</published>
+    <updated>2024-08-20T15:17:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-nevoa-dourado"/>
+    <title>Brinco Névoa</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1727.jpg?v=1709923885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            709.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Brinco Névoa</strong>: Com inspiração nos movimentos fluidos da névoa ao vento, este brinco envolve a orelha proporcionando um efeito denso e poderoso.</p>
+<p>Criado em <strong>metal liso e polido</strong>, o Brinco Névoa traz:</p>
+<ul>
+    <li>
+<strong>Brilho</strong> para toda a orelha</li>
+    <li>
+<strong>Estilo sofisticado</strong> e moderno</li>
+</ul>
+<p>Adicione uma peça única e elegante ao seu visual com o Brinco Névoa.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>earcuff</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198863454465</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">709.00</s:price>
+      <s:sku>8683</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198863454465</id>
+      <title>Prata</title>
+      <s:price currency="BRL">709.00</s:price>
+      <s:sku>8682</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198733496577</id>
+    <published>2024-05-14T17:51:52-03:00</published>
+    <updated>2024-05-14T17:51:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-orvalho-g-aro-14-dourado"/>
+    <title>Anel Orvalho G</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1762.jpg?v=1709908380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O <strong>Anel Orvalho G</strong> é uma joia elegante, inspirada nas formas orgânicas e abauladas das gotas de orvalho que se formam sobre as superfícies ao amanhecer. Este anel é produzido em <strong>metal liso e polido</strong>, conferindo um acabamento sofisticado e contemporâneo.</p>
+<p>Características do produto:</p>
+<ul>
+<li>
+<strong>Design:</strong> Formas orgânicas e abauladas, remetendo às gotas de orvalho</li>
+<li>
+<strong>Material:</strong> Metal liso e polido dourado</li>
+<li>
+<strong>Tamanho do Aro:</strong> 14</li>
+</ul>
+<p>Eleve seu estilo com a delicadeza e a elegância do Anel Orvalho G, perfeito para qualquer ocasião.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198733496577</id>
+      <title>Dourado / 14</title>
+      <s:price currency="BRL">449.00</s:price>
+      <s:sku>8589</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198733496577</id>
+      <title>Dourado / 19</title>
+      <s:price currency="BRL">449.00</s:price>
+      <s:sku>8609</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198733496577</id>
+      <title>Prata / 14</title>
+      <s:price currency="BRL">449.00</s:price>
+      <s:sku>8590</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198733496577</id>
+      <title>Prata / 19</title>
+      <s:price currency="BRL">449.00</s:price>
+      <s:sku>8610</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198907855105</id>
+    <published>2024-05-06T13:38:43-03:00</published>
+    <updated>2024-05-06T13:38:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/tornozeleira-frescor-dourado"/>
+    <title>Tornozeleira Frescor</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1705.jpg?v=1709924666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"> <meta content="width=device-width, initial-scale=1.0" name="viewport"></p>
+<p>A <strong>Tornozeleira Frescor</strong> oferece um <strong>caimento orgânico</strong> e <strong>anatômico</strong> que proporciona conforto e elegância. Inspirada no <strong>movimento dos ventos frescos do amanhecer</strong>, esta joia destaca-se pela sua versatilidade, podendo também ser usada como braçadeira.</p>
+<p><strong>Características:</strong></p>
+<ul>
+<li>Design anatômico para maior conforto</li>
+<li>Acabamento dourado elegante</li>
+<li>Uso versátil como tornozeleira ou braçadeira</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>braçadeira</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>TORNOZELEIRA</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198907855105</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>8749</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198845497601</id>
+    <published>2024-04-25T15:27:22-03:00</published>
+    <updated>2024-04-25T15:27:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/gargantilha-amanhecer-dourado"/>
+    <title>Gargantilha Amanhecer</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1765.jpg?v=1709922641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A <strong>Gargantilha Amanhecer</strong> é inspirada no arco dourado do sol ao amanhecer. Ela é confeccionada em <strong>metal polido</strong> e apresenta acabamento de alta qualidade e brilho.</p>
+<p>Esse acessório envolve o pescoço e o colo, proporcionando um efeito estiloso e cheio de atitude.</p>
+<ul>
+<li>
+<strong>Material:</strong> Metal polido</li>
+<li>
+<strong>Acabamento:</strong> Alta qualidade e brilho</li>
+<li>
+<strong>Design:</strong> Inspirado no amanhecer</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>gargantilha</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198845497601</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1699.00</s:price>
+      <s:sku>8642</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198845497601</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1699.00</s:price>
+      <s:sku>8643</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198775668993</id>
+    <published>2024-04-03T11:25:54-03:00</published>
+    <updated>2024-04-03T11:25:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-sereno-dourado"/>
+    <title>Anel Sereno</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1843.jpg?v=1709904762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O <strong>Anel Sereno</strong> é um acessório que exala sofisticação e modernidade. Com um design <strong>regulável</strong>, ele se adapta perfeitamente a diferentes tamanhos de dedos, proporcionando conforto e estilo.</p>
+<p>Inspirado nas delicadas gotas de sereno que se formam durante a noite, este anel apresenta volumes abaulados que conferem um visual único e arrojado. Seu acabamento em <strong>metal altamente polido</strong> e com um <strong>banho nobre</strong> garante um brilho intenso e duradouro.</p>
+<ul>
+<li>Design moderno e arrojado</li>
+<li>Regulável para ajuste perfeito</li>
+<li>Acabamento em metal polido</li>
+<li>Banho nobre para brilho intenso</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198775668993</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>8630</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198775668993</id>
+      <title>Prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>8629</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198863651073</id>
+    <published>2024-04-03T11:24:00-03:00</published>
+    <updated>2024-04-03T11:24:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/gargantilha-alvorada-dourado"/>
+    <title>Gargantilha Alvorada</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1855.jpg?v=1709922107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            609.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A <strong>Gargantilha Alvorada</strong> é inspirada no nascer do sol.</p>
+<p>Características:</p>
+<ul>
+<li>
+<strong>Pedra:</strong> Hematoide amarela no banho prata; Quartzo rutilado grafite na variante dourada.</li>
+<li>
+<strong>Estrutura:</strong> Formada por fios de metal modelados.</li>
+<li>
+<strong>Design:</strong> Pingente com formas orgânicas e cravação de pedra com efeito flutuante.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198863651073</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">609.00</s:price>
+      <s:sku>8714</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198863651073</id>
+      <title>Prata</title>
+      <s:price currency="BRL">609.00</s:price>
+      <s:sku>8715</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198775734529</id>
+    <published>2024-04-03T11:21:08-03:00</published>
+    <updated>2024-04-03T11:21:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-orvalho-dourado"/>
+    <title>Bracelete Orvalho</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1814.jpg?v=1709908672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bracelete Orvalho: Bracelete com inspiração nas formas orgânicas e abauladas das gotas de orvalho que se formam sobre as superfícies ao amanhecer onde é representado em metal liso e polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>bracelete</s:tag>
+    <s:tag>Coleçao Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198775734529</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1499.00</s:price>
+      <s:sku>8638</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198775734529</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1499.00</s:price>
+      <s:sku>8640</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198845858049</id>
+    <published>2024-04-03T09:14:41-03:00</published>
+    <updated>2024-04-03T09:14:41-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-sintonia-dourado"/>
+    <title>Choker Sintonia</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1885.jpg?v=1709921062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            659.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Choker Sintonia</strong>: simbolizando o fortalecimento dos laços de amizade e companheirismo, a <strong>Choker Sintonia</strong> foi pensada com um fio de luz que abraça e envolve o pescoço em forma de nó.</p>
+<p>Seu design em metal com banho nobre traz um conceito delicado e extremamente feminino para o adorno, tornando-o perfeito para todas as ocasiões.</p>
+<ul>
+  <li>
+<strong>Material:</strong> Metal com banho nobre</li>
+  <li>
+<strong>Design:</strong> Nó delicado e envolvente</li>
+  <li>
+<strong>Conceito:</strong> Fortalecimento de laços de amizade e companheirismo</li>
+  <li>
+<strong>Estilo:</strong> Delicado e feminino</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198845858049</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">659.00</s:price>
+      <s:sku>8658</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198845858049</id>
+      <title>Prata</title>
+      <s:price currency="BRL">659.00</s:price>
+      <s:sku>8659</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198907986177</id>
+    <published>2024-04-03T09:10:34-03:00</published>
+    <updated>2024-04-03T09:10:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/prendedor-horizonte-dourado"/>
+    <title>Prendedor Horizonte</title>
+    <s:type>Prendedores</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1936.jpg?v=1709925248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Prendedores<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O <strong>Prendedor Horizonte</strong> é inspirado na linha do horizonte, formando um arco dourado que lembra o nascer do sol com seu brilho intenso.</p>
+<ul>
+<li>Feito em <strong>metal</strong> de alta qualidade.</li>
+<li>Banho nobre, que garante um brilho duradouro.</li>
+<li>Acompanha <strong>elástico ultra resistente</strong>, proporcionando maior durabilidade e segurança.</li>
+</ul>
+<p>Adicione um toque de elegância ao seu look com o Prendedor Horizonte.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>prendedor cabelo</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198907986177</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>8752</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198907986177</id>
+      <title>Prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>8753</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198863585537</id>
+    <published>2024-04-03T09:09:47-03:00</published>
+    <updated>2024-04-03T09:09:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-alvorada-dourado"/>
+    <title>Brinco Alvorada</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1836.jpg?v=1709922369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco Alvorada: Brinco com inspiração no nascer do sol, sendo simbolizado pela pedra hematoide amarela no banho prata e variante no dourado com pedra quartzo rutilado grafite, ele é formado por duas peças assimétricas com formas orgânicas e cravação de pedra com efeito flutuante.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>Coleçao Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198863585537</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>8709</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198863585537</id>
+      <title>Prata</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>8711</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198863356161</id>
+    <published>2024-04-03T09:08:06-03:00</published>
+    <updated>2024-04-03T09:08:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-sereno-dourado"/>
+    <title>Colar Sereno</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1783.jpg?v=1709904472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            679.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O <strong>Colar Sereno</strong> apresenta um design elegante e contemporâneo, inspirado nas delicadas gotas de sereno que se formam durante a noite.</p>
+<ul>
+<li>Pingente móvel pela corrente, permitindo uso em volta dupla.</li>
+<li>Design moderno e arrojado, com volumes abaulados representando gotas de sereno.</li>
+<li>Confeccionado em metal altamente polido com banho nobre, conferindo sofisticação e durabilidade.</li>
+</ul>
+<p>Este colar é perfeito para quem busca uma peça marcante e versátil que se destaca pela sua beleza e inovação.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198863356161</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">679.00</s:price>
+      <s:sku>8679</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198863356161</id>
+      <title>Prata</title>
+      <s:price currency="BRL">679.00</s:price>
+      <s:sku>8681</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198845694209</id>
+    <published>2024-04-03T09:06:45-03:00</published>
+    <updated>2024-04-03T09:06:45-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-sintonia-dourado"/>
+    <title>Brinco Sintonia</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1912.jpg?v=1709921487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            719.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os <strong>brincos Sintonia</strong> simbolizam a união e os valores compartilhados entre mulheres, representando o fortalecimento de laços de amizade.</p>
+<p>Produzidos em <strong>metal polido</strong> com um refinado banho dourado, esses brincos são sinônimos de alegria e elegância, evocando a beleza dos primeiros raios de sol do amanhecer.</p>
+<ul>
+<li>Material: Metal polido</li>
+<li>Banho: Nobre dourado</li>
+<li>Acabamento: Fino e elegante</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198845694209</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">719.00</s:price>
+      <s:sku>8650</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198845694209</id>
+      <title>Prata</title>
+      <s:price currency="BRL">719.00</s:price>
+      <s:sku>8652</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8198733431041</id>
+    <published>2024-04-03T09:02:45-03:00</published>
+    <updated>2024-04-03T09:02:45-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-duplo-afinidade-dourado"/>
+    <title>Anel Duplo Afinidade</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1891.jpg?v=1709905715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O <strong>Anel Duplo Afinidade</strong> é inspirado em fios de luz que irradiam no amanhecer, simbolizando os laços que unem as mulheres em sua feminilidade. Este anel captura a essência da <strong>força</strong>, <strong>beleza</strong> e união feminina.</p>
+<p>Com design <strong>elegante</strong> e <strong>sofisticado</strong>, ele apresenta um detalhe de nó em metal, ressaltando o conceito de nós que representam laços e conexões duradouras. Possui um <strong>banho nobre</strong>, garantindo durabilidade e um brilho impecável.</p>
+<p>Destaque-se com o Anel Duplo Afinidade, um acessório que combina <strong>versatilidade</strong> e estilo, perfeito para diversas ocasiões.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anel</s:tag>
+    <s:tag>anel duplo</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Aurora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>UP-DATED</s:tag>
+    <s:tag>UP-DES</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198733431041</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>8568</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8198733431041</id>
+      <title>Prata</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>8570</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+</feed>

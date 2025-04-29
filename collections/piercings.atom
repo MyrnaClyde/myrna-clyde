@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/piercings.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-04-20T10:00:18-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740862394625</id>
+    <published>2025-04-20T10:00:18-03:00</published>
+    <updated>2025-04-20T10:00:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-quantum"/>
+    <title>Piercing Quantum</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Piercing_Quantum_2.png?v=1742839164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As menores unidades de partículas são representadas nessa família que apesar de pequena é grandiosa em design e estilo. Os piercings vem com uma corrente com pino para dar um efeito “costurado” nas orelhas e assim garantir um look moderno e arrojado.<br><br><strong><em>Piercing vendido em par.</em></strong><br><br>Altura 17,5 mm / Largura 14mm / Espessura 14mm / Peso 11g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faces</s:tag>
+    <s:tag>piercing</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740862394625</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>10456</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740862394625</id>
+      <title>Prata</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>10457</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025098649857</id>
+    <published>2025-03-17T10:05:12-03:00</published>
+    <updated>2025-03-17T10:05:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-alice-dourado"/>
+    <title>Piercing Alice</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/19_903c553a-6843-4032-850d-06dc6063a2d7.png?v=1695843987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Piercing duplo feito à mão, disponível no banho ouro 18k e prata 1000.</p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;">Nossos adornos são livres de níquel e cádmio, para que não prejudiquem a sua saúde e não agridem a sua pele, sendo livre de substâncias tóxicas e cancerígenas. </span></p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anima</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>piercing</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098649857</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">239.00</s:price>
+      <s:sku>7620</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098649857</id>
+      <title>Prata</title>
+      <s:price currency="BRL">239.00</s:price>
+      <s:sku>7621</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7692855443713</id>
+    <published>2025-03-12T14:32:19-03:00</published>
+    <updated>2025-03-12T14:32:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-agreste"/>
+    <title>Piercing Agreste</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta15_4041734b-a005-4005-b2a8-a441494670b3.png?v=1654775146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            339.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Piercing dourado ou prata, estilo ear cuff com design orgânicos e fios.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula terra</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>earcuff</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>piercing</s:tag>
+    <s:tag>piercing ajustável</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>terra</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7692855443713</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">339.00</s:price>
+      <s:sku>PIE-0183</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7692855443713</id>
+      <title>Prata</title>
+      <s:price currency="BRL">339.00</s:price>
+      <s:sku>PIE-0183A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654180450561</id>
+    <published>2024-12-16T20:10:13-03:00</published>
+    <updated>2024-12-16T20:10:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-sopro-dourado"/>
+    <title>Piercing Sopro</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Design_sem_nome_6.png?v=1734381638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            459.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 4">
+<div class="layoutArea">
+<div class="column">
+<p><span>O movimento dos ventos, como um sopro que circula pelo ar, ajuda a transformar a paisagem do deserto, movimenta cada grão de areia e cria novas perspectivas... esse fôlego é o que nos rege e da força em nossa jornada e transformação ao longo da vida, a família </span><span>Sopro </span><span>traz isso em seus formatos robustos e curvos como um forte vento capaz de mudar tudo. Seu design é forte como esse sopro deve ser o suficiente para mudar tudo porém dentro do seu tempo... feito em metal garantimos uma peça leve, moderna e atemporal aliado ao nosso nobre banho dourado e prata. </span></p>
+<p><span><meta charset="utf-8">
+<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 29mm / Largura 20,5mm / Espessura 32mm / Peso 22g</span></span></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654180450561</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">459.00</s:price>
+      <s:sku>9800</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654180450561</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">459.00</s:price>
+      <s:sku>9801</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8654176026881</id>
+    <published>2024-12-16T20:10:11-03:00</published>
+    <updated>2024-12-16T20:10:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-miragem-dourado"/>
+    <title>Piercing Miragem</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/11_7931923d-2cd8-4884-95a0-b94a64feb3ed.png?v=1734377467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p><span>Capturando a essência mágica e misteriosa dos desertos, o piercing </span><span>Miragem</span><span>, traz em seu design a ideia das ondas de calor que provoca movimentos que se parecem água na areia, uma esperança em meio a uma jornada árdua e cansativa ao longo do tempo. Trazendo esse refresco de modernidade e tendência, ele é produzido em metal e banho nobres em dourado e prata, com seu acabamento polido revela uma possa imponente e sedutora. <br><br><meta charset="utf-8"> <span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Altura 34mm / Largura 33mm / Espessura 18mm / Peso 15g</span></span></span><br></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duna</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654176026881</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9798</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8654176026881</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9799</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457574145</id>
+    <published>2024-11-24T20:31:39-03:00</published>
+    <updated>2024-11-24T20:31:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-ivy-dourado"/>
+    <title>Piercing Ivy</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/ivy_piercing.png?v=1734362062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A força da onça e suas poderosas e temidas garras deixam sua marca na linha Ivy. O design clean e minimalista das peças traz cortes de garras que representam a agilidade e dinâmica da fera em busca da sua presa. Assim como a mulher precisa ser forte e resiliente ao correr atrás de seus objetivos, o piercing traz essa simbologia. Uma peça cíclica que ora lisa, ora vazada, como os momentos de dificuldades na vida, porém sempre forte e reluzente.<br><br>Altura 28,5Mm / Largura 16,5mm<br>Espessura 29mm / Peso 40g<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457574145</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10287</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457574145</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9686</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+</feed>

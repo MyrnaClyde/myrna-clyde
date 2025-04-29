@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-03-07T08:57:40-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102253953281</id>
+    <published>2025-03-07T08:57:40-03:00</published>
+    <updated>2025-03-07T08:57:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-emma-12-dourado"/>
+    <title>Anel Emma</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3438_8ab37678-99a0-4123-ba46-698d016032d3.jpg?v=1700847252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            389.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">Inspirado nas ondas do mar, no movimento das ondas.</span></p>
+<p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">Disponíveis no banho dourado e prata. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102253953281</id>
+      <title>Dourado / 12</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>8107</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102253953281</id>
+      <title>Dourado / 15</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>8109</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102253953281</id>
+      <title>Dourado / 19</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>8111</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102253953281</id>
+      <title>Prata / 12</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>8108</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102253953281</id>
+      <title>Prata / 15</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>8110</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102253953281</id>
+      <title>Prata / 19</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>8112</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102699434241</id>
+    <published>2025-02-26T14:38:39-03:00</published>
+    <updated>2025-02-26T14:38:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-luna-dois-dourado"/>
+    <title>Colar Luna</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3705_d8c9e282-67fb-4a26-8eca-f3c8f1272154.jpg?v=1701706319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<span data-canva-clipboard="ewAiAGEAIgA6ADUALAAiAGQAIgA6ACIAQgAiACwAIgBoACIAOgAiAHcAdwB3AC4AYwBhAG4AdgBhAC4AYwBvAG0AIgAsACIAYwAiADoAIgBEAEEARgAwAFYAbQBuAG4AawBlADAAIgAsACIAaQAiADoAIgBRAFgASwBYAEgAWAA0AGgANgBFAHEAMwBPAEgAaABkAGYAaABBAE8ASwBRACIALAAiAGIAIgA6ADEANwAwADEANgA5ADkAMgA5ADcAMgAyADEALAAiAEEAPwAiADoAIgBCACIALAAiAEEAIgA6AFsAewAiAEEAIgA6ADIANQA0ADUALgAwADIANwA3ADgAMQA4ADkAMgA3ACwAIgBCACIAOgA2ADYALgA3ADQAMwAwADAAOQA4ADMAOAA0ADQAMAA2ADgALAAiAEQAIgA6ADEAOQAzADMALgA1ADEAMwA5ADgAMAAzADIAMwAxADEAOAA2ACwAIgBDACIAOgAyADUAMAAuADYANAA2ADgAOAA0ADYAMAA5ADMANwA1ACwAIgBBAD8AIgA6ACIASwAiACwAIgBhACIAOgB7ACIAQQAiADoAWwB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAIgBQAGUAZAByAGEAIABEAHIAdQBzAGEAIABOAGEAdAB1AHIAYQBsACAAZQBtACAAVABvAG0AIABNAGUAdADhAGwAaQBjAG8AIABQAGwAYQB0AGkAbgBhAC4AXABuAEMAbwByAGQA4wBvACAAZABlACAAQQBsAGcAbwBkAOMAbwAgADEANQBtAG0AIABwAHIAZQB0AG8AIABlACAAcABvAG4AdABlAGkAcgBhACAAYwBvAG0AIABmAGUAYwBoAG8AIABkAGUAIADtAG0AYQAuAFwAbgBDAG8AbgBzAHUAbAB0AGUAIABwAHIAbwBwAG8AcgDnAPUAZQBzACAAZABlACAAcABlAGQAcgBhAC4AXABuAFwAbgAiAH0AXQAsACIAQgAiADoAWwB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAewAiAHQAZQB4AHQALQBhAGwAaQBnAG4AIgA6AHsAIgBCACIAOgAiAGoAdQBzAHQAaQBmAHkAIgB9ACwAIgBmAG8AbgB0AC0AcwBpAHoAZQAiADoAewAiAEIAIgA6ACIANAA2AC4ANgA2ADYANwAiAH0AfQB9ACwAewAiAEEAPwAiADoAIgBCACIALAAiAEEAIgA6ADEAMwAzAH0ALAB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAewAiAGMAbwBsAG8AcgAiADoAewAiAEIAIgA6ACIAIwAwADAAMAAwADAAMAAiAH0AfQB9ACwAewAiAEEAPwAiADoAIgBCACIALAAiAEEAIgA6ADEAfQAsAHsAIgBBAD8AIgA6ACIAQQAiACwAIgBBACIAOgB7ACIAYwBvAGwAbwByACIAOgB7ACIAQQAiADoAIgAjADAAMAAwADAAMAAwACIAfQAsACIAdABlAHgAdAAtAGEAbABpAGcAbgAiADoAewAiAEEAIgA6ACIAagB1AHMAdABpAGYAeQAiAH0ALAAiAGYAbwBuAHQALQBzAGkAegBlACIAOgB7ACIAQQAiADoAIgA0ADYALgA2ADYANgA3ACIAfQB9AH0AXQB9ACwAIgBiACIAOgB7AH0ALAAiAGQAIgA6ACIAQQAiACwAIgBnACIAOgBmAGEAbABzAGUALAAiAGgAIgA6ACIAQQAiAH0AXQAsACIAQgAiADoAMgAwADYANwAsACIAQwAiADoAMgA5ADIANQB9AA==" data-mce-fragment="1"></span>
+<p data-mce-fragment="1">Pedra Drusa Natural em Tom Metálico Platina. Cordão de Algodão 15mm preto e ponteira com fecho de ímã. </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brisa</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>pedra</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102699434241</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">799.00</s:price>
+      <s:sku>8134</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8107289051393</id>
+    <published>2025-02-26T13:38:25-03:00</published>
+    <updated>2025-02-26T13:38:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-cecilia-douardo"/>
+    <title>Colar Cecilia</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3480.jpg?v=1700837200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            859.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span class="OYPEnA text-decoration-none text-strikethrough-none">Inspirado nas ondas do mar, no movimento das ondas.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8107289051393</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">859.00</s:price>
+      <s:sku>8188</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102738854145</id>
+    <published>2025-02-17T17:45:19-03:00</published>
+    <updated>2025-02-17T17:45:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-awa-dourado"/>
+    <title>Bracelete Awa</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3385.jpg?v=1700833611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            639.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">Inspirado nas ondas do oceano, evocando as sensações das brisas e ventos.</span><span class="OYPEnA text-decoration-none text-strikethrough-none white-space-prewrap"> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">Aro ajustável com acabamento suave e polido.</span></p>
+<p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">Disponíveis no banho ouro e prata.</span></p>
+<p class="cvGsUA direction-ltr align-justify para-style-body"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>bracelete</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102738854145</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">639.00</s:price>
+      <s:sku>8138</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102738854145</id>
+      <title>Prata</title>
+      <s:price currency="BRL">639.00</s:price>
+      <s:sku>8139</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102699630849</id>
+    <published>2025-02-17T17:45:18-03:00</published>
+    <updated>2025-02-17T17:45:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-awa-dourado"/>
+    <title>Anel Awa</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3385_a9901d85-0e40-448f-a930-2d74355caa3b.jpg?v=1700834081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body" data-mce-fragment="1"><span class="OYPEnA text-decoration-none text-strikethrough-none" data-mce-fragment="1">Inspirado nas ondas do oceano, evocando as sensações das brisas e ventos.</span><span class="OYPEnA text-decoration-none text-strikethrough-none white-space-prewrap" data-mce-fragment="1"> </span><span class="OYPEnA text-decoration-none text-strikethrough-none" data-mce-fragment="1">Aro ajustável com acabamento suave e polido.</span></p>
+<p class="cvGsUA direction-ltr align-justify para-style-body" data-mce-fragment="1"><span class="OYPEnA text-decoration-none text-strikethrough-none" data-mce-fragment="1">Disponíveis no banho ouro e prata.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102699630849</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>8136</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102699630849</id>
+      <title>Prata</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>8137</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102862848257</id>
+    <published>2025-02-12T16:21:18-03:00</published>
+    <updated>2025-02-12T16:21:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-bela-dois-dourado"/>
+    <title>Brinco Bela</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3414_b0313610-4d5a-4859-af4c-eec0d733dff5.jpg?v=1700847814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            309.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">O brinco Bela é uma peça elegante e leve, apresentando </span><span class="OYPEnA text-decoration-none text-strikethrough-none">um canutilho, corrente e uma pérola de água doce na ponta. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102862848257</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>8149</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102699532545</id>
+    <published>2025-01-05T23:27:29-03:00</published>
+    <updated>2025-01-05T23:27:29-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-luna-tres-dourado"/>
+    <title>Colar Luna tres</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3705_3809fd3f-14cb-4b01-acd9-062d39f4087b.jpg?v=1701706459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<div>
+<span data-canva-clipboard="ewAiAGEAIgA6ADUALAAiAGQAIgA6ACIAQgAiACwAIgBoACIAOgAiAHcAdwB3AC4AYwBhAG4AdgBhAC4AYwBvAG0AIgAsACIAYwAiADoAIgBEAEEARgAwAFYAbQBuAG4AawBlADAAIgAsACIAaQAiADoAIgBRAFgASwBYAEgAWAA0AGgANgBFAHEAMwBPAEgAaABkAGYAaABBAE8ASwBRACIALAAiAGIAIgA6ADEANwAwADEANgA5ADkAMgA5ADcAMgAyADEALAAiAEEAPwAiADoAIgBCACIALAAiAEEAIgA6AFsAewAiAEEAIgA6ADIANQA0ADUALgAwADIANwA3ADgAMQA4ADkAMgA3ACwAIgBCACIAOgA2ADYALgA3ADQAMwAwADAAOQA4ADMAOAA0ADQAMAA2ADgALAAiAEQAIgA6ADEAOQAzADMALgA1ADEAMwA5ADgAMAAzADIAMwAxADEAOAA2ACwAIgBDACIAOgAyADUAMAAuADYANAA2ADgAOAA0ADYAMAA5ADMANwA1ACwAIgBBAD8AIgA6ACIASwAiACwAIgBhACIAOgB7ACIAQQAiADoAWwB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAIgBQAGUAZAByAGEAIABEAHIAdQBzAGEAIABOAGEAdAB1AHIAYQBsACAAZQBtACAAVABvAG0AIABNAGUAdADhAGwAaQBjAG8AIABQAGwAYQB0AGkAbgBhAC4AXABuAEMAbwByAGQA4wBvACAAZABlACAAQQBsAGcAbwBkAOMAbwAgADEANQBtAG0AIABwAHIAZQB0AG8AIABlACAAcABvAG4AdABlAGkAcgBhACAAYwBvAG0AIABmAGUAYwBoAG8AIABkAGUAIADtAG0AYQAuAFwAbgBDAG8AbgBzAHUAbAB0AGUAIABwAHIAbwBwAG8AcgDnAPUAZQBzACAAZABlACAAcABlAGQAcgBhAC4AXABuAFwAbgAiAH0AXQAsACIAQgAiADoAWwB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAewAiAHQAZQB4AHQALQBhAGwAaQBnAG4AIgA6AHsAIgBCACIAOgAiAGoAdQBzAHQAaQBmAHkAIgB9ACwAIgBmAG8AbgB0AC0AcwBpAHoAZQAiADoAewAiAEIAIgA6ACIANAA2AC4ANgA2ADYANwAiAH0AfQB9ACwAewAiAEEAPwAiADoAIgBCACIALAAiAEEAIgA6ADEAMwAzAH0ALAB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAewAiAGMAbwBsAG8AcgAiADoAewAiAEIAIgA6ACIAIwAwADAAMAAwADAAMAAiAH0AfQB9ACwAewAiAEEAPwAiADoAIgBCACIALAAiAEEAIgA6ADEAfQAsAHsAIgBBAD8AIgA6ACIAQQAiACwAIgBBACIAOgB7ACIAYwBvAGwAbwByACIAOgB7ACIAQQAiADoAIgAjADAAMAAwADAAMAAwACIAfQAsACIAdABlAHgAdAAtAGEAbABpAGcAbgAiADoAewAiAEEAIgA6ACIAagB1AHMAdABpAGYAeQAiAH0ALAAiAGYAbwBuAHQALQBzAGkAegBlACIAOgB7ACIAQQAiADoAIgA0ADYALgA2ADYANgA3ACIAfQB9AH0AXQB9ACwAIgBiACIAOgB7AH0ALAAiAGQAIgA6ACIAQQAiACwAIgBnACIAOgBmAGEAbABzAGUALAAiAGgAIgA6ACIAQQAiAH0AXQAsACIAQgAiADoAMgAwADYANwAsACIAQwAiADoAMgA5ADIANQB9AA=="></span>
+<p>Pedra Drusa Natural em Tom Metálico Platina. Cordão de Algodão 15mm preto e ponteira com fecho de ímã.  </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Black Anna Prata</s:tag>
+    <s:tag>brisa</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>pedra</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102699532545</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">799.00</s:price>
+      <s:sku>8135</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102829916417</id>
+    <published>2025-01-04T18:12:47-03:00</published>
+    <updated>2025-01-04T18:12:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-ellie-dourado"/>
+    <title>Argola Ellie</title>
+    <s:type>Argolas</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3450.jpg?v=1700834365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Argolas<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">Inspirado nas ondas do mar, no movimento das ondas.</span></p>
+<p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">Disponíveis no banho dourado e prata.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>argola</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102829916417</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>8144</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102829916417</id>
+      <title>Prata</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>8145</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102699335937</id>
+    <published>2025-01-03T15:39:35-03:00</published>
+    <updated>2025-01-03T15:39:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-luna-um-dourado"/>
+    <title>Colar Luna</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3705.jpg?v=1701706143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">Pedra Drusa Natural em Tom Metálico Platina. </span><span class="OYPEnA text-decoration-none text-strikethrough-none">Cordão de Algodão 15mm preto e ponteira com fecho de ímã. </span></p>
+<p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none"><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>pedra</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102699335937</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">799.00</s:price>
+      <s:sku>8133</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102603325697</id>
+    <published>2024-03-19T12:22:47-03:00</published>
+    <updated>2024-03-19T12:22:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-alicia-dourado"/>
+    <title>Anel Alicia</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/IMG_0264.jpg?v=1737128074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            459.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span class="OYPEnA text-decoration-none text-strikethrough-none" data-mce-fragment="1">Anel aro 17 regulável Inspirado no movimento das brisas e ventos.</span><span class="OYPEnA text-decoration-none text-strikethrough-none white-space-prewrap" data-mce-fragment="1"> </span><span class="OYPEnA text-decoration-none text-strikethrough-none" data-mce-fragment="1">Incorporamos a aplicação de pérolas naturais de água doce.<br><br></span>
+<p class="cvGsUA direction-ltr align-justify para-style-body" data-mce-fragment="1"><span class="OYPEnA text-decoration-none text-strikethrough-none" data-mce-fragment="1">Disponíveis no banho ouro e prata.</span></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102603325697</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">459.00</s:price>
+      <s:sku>8121</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102603325697</id>
+      <title>Prata</title>
+      <s:price currency="BRL">459.00</s:price>
+      <s:sku>8122</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102611124481</id>
+    <published>2024-03-19T12:22:27-03:00</published>
+    <updated>2024-03-19T12:22:27-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-alicia-dourado"/>
+    <title>Brinco Alicia</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/IMG_0257.jpg?v=1736874575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">Inspirado no movimento das brisas e ventos.</span><span class="OYPEnA text-decoration-none text-strikethrough-none white-space-prewrap"> </span><span class="OYPEnA text-decoration-none text-strikethrough-none">Incorporamos a aplicação de pérolas naturais de água doce. </span></p>
+<p class="cvGsUA direction-ltr align-justify para-style-body">Disponíveis no banho ouro e prata.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102611124481</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>8123</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102611124481</id>
+      <title>Prata</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>8124</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102371033345</id>
+    <published>2023-12-06T08:52:54-03:00</published>
+    <updated>2023-12-06T08:52:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/prendedor-emma-dourado"/>
+    <title>Prendedor Emma</title>
+    <s:type>Prendedores</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3702.jpg?v=1700837617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Prendedores<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body" data-mce-fragment="1"><span class="OYPEnA text-decoration-none text-strikethrough-none" data-mce-fragment="1">Inspirado nas ondas do mar, no movimento das ondas.</span></p>
+<p class="cvGsUA direction-ltr align-justify para-style-body" data-mce-fragment="1"><span class="OYPEnA text-decoration-none text-strikethrough-none" data-mce-fragment="1">Disponíveis no banho dourado e prata. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>cabelo</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>prendedor cabelo</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102371033345</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>8113</s:sku>
+      <s:grams>17200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102371033345</id>
+      <title>Prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>8114</s:sku>
+      <s:grams>17200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102800326913</id>
+    <published>2023-12-06T08:50:48-03:00</published>
+    <updated>2023-12-06T08:50:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-awa-dourado"/>
+    <title>Choker Awa</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3397.jpg?v=1700832995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">Inspirado no movimento das brisas.</span></p>
+<p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA text-decoration-none text-strikethrough-none">Disponível em banho dourado e prata.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102800326913</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>8140</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102800326913</id>
+      <title>Prata</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>8141</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/capsula-fluir.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-03-12T14:02:24-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7772604924161</id>
+    <published>2025-03-12T14:02:24-03:00</published>
+    <updated>2025-03-12T14:02:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-laguna"/>
+    <title>Brinco Laguna</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/brincolagunamodelodourado1.png?v=1736102172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco inspirado nas leves ondas dos lagos, com pedras naturais com lapidação exclusiva Anna Prata. </p>
+<p><strong><em>Informações sobre as peças clique em detalhes</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>brinco com pedra</s:tag>
+    <s:tag>brinco grande</s:tag>
+    <s:tag>capsula fluir</s:tag>
+    <s:tag>capsula água</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>fluir</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772604924161</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6102</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7772604924161</id>
+      <title>Prata</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>6103</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-anima-1.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-03-17T10:05:12-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025098649857</id>
+    <published>2025-03-17T10:05:12-03:00</published>
+    <updated>2025-03-17T10:05:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-alice-dourado"/>
+    <title>Piercing Alice</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/19_903c553a-6843-4032-850d-06dc6063a2d7.png?v=1695843987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Piercing duplo feito à mão, disponível no banho ouro 18k e prata 1000.</p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;">Nossos adornos são livres de níquel e cádmio, para que não prejudiquem a sua saúde e não agridem a sua pele, sendo livre de substâncias tóxicas e cancerígenas. </span></p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anima</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>piercing</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098649857</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">239.00</s:price>
+      <s:sku>7620</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098649857</id>
+      <title>Prata</title>
+      <s:price currency="BRL">239.00</s:price>
+      <s:sku>7621</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025098715393</id>
+    <published>2025-03-14T08:35:38-03:00</published>
+    <updated>2025-03-14T08:35:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-edith-dourado"/>
+    <title>Brinco Edith</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/16_08f07ef7-e915-4b54-9e1f-5f8015a8816d.png?v=1695843942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco feito à mão, disponível no banho ouro 18k ou prata 1000.</p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;">Nossos adornos são livres de níquel e cádmio, para que não prejudiquem a sua saúde e não agridem a sua pele, sendo livre de substâncias tóxicas e cancerígenas. </span></p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anima</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098715393</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>7622</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098715393</id>
+      <title>Prata</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>7623</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8040784822529</id>
+    <published>2025-02-26T12:56:22-03:00</published>
+    <updated>2025-02-26T12:56:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-clarice-dourado"/>
+    <title>Brinco Clarice</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/3_e069af56-f156-452a-9ef2-e970a4253897.png?v=1695845636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            949.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco Clarice inspirado em elos feito à mão, disponível no banho dourado com as pedras jaspe cobra, sodalita e quartzo laranja e no banho prata com as pedras sodalita e quartzo laranja.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>clarice</s:tag>
+    <s:tag>drop elo</s:tag>
+    <s:tag>elos</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040784822529</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">949.00</s:price>
+      <s:sku>7796</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040784822529</id>
+      <title>Prata</title>
+      <s:price currency="BRL">949.00</s:price>
+      <s:sku>7797</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8040774500609</id>
+    <published>2025-02-26T10:26:28-03:00</published>
+    <updated>2025-02-26T10:26:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-clarice-14-dourdo"/>
+    <title>Anel Clarice</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/13_db2e325f-4957-4d5a-9f4a-e52be1fac1c7.png?v=1695845647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Anel feito à mão, inspirado em elos, banhado no ouro 18k com a pedra jaspe cobra e prata 1000, com a pedra quartzo laranja.</p>
+<p>Disponível nos tamanhos 14, 17 e 20.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>clarice</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>drop elo</s:tag>
+    <s:tag>elos</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040774500609</id>
+      <title>Dourado / 14</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7773</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040774500609</id>
+      <title>Dourado / 17</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7775</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040774500609</id>
+      <title>Dourado / 20</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7777</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040774500609</id>
+      <title>Prata / 14</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7774</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040774500609</id>
+      <title>Prata / 17</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7776</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040774500609</id>
+      <title>Prata / 20</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7778</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025098846465</id>
+    <published>2025-01-21T09:26:24-03:00</published>
+    <updated>2025-01-21T09:26:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-aria-dourado"/>
+    <title>Anel Aria</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/14_fe7de707-42fc-46b9-8048-a8ee1fe8eebe.png?v=1695843522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Anel feito à mão, regulável em formato de águia com cravação em pedra obsidiana negra, em metal polido com banho ouro 18k.</p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;">Nossos adornos são livres de níquel e cádmio, para que não prejudiquem a sua saúde e não agridem a sua pele, sendo livre de substâncias tóxicas e cancerígenas. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anima</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Black Anna Prata</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>águia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098846465</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>7626</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8029458792705</id>
+    <published>2025-01-21T09:21:34-03:00</published>
+    <updated>2025-01-21T09:21:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-alana-dourado"/>
+    <title>Brinco Alana</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/7_79fa24dd-79e9-40c4-b2fb-20f8e0eaff98.png?v=1695843916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            529.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco feito à mão, inspirado nas garras de águia em metal polido com banho ouro 18k e detalhes em ródio ou banho prata 1000.</p>
+<p>Nossos adornos são livres de níquel e cádmio, para que não prejudiquem a sua saúde e não agridem a sua pele, sendo livre de substâncias tóxicas e cancerígenas. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anima</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>argolas</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8029458792705</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">529.00</s:price>
+      <s:sku>7614</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8029458792705</id>
+      <title>Prata</title>
+      <s:price currency="BRL">529.00</s:price>
+      <s:sku>7615</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025093472513</id>
+    <published>2025-01-04T18:12:57-03:00</published>
+    <updated>2025-01-04T18:12:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-maite-14-dourado"/>
+    <title>Anel Maitê</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/21.png?v=1723811932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aliança com aplicação de corrente grumet em metal polido. Disponível no banho outro 18k e prata 1000.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>ânima</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025093472513</id>
+      <title>Dourado / 14</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>7587</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025093472513</id>
+      <title>Dourado / 17</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>7589</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025093472513</id>
+      <title>Dourado / 20</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>7591</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025093472513</id>
+      <title>Dourado / 22</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>7593</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025093472513</id>
+      <title>Prata / 14</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>7588</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025093472513</id>
+      <title>Prata / 17</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>7590</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025093472513</id>
+      <title>Prata / 20</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>7592</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025093472513</id>
+      <title>Prata / 22</title>
+      <s:price currency="BRL">249.00</s:price>
+      <s:sku>7594</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025095766273</id>
+    <published>2025-01-04T18:12:56-03:00</published>
+    <updated>2025-01-04T18:12:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-alana-14-dourado"/>
+    <title>Anel Alana</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/6_e3042fe3-7cfc-4fb0-8f1d-0fd77d9ae541.png?v=1695843902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            309.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Anel feito à mão inspirado nas garras da águia em metal polido com banho ouro 18k ou prata 1000 e detalhes em ródio.</p>
+<p>Disponível nos tamanhos 14 e 17.</p>
+<p>Nossos adornos são livres de níquel e cádmio, para que não prejudiquem a sua saúde e não agridem a sua pele, sendo livre de substâncias tóxicas e cancerígenas. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anima</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025095766273</id>
+      <title>Dourado / 14</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>7595</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025095766273</id>
+      <title>Dourado / 17</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>7597</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025095766273</id>
+      <title>Prata / 14</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>7596</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025095766273</id>
+      <title>Prata / 17</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>7598</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025095897345</id>
+    <published>2025-01-04T18:12:55-03:00</published>
+    <updated>2025-01-04T18:12:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-vivian-dourado"/>
+    <title>Brinco Vivian</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/3_b8048869-8dc2-494b-a528-7fecae234bfa.png?v=1723811967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brinco feito à mão, inspirado no olho de águia com pedra e aplicação de resina.</p>
+<p>Disponível no banho dourado com a pedra amazonita com resina azul e no banho prata com a pedra quartzo laranja com resina verde.</p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;">Nossos adornos são livres de níquel e cádmio, para que não prejudiquem a sua saúde e não agridem a sua pele, sendo livre de substâncias tóxicas e cancerígenas. </span></p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anima</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025095897345</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>7599</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025095897345</id>
+      <title>Prata</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>7600</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025097076993</id>
+    <published>2025-01-04T18:12:53-03:00</published>
+    <updated>2025-01-04T18:12:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-renee-14-dourado"/>
+    <title>Anel Reneé</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/11_aeb0eed7-6606-4b8f-9edf-687517675059.png?v=1723810436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Anel inspirado em correntarias pesadas, disponível no banho banho ouro 18k ou prata 1000.</p>
+<p><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;">Disponível nos tamanhos 14 e 17.</span></p>
+<p style="margin: 0cm; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;">Nossos adornos são livres de níquel e cádmio, para que não prejudiquem a sua saúde e não agridem a sua pele, sendo livre de substâncias tóxicas e cancerígenas. </span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anima</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025097076993</id>
+      <title>Dourado / 14</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>7608</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025097076993</id>
+      <title>Dourado / 17</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>7610</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025097076993</id>
+      <title>Prata / 14</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>7609</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025097076993</id>
+      <title>Prata / 17</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>7611</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8040786526465</id>
+    <published>2025-01-04T18:12:48-03:00</published>
+    <updated>2025-01-04T18:12:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-clarice-dourado"/>
+    <title>Colar Clarice</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/10_c72185a2-4db6-4a51-9d39-9d1240ea856b.png?v=1695845616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            769.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar <span data-mce-fragment="1">Clarice inspirado em elos feito à mão, disponível no banho dourado com as pedras jaspe cobra, sodalita e quartzo laranja e no banho prata com as pedras sodalita, quartzo laranja e jaspe cobra.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>clarice</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>drop elo</s:tag>
+    <s:tag>elos</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040786526465</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">769.00</s:price>
+      <s:sku>7798</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040786526465</id>
+      <title>Prata</title>
+      <s:price currency="BRL">769.00</s:price>
+      <s:sku>7799</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025095962881</id>
+    <published>2025-01-03T15:39:34-03:00</published>
+    <updated>2025-01-03T15:39:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-vivian-dourado"/>
+    <title>Colar Vivian</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/1_5c832b3c-d0cc-42b9-b673-227ab0f7100d.png?v=1736086477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pêndulo inspirado no olho de águia com pedra e aplicaçao de resina.</p>
+<p>Disponível no banho dourado com a pedra amazonita com resina azul e no banho prata com a pedra quartzo laranja com resina verde.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>ânima</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025095962881</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>7601</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025095962881</id>
+      <title>Prata</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>7602</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8040779350273</id>
+    <published>2024-11-06T16:15:09-03:00</published>
+    <updated>2024-11-06T16:15:09-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-serena-dourado"/>
+    <title>Bracelete Serena</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/11_24872431-0a74-4218-b3f6-625e626bf1e9.png?v=1695845581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            1059.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bracelete Serena <span data-mce-fragment="1">inspirado em elos feito à mão, disponível no banho ouro 18k e prata 1000.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>bracelete</s:tag>
+    <s:tag>drop elo</s:tag>
+    <s:tag>elos</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>serena</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040779350273</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1059.00</s:price>
+      <s:sku>7790</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040779350273</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1059.00</s:price>
+      <s:sku>7791</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8040779415809</id>
+    <published>2024-04-10T15:38:59-03:00</published>
+    <updated>2024-04-10T15:38:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-serena-dourado"/>
+    <title>Choker Serena</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/7_76ac7ce6-d12b-4cb8-bb65-e9a86f825f66.png?v=1695845592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Choker Serena inspirada em elos feita à mão, disponível no banho ouro 18k e prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>drop elo</s:tag>
+    <s:tag>elos</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>serena</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040779415809</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1199.00</s:price>
+      <s:sku>7792</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040779415809</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1199.00</s:price>
+      <s:sku>7793</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8040778334465</id>
+    <published>2024-02-28T13:57:30-03:00</published>
+    <updated>2024-02-28T13:57:30-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-serena-dourado"/>
+    <title>Brinco Serena</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/1_46eb1f75-e491-48fb-8496-4ae2db1e7dd6.png?v=1695845540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco Serena inspirado em elos feito à mão, disponível no banho ouro 18k e prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>drop elo</s:tag>
+    <s:tag>elos</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>serena</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040778334465</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>7787</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040778334465</id>
+      <title>Prata</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>7788</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8040778400001</id>
+    <published>2023-09-18T10:43:56-03:00</published>
+    <updated>2023-09-18T10:43:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/body-chain-serena-dourado"/>
+    <title>Body Chain Serena</title>
+    <s:type>Bodychain</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/6_ef34f0bc-cc8b-41cb-a3f8-5be740ec9c0c.png?v=1695845571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Bodychain<br>
+        <strong>Preço: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Body Chain Serena inspirado em elos feito à mão, disponível no banho ouro 18k.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>body chain</s:tag>
+    <s:tag>bodychain</s:tag>
+    <s:tag>drop elo</s:tag>
+    <s:tag>elos</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>serena</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040778400001</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">789.00</s:price>
+      <s:sku>7789</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8040767815937</id>
+    <published>2023-09-18T10:36:06-03:00</published>
+    <updated>2023-09-18T10:36:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-serena-dourado"/>
+    <title>Anel Serena</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/4_97351070-c5ae-457a-ae87-9111bb225ec7.png?v=1695845553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Anel feito à mão, inspirado em elos, banhado no ouro 18k e prata 1000.</p>
+<p>Disponível nos tamanhos 14, 17 e 20.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aneis</s:tag>
+    <s:tag>anel</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>drop elo</s:tag>
+    <s:tag>elos</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>serena</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040767815937</id>
+      <title>Dourado / 14</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7767</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040767815937</id>
+      <title>Dourado / 17</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7769</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040767815937</id>
+      <title>Dourado / 20</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7771</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040767815937</id>
+      <title>Prata / 14</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7768</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040767815937</id>
+      <title>Prata / 17</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7770</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8040767815937</id>
+      <title>Prata / 20</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7772</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025098518785</id>
+    <published>2023-08-02T16:09:44-03:00</published>
+    <updated>2023-08-02T16:09:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/earhook-alice-dourado"/>
+    <title>Earhook Alice</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/9_dbab9f17-9bcd-4f9b-a64e-dbbb4c01c9f6.png?v=1723810385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Earhook disponível no banho dourado e prata.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>earhook</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>ânima</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098518785</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7616</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098518785</id>
+      <title>Prata</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>7617</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025098813697</id>
+    <published>2023-08-02T16:08:46-03:00</published>
+    <updated>2023-08-02T16:08:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/bracelete-aria-dourado"/>
+    <title>Bracelete Aria</title>
+    <s:type>Braceletes</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/15_887e2493-1b5f-4f86-a831-6d2222bee8ed.png?v=1695843875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Braceletes<br>
+        <strong>Preço: </strong>
+            2279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bracelete em formato de águia com cravação de pedra obsidiana negra.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aguia</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>bracelete</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>ânima</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098813697</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">2279.00</s:price>
+      <s:sku>7631</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8025098584321</id>
+    <published>2023-08-02T16:02:19-03:00</published>
+    <updated>2023-08-02T16:02:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/extensora-12-cm-dourado"/>
+    <title>Extensora</title>
+    <s:type>Extensora</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/29.png?v=1690481683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Extensora<br>
+        <strong>Preço: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Corrente extensora disponível no banho ouro 18k e prata 1000.</p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;">Nossos adornos são livres de níquel e cádmio, para que não prejudiquem a sua saúde e não agridem a sua pele, sendo livre de substâncias tóxicas e cancerígenas. </span></p>
+<p style="margin: 0cm;"><span style="font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #1f2124;"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anima</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>corrente</s:tag>
+    <s:tag>extensora</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098584321</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">49.00</s:price>
+      <s:sku>7618</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8025098584321</id>
+      <title>Prata</title>
+      <s:price currency="BRL">49.00</s:price>
+      <s:sku>7619</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colares-e-chokers.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-04-20T10:00:20-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8757988491521</id>
+    <published>2025-04-20T10:00:20-03:00</published>
+    <updated>2025-04-20T10:00:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-oracao-ii"/>
+    <title>Colar Oração II</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/1_7dd3c220-1820-4ca3-b4de-7d5655a623aa.png?v=1744992657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Neste Dia das Mães, celebramos aquelas que transformam cada oração em proteção, cada súplica em esperança e cada gesto em puro amor.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Mães que, de joelhos, sustentam a vida dos filhos com a força da fé, elevando suas preces como um abraço invisível que acolhe, orienta e fortalece. Para elas, criamos adornos cheios de significado — símbolos da maternidade, da devoção e da beleza que habita no amor inabalável de uma mãe.</span></p>
+<p class="cvGsUA direction-ltr align-justify para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Peças que carregam histórias, brilham como reflexos de orações atendidas e envolvem com a mesma ternura de um colo materno.<br><br></span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Porque mãe que ora, orienta<br></span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">E mãe que ama, ilumina caminhos.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>COLAR</s:tag>
+    <s:tag>mães</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8757988491521</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>10509</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8757988491521</id>
+      <title>Prata</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>10510</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740852498689</id>
+    <published>2025-04-20T10:00:16-03:00</published>
+    <updated>2025-04-20T10:00:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-vertice-g"/>
+    <title>Colar Vértice G</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Colar_Vertice_G.png?v=1742839165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Contemplando a estabilidade e solidez como pilares da nossa coleção, o Colar Vértice traz em seu poderoso design a forma das pirâmides representando esse conceito. Em Quartzo Cristal e Quartzo Leitoso as pedras simbolizam a ligação coma tecnologia e refletem esse brilho moderno e contemporâneo que são os traços de identificação dessa coleção.<br></p>
+<p>Altura -mm / Largura -mm / Espessura -mm / Peso 38g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>COLAR</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852498689</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1099.00</s:price>
+      <s:sku>10451</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852498689</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1099.00</s:price>
+      <s:sku>10453</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740852433153</id>
+    <published>2025-04-20T10:00:15-03:00</published>
+    <updated>2025-04-20T10:00:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-vertice"/>
+    <title>Colar Vértice</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Colar_vertice_2d221491-8aca-4624-9edb-d4a2545c785f.png?v=1742839443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            569.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Acompanhando o design da família, os colares se apresentam em duas propostas de tamanho com o Colar Vértice sendo em um estilo minimalista e sofisticado. Sua estrutura de pirâmide acompanha uma pedra em cristal de quartzo e detalhes no banho prata e na versão quartzo leitoso no banho dourado.</p>
+<p><br>Altura -mm / Largura -mm / Espessura -mm / Peso 24g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>COLAR</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852433153</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">569.00</s:price>
+      <s:sku>10450</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852433153</id>
+      <title>Prata</title>
+      <s:price currency="BRL">569.00</s:price>
+      <s:sku>10452</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740852367617</id>
+    <published>2025-04-20T10:00:15-03:00</published>
+    <updated>2025-04-20T10:00:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-prisma"/>
+    <title>Choker Prisma</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Choker_Prisma_2_ef88b20f-0d83-4e66-8c9c-42a7463bf142.png?v=1742839482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uma imponente peça que transmite a verdadeira identidade de força e autoridade, com suas linhas inspiradas em traços de leitura facial a choker mostra que tem um estilo totalmente moderno e futurista. Suas facetas são trabalhadas em polimento de alto brilho que refletem essa identidade da mulher contemporânea, seu sistema de molas se adapta perfeitamente ao colo que se destaca nos banhos nobres em dourado e prata.</p>
+<p><br>Altura 171,5mm/ Largura 155,5mm / Espessura 79mm / Peso 110g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>choker</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852367617</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1999.00</s:price>
+      <s:sku>10448</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740852367617</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1999.00</s:price>
+      <s:sku>10449</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8740849647873</id>
+    <published>2025-04-20T10:00:14-03:00</published>
+    <updated>2025-04-20T10:00:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-prisma-p"/>
+    <title>Choker Prisma P</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Choker_Prisma_P_2_e495a71f-d309-4786-aede-271a5d2fd658.png?v=1742839520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As delicadas linhas que contornam o colo com seus traços facetadas e reluzentes são a identidade da Choker Prisma, um adorno atemporal que transmite uma energia vibrante e de entusiasmo. Seu formato minimalista permite compor looks sofisticados em um estilo único com a praticidade que o nosso tempo pede.<br><br>Altura 5mm / Largura 130mm/ Espessura 113mm / Peso 28g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>choker</s:tag>
+    <s:tag>faces</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740849647873</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10446</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8740849647873</id>
+      <title>Prata</title>
+      <s:price currency="BRL">699.00</s:price>
+      <s:sku>10447</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684644565249</id>
+    <published>2025-04-12T09:38:28-03:00</published>
+    <updated>2025-04-12T09:38:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-cassia-dourado-1"/>
+    <title>Corrente Cássia</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/250203_AnnaPrata_FB_1980.jpg?v=1738942436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Cássia: um clássico da Anna Prata traz em sua estrutura uma corrente grumet poderosa e elegante que foi um grande sucesso de vendas na Coleção Ânima.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Comprimento 40cm / Largura 9mm / Espessura 3mm / Peso 24g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644565249</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>10267</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644565249</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">549.00</s:price>
+      <s:sku>10274</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8484986749185</id>
+    <published>2025-04-08T15:26:43-03:00</published>
+    <updated>2025-04-08T15:26:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-lucy-calcedonia-m-dourado"/>
+    <title>Colar Lucy</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0096.png?v=1719859721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 56">
+<div class="layoutArea">
+<div class="column">
+<p><span>O casulo revelando em seu interior o resultado da metamorfose, uma preciosidade iluminada em seu esplendor simbolizado por uma pedra natural lapidada cheia de cor e brilho. O colar Lucy vem com uma Grande pedra lapidada em seu pingente suportado por uma corrente forte e cheia de personalidade. </span></p>
+</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484986749185</id>
+      <title>Calcedônia Dourado</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>9240</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484986749185</id>
+      <title>Cristal Prata</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>9241</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684641190145</id>
+    <published>2025-04-03T08:32:20-03:00</published>
+    <updated>2025-04-03T08:32:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-social-dourado"/>
+    <title>Corrente Casual</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/250203_AnnaPrata_FB_1996.jpg?v=1738942438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Casual: com elos finos e alongados ela se torna muito versátil e moderna em looks que transitam facilmente do dia para a noite.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Altura 75mm / Largura 82mm / Espessura 13mm / Peso 27g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684641190145</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">409.00</s:price>
+      <s:sku>10272</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684641190145</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">409.00</s:price>
+      <s:sku>10275</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6551979753521</id>
+    <published>2025-03-21T14:05:51-03:00</published>
+    <updated>2025-03-21T14:05:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-crenca"/>
+    <title>Colar Crença</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/3.png?v=1744995759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p>Colar com pingente de crucifixo em corrente veneziana com extensora.<br></p>
+<p>Peso 6 gramas<br>Pingente<br>Altura 56 mm<br>Largura 40 mm<br>Espessura 6 mm<br></p>
+<p>Corrente <br>Comprimento 50 cm<br>Largura 0,8 mm<br>Espessura 0,8 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Capsula Clamor</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colar fé</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>fé</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551979753521</id>
+      <title>dourado</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>COL-0142</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551979753521</id>
+      <title>prata</title>
+      <s:price currency="BRL">259.00</s:price>
+      <s:sku>COL-0142A</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7598067941633</id>
+    <published>2025-03-21T14:01:12-03:00</published>
+    <updated>2025-03-21T14:01:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-momentos"/>
+    <title>Colar Momentos</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta15.png?v=1646583898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar Momentos.<br>Colar em metal com textura martelada e detalhes com bolas de metal liso.<br></p>
+<p>Altura: 34 mm<br>Largura: 39 mm<br>Espessura: 15 mm<br>Corrente: 35 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>recomeço</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>shopping</s:tag>
+    <s:tag>textura</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7598067941633</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>COL-0183</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7598067941633</id>
+      <title>Prata</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>COL-0183A</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7690270343425</id>
+    <published>2025-03-21T13:59:34-03:00</published>
+    <updated>2025-03-21T13:59:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-trilha"/>
+    <title>Colar Trilha</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta13_35aa59cc-5dd1-4fe8-98d9-b99904e66431.png?v=1744995702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Corrente banhos dourado ou prata, com elos facetados com fecho gancho. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>COLEÇAO PERMANENTE</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>permanentes</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7690270343425</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>COL-0206</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7690270343425</id>
+      <title>Prata</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>COL-0206A</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7829864382721</id>
+    <published>2025-03-21T13:57:42-03:00</published>
+    <updated>2025-03-21T13:57:42-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-ciclone-g-agata-azul-prata"/>
+    <title>Colar Ciclone G</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta4_536041f7-c2b9-4046-97dc-547fead7a02e.png?v=1736102140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar com corrente veneziana 62cm, com folheação no ouro e prata, aplicação de pedras naturais e lapidação exclusiva Anna Prata.</p>
+<p>As pedras podem apresentar diferentes tonalidades.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>ciclone</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>cápsula ar</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864382721</id>
+      <title>Olho de Gato / dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6269</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864382721</id>
+      <title>Quartzo Verde / dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6270</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864382721</id>
+      <title>Drusa Negra / dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6268</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7829864382721</id>
+      <title>Agata Azul / dourado</title>
+      <s:price currency="BRL">479.00</s:price>
+      <s:sku>6276</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7923100614913</id>
+    <published>2025-03-21T13:49:06-03:00</published>
+    <updated>2025-03-21T13:49:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-liberdade-amarelo-prata"/>
+    <title>Colar Liberdade</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta19_0ed9344b-4ead-4863-8c98-9d9bc4aa7abc.png?v=1736102958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspirada no voo livre das libélulas o colar remete ao formato das suas asas.</p>
+<p>Disponível nas pedras: Feldspato amarelo, pink, laranja e Howlita Roxa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>botanica</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>colar dourado</s:tag>
+    <s:tag>colar prata</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923100614913</id>
+      <title>Roxo/ Dourado</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>6711</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923100614913</id>
+      <title>Laranja/ Dourado</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>6712</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923100614913</id>
+      <title>Pink/ Prata</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>6705</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923100614913</id>
+      <title>Amarelo/ Prata</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>6706</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7923008602369</id>
+    <published>2025-03-21T13:48:48-03:00</published>
+    <updated>2025-03-21T13:48:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-lirio-da-paz-g-dourado"/>
+    <title>Choker Lírio da Paz</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta45.jpg?v=1723810466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Choker inspirada no Lírio da Paz, disponível nos banhos: prata e dourado </p>
+<p>Escolha o tamanho do aro que melhor de adapte ao seu pescoço: <strong><em>Aro M: 30cm Aro G:33cm</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>choker dourada</s:tag>
+    <s:tag>choker prata</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>Lírio</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923008602369</id>
+      <title>Dourado / M</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>6593</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923008602369</id>
+      <title>Dourado / G</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>6598</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923008602369</id>
+      <title>Prata / M</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>6594</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7923008602369</id>
+      <title>Prata / G</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>6597</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8578360541441</id>
+    <published>2025-03-14T16:21:34-03:00</published>
+    <updated>2025-03-14T16:21:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-savana-dourado"/>
+    <title>Choker Savana</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/29_96f2109f-ae85-44cd-bbf8-3a70f8682092.png?v=1725371351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Os babados permeiam o vestuário feminino como sinônimo de feminilidade e na Choker Savana trazemos esse efeito como uma gola, inspirada nas roupas da realeza francesa ele traz efeito de seda pura em seu acabamento liso e alto brilho.<br><br>Altura 57,5cm / Largura 14,5mm<br>Espessura 14,5mm / Peso 70g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babado</s:tag>
+    <s:tag>Babados</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578360541441</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1399.00</s:price>
+      <s:sku>9407</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8578360541441</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1399.00</s:price>
+      <s:sku>9408</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7901258907905</id>
+    <published>2025-03-12T14:26:23-03:00</published>
+    <updated>2025-03-12T14:26:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-libelula"/>
+    <title>Choker Libélula</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta43.png?v=1668018280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Choker inspirado na anatomia das libélulas com pedras multicoloridas.</span></p>
+<p><span>Pedras com lapidação exclusiva. <br>Feldspato Laranja e Verde (dourado)<br>Feldspato Pink e Howlita Roxa (prata)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>libelula</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7901258907905</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1499.00</s:price>
+      <s:sku>6525</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7901258907905</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1499.00</s:price>
+      <s:sku>6526</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7608980013313</id>
+    <published>2025-03-12T14:22:31-03:00</published>
+    <updated>2025-03-12T14:22:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/gargantilha-coragem"/>
+    <title>Gargantilha Coragem</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta9_97078078-210c-430f-833d-388920cb4eab.png?v=1736102297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gargantilha nos banhos prata ou dourado, com pingente de efeito martelado e detalhe de pedra natural.</p>
+<p>Mais informações clique em detalhes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>coragem</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>recomeço</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>shopping</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608980013313</id>
+      <title>Howlita/Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>COL-0180</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608980013313</id>
+      <title>Quartzo Goiaba/Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>COL-0180B</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7608980013313</id>
+      <title>Angelita/Prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>COL-0180C</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7692848595201</id>
+    <published>2025-03-12T14:02:19-03:00</published>
+    <updated>2025-03-12T14:02:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-rochedo"/>
+    <title>Colar Rochedo</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta13_5a6f72c8-f2f6-4faf-94b8-06762b294476.png?v=1654717782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colar Rochedo.</p>
+<p>Colar com design orgânico inspirado no solo e rochas.</p>
+<p>Comprimento 42 cm<br>Largura 49 mm<br>Espessura 7 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula terra</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>Coleção Fluir</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>terra</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7692848595201</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>COL-0204</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684644630785</id>
+    <published>2025-03-12T07:20:46-03:00</published>
+    <updated>2025-03-12T07:20:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-artistica-dourado"/>
+    <title>Corrente Clássica</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Classica.png?v=1738943580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            559.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Clássica: a alfaiataria foi o norte para escolhermos essa corrente que pode acompanhar looks variados e sofisticados.</span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none"><meta charset="utf-8">Comprimento 38cm / Largura 19mm / Espessura 3,5mm / Peso 90g / 10cm extensora</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644630785</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">559.00</s:price>
+      <s:sku>10131</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644630785</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">559.00</s:price>
+      <s:sku>10269</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8684644729089</id>
+    <published>2025-03-12T07:20:43-03:00</published>
+    <updated>2025-03-12T07:20:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/corrente-cacto-dourado"/>
+    <title>Corrente Cacto</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/Cacto_2_61e42fa6-7779-43d3-8b58-51056cd9655c.png?v=1745326450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Buscando uma ligação com nossa essência e para homenagear os variados estilos de mulheres que conseguimos conquistar ao longo de nossa jornada, a linha de correntarias traz a Corrente Cacto: no auge da tendência de correntarias pesadas surge a corrente Cacto com elos de “espinhos” que se torna um sucesso instantâneo que volta em homenagem a essa ligação que trazemos da nossa essência Anna Prata.</span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></p>
+<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><meta charset="utf-8"> <span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Altura 21,5mm / Largura 16mm / Espessura 7mm / Peso 3,25g</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Voltando a Essencia</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644729089</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">1299.00</s:price>
+      <s:sku>10276</s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8684644729089</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">1299.00</s:price>
+      <s:sku>10268</s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8159488540929</id>
+    <published>2025-03-07T08:56:21-03:00</published>
+    <updated>2025-03-07T08:56:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-letra-z-dourado"/>
+    <title>Colar Letra Z</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0770.jpg?v=1706291261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Colar com inicial de letra e detalhe em spalsh de metal polido.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abecedário</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Coleção Ah-Mar</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8159488540929</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>8493</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8614792102145</id>
+    <published>2025-03-07T08:53:17-03:00</published>
+    <updated>2025-03-07T08:53:17-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/pingente-meu-anjo-dourado"/>
+    <title>Pingente Meu Anjo</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AnnaPrata_FundoBranco_01_10_24_018.png?v=1728064166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Pingente Meu Anjo </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pingente</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8614792102145</id>
+      <title>Silver</title>
+      <s:price currency="BRL">199.00</s:price>
+      <s:sku>9894</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8614792102145</id>
+      <title>Gold</title>
+      <s:price currency="BRL">199.00</s:price>
+      <s:sku>9574</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/6551936598065</id>
+    <published>2025-02-27T09:32:20-03:00</published>
+    <updated>2025-02-27T09:32:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/gargantilha-mateus-6-13"/>
+    <title>Gargantilha Mateus 6:13</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Designsemnome_ae9f9f76-050d-4bdd-879d-39cbb55d4ad0.png?v=1744995778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            319.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gargantilha escrito Livrai-me de todo mal<br><br>Peso 9 gramas<br>Altura 12,5 cm<br>Largura 12,5 cm <br>Espessura 1,7 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula clamor</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>dourado</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>gargantilha</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>livrai me</s:tag>
+    <s:tag>mateus</s:tag>
+    <s:tag>prata</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551936598065</id>
+      <title>dourado</title>
+      <s:price currency="BRL">319.00</s:price>
+      <s:sku>COL-0145</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/6551936598065</id>
+      <title>prata</title>
+      <s:price currency="BRL">319.00</s:price>
+      <s:sku>COL-0145A</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/4519253999665</id>
+    <published>2025-02-26T14:44:23-03:00</published>
+    <updated>2025-02-26T14:44:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-passaros-p"/>
+    <title>Colar Pássaros P</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Colar_passaros_pequeno_e_grande_19204113-abbc-4acb-b196-c11abec06515.jpg?v=1744995844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            339.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+Colar Pássaros P</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A Criação</s:tag>
+    <s:tag>anna prata</s:tag>
+    <s:tag>capsula clamor</s:tag>
+    <s:tag>capsula passaro</s:tag>
+    <s:tag>clamor</s:tag>
+    <s:tag>colar passaro</s:tag>
+    <s:tag>essenciais</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4519253999665</id>
+      <title>Prata</title>
+      <s:price currency="BRL">339.00</s:price>
+      <s:sku>colpr-469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/4519253999665</id>
+      <title>Ouro</title>
+      <s:price currency="BRL">339.00</s:price>
+      <s:sku>colou-470</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8102699434241</id>
+    <published>2025-02-26T14:38:39-03:00</published>
+    <updated>2025-02-26T14:38:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-luna-dois-dourado"/>
+    <title>Colar Luna</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP3705_d8c9e282-67fb-4a26-8eca-f3c8f1272154.jpg?v=1701706319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<span data-canva-clipboard="ewAiAGEAIgA6ADUALAAiAGQAIgA6ACIAQgAiACwAIgBoACIAOgAiAHcAdwB3AC4AYwBhAG4AdgBhAC4AYwBvAG0AIgAsACIAYwAiADoAIgBEAEEARgAwAFYAbQBuAG4AawBlADAAIgAsACIAaQAiADoAIgBRAFgASwBYAEgAWAA0AGgANgBFAHEAMwBPAEgAaABkAGYAaABBAE8ASwBRACIALAAiAGIAIgA6ADEANwAwADEANgA5ADkAMgA5ADcAMgAyADEALAAiAEEAPwAiADoAIgBCACIALAAiAEEAIgA6AFsAewAiAEEAIgA6ADIANQA0ADUALgAwADIANwA3ADgAMQA4ADkAMgA3ACwAIgBCACIAOgA2ADYALgA3ADQAMwAwADAAOQA4ADMAOAA0ADQAMAA2ADgALAAiAEQAIgA6ADEAOQAzADMALgA1ADEAMwA5ADgAMAAzADIAMwAxADEAOAA2ACwAIgBDACIAOgAyADUAMAAuADYANAA2ADgAOAA0ADYAMAA5ADMANwA1ACwAIgBBAD8AIgA6ACIASwAiACwAIgBhACIAOgB7ACIAQQAiADoAWwB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAIgBQAGUAZAByAGEAIABEAHIAdQBzAGEAIABOAGEAdAB1AHIAYQBsACAAZQBtACAAVABvAG0AIABNAGUAdADhAGwAaQBjAG8AIABQAGwAYQB0AGkAbgBhAC4AXABuAEMAbwByAGQA4wBvACAAZABlACAAQQBsAGcAbwBkAOMAbwAgADEANQBtAG0AIABwAHIAZQB0AG8AIABlACAAcABvAG4AdABlAGkAcgBhACAAYwBvAG0AIABmAGUAYwBoAG8AIABkAGUAIADtAG0AYQAuAFwAbgBDAG8AbgBzAHUAbAB0AGUAIABwAHIAbwBwAG8AcgDnAPUAZQBzACAAZABlACAAcABlAGQAcgBhAC4AXABuAFwAbgAiAH0AXQAsACIAQgAiADoAWwB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAewAiAHQAZQB4AHQALQBhAGwAaQBnAG4AIgA6AHsAIgBCACIAOgAiAGoAdQBzAHQAaQBmAHkAIgB9ACwAIgBmAG8AbgB0AC0AcwBpAHoAZQAiADoAewAiAEIAIgA6ACIANAA2AC4ANgA2ADYANwAiAH0AfQB9ACwAewAiAEEAPwAiADoAIgBCACIALAAiAEEAIgA6ADEAMwAzAH0ALAB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAewAiAGMAbwBsAG8AcgAiADoAewAiAEIAIgA6ACIAIwAwADAAMAAwADAAMAAiAH0AfQB9ACwAewAiAEEAPwAiADoAIgBCACIALAAiAEEAIgA6ADEAfQAsAHsAIgBBAD8AIgA6ACIAQQAiACwAIgBBACIAOgB7ACIAYwBvAGwAbwByACIAOgB7ACIAQQAiADoAIgAjADAAMAAwADAAMAAwACIAfQAsACIAdABlAHgAdAAtAGEAbABpAGcAbgAiADoAewAiAEEAIgA6ACIAagB1AHMAdABpAGYAeQAiAH0ALAAiAGYAbwBuAHQALQBzAGkAegBlACIAOgB7ACIAQQAiADoAIgA0ADYALgA2ADYANgA3ACIAfQB9AH0AXQB9ACwAIgBiACIAOgB7AH0ALAAiAGQAIgA6ACIAQQAiACwAIgBnACIAOgBmAGEAbABzAGUALAAiAGgAIgA6ACIAQQAiAH0AXQAsACIAQgAiADoAMgAwADYANwAsACIAQwAiADoAMgA5ADIANQB9AA==" data-mce-fragment="1"></span>
+<p data-mce-fragment="1">Pedra Drusa Natural em Tom Metálico Platina. Cordão de Algodão 15mm preto e ponteira com fecho de ímã. </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brisa</s:tag>
+    <s:tag>COLAR</s:tag>
+    <s:tag>coleção brisa</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>pedra</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8102699434241</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">799.00</s:price>
+      <s:sku>8134</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

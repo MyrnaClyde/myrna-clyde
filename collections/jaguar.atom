@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/jaguar.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-02-12T14:57:28-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633456984321</id>
+    <published>2025-02-12T14:57:28-03:00</published>
+    <updated>2025-02-12T14:57:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-kira-dourado"/>
+    <title>Anel Kira</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/kira_ring_2.png?v=1734361575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As inconfundíveis manchas no pelo do Jaguar são a principal fonte de inspiração para nossa linha Kira, preservando uma essência clássica do “animal print”. As peças trazem um design orgânico, atemporal e extremamente poderoso. No anel, trazemos uma forma abaulada e minimalista, com acabamento polido, e, se usado como elemento de repetição, enche as mãos das “pintas” do jaguar, criando um efeito poderoso.<br><br>Altura 23,5mm / Largura 24,5mm<br>Espessura 18mm / Peso total 13g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633456984321</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>9667</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633456984321</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>9668</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457115393</id>
+    <published>2025-02-08T11:08:18-03:00</published>
+    <updated>2025-02-08T11:08:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/earhook-kira-dourado"/>
+    <title>Earhook Kira</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/kira.png?v=1734362023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As inconfundíveis manchas do jaguar inspiram a linha Kira, forte e poderosa vem com um design orgânico e clássico, os earhooks em metal no brilho polido trazem o estilo earjacket que abraçam as orelhas como uma fera dominando sua presa numa exaltação sexy e poderosa.<br><br>Altura 23,5mm / Largura 24,5mm<br>Espessura 18mm / Peso total 13g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457115393</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9671</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457115393</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9672</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457049857</id>
+    <published>2025-02-07T10:32:24-03:00</published>
+    <updated>2025-02-07T10:32:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-vita-dourado"/>
+    <title>Anel Vita</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/vita_ring.png?v=1734361237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O ciclo perpétuo da vida na natureza selvagem, precisa de sua continuidade...as esferas da<br>linha enaltecem essa plenitude em representar a perfeição e harmonia. Os anéis com linhas e bolas, em metal liso e polido, simbolizam os ciclos que vivenciamos ao longo da vida e contam a história de cada um de nós.<br><br>Altura 24mm / Largura 23,5mm / Espessura 31mm / Peso 10,2g</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457049857</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">469.00</s:price>
+      <s:sku>9669</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457049857</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">469.00</s:price>
+      <s:sku>9670</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457639681</id>
+    <published>2024-11-24T20:32:45-03:00</published>
+    <updated>2024-11-24T20:32:45-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/laco-alika-jaguar-dourado"/>
+    <title>Laço Alika</title>
+    <s:type>Prendedores</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/alika_bow.png?v=1734362040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Prendedores<br>
+        <strong>Preço: </strong>
+            279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Em referência à Christian Dior, nos rendeu para essa coleção uma homenagem aos anos<br>de ouro da Maison, usando o animal print em materiais alternativos, evitando as peles,<br>trazemos um laço com efeito drapeado e seu nome que exalta a “mais bela entre as belas”<br>com o objetivo de causar esse efeito em quem as usa.<br><br>Altura 22cm / Largura 20mm </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457639681</id>
+      <title>BLACK</title>
+      <s:price currency="BRL">279.00</s:price>
+      <s:sku>9687</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457639681</id>
+      <title>JAGUAR</title>
+      <s:price currency="BRL">279.00</s:price>
+      <s:sku/>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633460850945</id>
+    <published>2024-11-24T20:32:23-03:00</published>
+    <updated>2024-11-24T20:32:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/lenco-jaguar"/>
+    <title>Lenço Jaguar</title>
+    <s:type>Prendedores</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/jaguar_scarff.png?v=1734361510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Prendedores<br>
+        <strong>Preço: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O lenço em cetim traz uma estampa de inspiração gráfica e animal print num estilo<br>“African core”. As manchas de onça e outros animais da savana africana se complementam<br>com figuras geométricas e estilizadas. Aliado aos adornos de metal se torna um poderoso<br> elemento de styling enriquecendo o look.<br><br>Altura 51cm / Largura 51cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633460850945</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">139.00</s:price>
+      <s:sku>9695</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457574145</id>
+    <published>2024-11-24T20:31:39-03:00</published>
+    <updated>2024-11-24T20:31:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/piercing-ivy-dourado"/>
+    <title>Piercing Ivy</title>
+    <s:type>Piercings</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/ivy_piercing.png?v=1734362062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Piercings<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A força da onça e suas poderosas e temidas garras deixam sua marca na linha Ivy. O design clean e minimalista das peças traz cortes de garras que representam a agilidade e dinâmica da fera em busca da sua presa. Assim como a mulher precisa ser forte e resiliente ao correr atrás de seus objetivos, o piercing traz essa simbologia. Uma peça cíclica que ora lisa, ora vazada, como os momentos de dificuldades na vida, porém sempre forte e reluzente.<br><br>Altura 28,5Mm / Largura 16,5mm<br>Espessura 29mm / Peso 40g<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457574145</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>10287</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457574145</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9686</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633460687105</id>
+    <published>2024-11-24T20:31:15-03:00</published>
+    <updated>2024-11-24T20:31:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/tiara-nala-dourado"/>
+    <title>Tiara Nala</title>
+    <s:type>Prendedores</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/nala_tiara_2.png?v=1734361546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Prendedores<br>
+        <strong>Preço: </strong>
+            379.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Acompanhando a inspiração do ciclo da vida, a Tiara Nala traz em seu nome o significado africano de Rainha. Pensada de forma a coroar a mulher que usa esse adorno, com a imponência e beleza da Majestade na selva, a onça! Ela traz em seu design bolas em metal representando os ciclos e as manchas do animal em uma proposta minimalista.<br><br>Altura 180mm / Largura 180mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633460687105</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>9690</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633460687105</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">379.00</s:price>
+      <s:sku>9689</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457508609</id>
+    <published>2024-11-24T20:30:59-03:00</published>
+    <updated>2024-11-24T20:30:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/earhook-ivy-dourado"/>
+    <title>Earhook Ivy</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/ivy_earring.png?v=1734361371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex max-w-full flex-col flex-grow">
+<div data-message-author-role="assistant" data-message-id="6b588812-7e88-46f1-94fe-6661fab37a6c" dir="auto" class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5" data-message-model-slug="gpt-4o">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>A força da onça e suas poderosas e temidas garras deixam sua marca na linha Ivy. O design clean e minimalista das peças traz cortes de garras que representam a agilidade e dinâmica da fera em busca da sua presa. Os earhooks, com os dois momentos liso e vazado, apresentam a ideia de mostrar esse conceito inovador e contemporâneo.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Altura 31,5mm / Largura 18,5mm<br>Espessura 15,5mm / Peso 11,5g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457508609</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">409.00</s:price>
+      <s:sku>9683</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457508609</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">409.00</s:price>
+      <s:sku>9684</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457443073</id>
+    <published>2024-11-24T20:30:58-03:00</published>
+    <updated>2024-11-24T20:30:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-kim-dourado"/>
+    <title>Brinco Kim</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/kim_earring.png?v=1734361947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>O brinco tem a proposta minimalista de representar as manchas da onça numa referência moderna e conceitual, com sua base removível em metal liso e polido e pendulo que se desdobra em laminas circulares de metal dando efeito de brilho e movimento como a bela pelagem do animal.<br><br><strong>com franja</strong> - Altura 140mm / Largura<br>40mm / Espessura 6,5mm / Peso 40g<br><br><strong>sem franja</strong> - Altura 30mm / Largura<br>18,5mm / Espessura 6,5mm / Peso 40g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457443073</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>9681</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457443073</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>9682</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457377537</id>
+    <published>2024-11-24T20:30:57-03:00</published>
+    <updated>2024-11-24T20:30:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-dara-dourado"/>
+    <title>Anel Dara</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/CapturadeTela2024-12-10as12.19.05.png?v=1734361049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As curvas elegantes e fluidas da linha Dara representam a conexão e a raiz de toda a força do animal. Os movimentos circulares, contínuos e dinâmicos de suas patas em uma corrida em busca do seu objetivo são refletidos no belo movimento circular dos anéis, com alturas diferentes, que se enriquecem ao serem usados em conjunto. Esse design cria um efeito de dinamismo e perspectiva em curvas elegantes e fluidas.<br><br>Altura 30mm / Largura 28,5mm / Espessura 15mm / Peso 11g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457377537</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>9679</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457377537</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>9680</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457312001</id>
+    <published>2024-11-24T20:30:56-03:00</published>
+    <updated>2024-11-24T20:30:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-ivy-dourado"/>
+    <title>Anel Ivy</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/ivy_ring.png?v=1734361868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As temidas garras da onça deixam sua marca na linha Ivy, o design clean e minimalista traz<br>recortes ao longo das peças representando agilidade e dinâmica de um caçador, os anéis trazem o conceito de liso e vazado em metal polido com movimento fluido e possibilidade de encaixe entre eles.</p>
+<p><br>Altura 26,5mm / Largura 124mm / Espessura 17mm / Peso 5,6g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457312001</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>9677</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457312001</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">289.00</s:price>
+      <s:sku>9678</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457246465</id>
+    <published>2024-11-24T20:30:55-03:00</published>
+    <updated>2024-11-24T20:30:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-kira-dourado"/>
+    <title>Choker Kira</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/kira.png?v=1734362023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As inconfundíveis manchas no pelo do Jaguar são a fonte de inspiração principal para nossa linha Kira. Preservando uma essência clássica do “animal print”, as peças trazem um design orgânico, atemporal e extremamente poderoso. Nessa choker, usamos várias pintas em sequência que vestem o pescoço como uma extensão do brinco, trazendo essa mulher ferina e poderosa à tona. O efeito de coleira não a limita em ser dominada; ela é uma fera e está pronta para atacar!<br><br>Altura 43mm / Largura 132mm<br>Espessura 56,5mm / Peso 70g<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457246465</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>9675</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457246465</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>9676</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8633457180929</id>
+    <published>2024-11-24T20:30:54-03:00</published>
+    <updated>2024-11-24T20:30:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-dara-dourado"/>
+    <title>Brinco Dara</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/dara_earrings_2.png?v=1734361921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As curvas elegantes e fluidas da linha Dara representam a conexão e a raiz de toda a força do animal os movimentos circulares dão volume às orelhas e criam um semblante poderoso em quem os usa. Seu acabamento em metal liso e polido compõe o olhar com força e elegância.<br><br>Altura 41mm / Largura 36,5mm<br>Espessura 30,5mm / Peso 43,5g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457180929</id>
+      <title>DOURADO</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>9673</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8633457180929</id>
+      <title>PRATA</title>
+      <s:price currency="BRL">599.00</s:price>
+      <s:sku>9674</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/ultimas-pecas.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-04-08T15:26:43-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8484986749185</id>
+    <published>2025-04-08T15:26:43-03:00</published>
+    <updated>2025-04-08T15:26:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-lucy-calcedonia-m-dourado"/>
+    <title>Colar Lucy</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0096.png?v=1719859721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 56">
+<div class="layoutArea">
+<div class="column">
+<p><span>O casulo revelando em seu interior o resultado da metamorfose, uma preciosidade iluminada em seu esplendor simbolizado por uma pedra natural lapidada cheia de cor e brilho. O colar Lucy vem com uma Grande pedra lapidada em seu pingente suportado por uma corrente forte e cheia de personalidade. </span></p>
+</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484986749185</id>
+      <title>Calcedônia Dourado</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>9240</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484986749185</id>
+      <title>Cristal Prata</title>
+      <s:price currency="BRL">899.00</s:price>
+      <s:sku>9241</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8484990812417</id>
+    <published>2024-07-03T19:57:22-03:00</published>
+    <updated>2024-07-03T19:57:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/colar-iris-dourado"/>
+    <title>Colar Íris</title>
+    <s:type>Colares</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0271.png?v=1719859721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Colares<br>
+        <strong>Preço: </strong>
+            569.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 48">
+<div class="layoutArea">
+<div class="column">
+<p><span>O Colar Íris ostenta as asas de uma borboleta em formas minimalistas, acompanhado de uma delicada Corrente que possibilita seu uso em uma ou duas voltas dando um efeito delicado e contemporâneo. </span></p>
+</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484990812417</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">569.00</s:price>
+      <s:sku>9250</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484990812417</id>
+      <title>Prata</title>
+      <s:price currency="BRL">569.00</s:price>
+      <s:sku>9252</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8484988748033</id>
+    <published>2024-07-03T19:57:21-03:00</published>
+    <updated>2024-07-03T19:57:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-iris-dourado"/>
+    <title>Choker Íris</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0164.png?v=1719859721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 34">
+<div class="layoutArea">
+<div class="column">
+<p><span>Como uma revoada de borboletas a choker Íris revela o auge da metamorfose com asas em formas Minimalistas e limpas expressando a pureza, leveza e liberdade. </span></p>
+</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484988748033</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">1199.00</s:price>
+      <s:sku>9246</s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484988748033</id>
+      <title>Prata</title>
+      <s:price currency="BRL">1199.00</s:price>
+      <s:sku>9248</s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8484986814721</id>
+    <published>2024-07-03T19:57:20-03:00</published>
+    <updated>2024-07-03T19:57:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-renata-dourado"/>
+    <title>Brinco Renata</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0039_0d428791-283e-47fd-8b1f-34d521762bb0.png?v=1719859687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            389.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 8">
+<div class="layoutArea">
+<div class="column">
+<p><span>A transição de abertura do casulo reflete a referência da família Renata, os brincos trazem a silhueta de uma borboleta estilizada em linhas simples e minimalistas com sua nova imagem representado pelo metal liso e altamente polido </span></p>
+</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484986814721</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>9242</s:sku>
+      <s:grams>58</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484986814721</id>
+      <title>Prata</title>
+      <s:price currency="BRL">389.00</s:price>
+      <s:sku>9244</s:sku>
+      <s:grams>58</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8484976525569</id>
+    <published>2024-07-03T19:57:18-03:00</published>
+    <updated>2024-07-03T19:57:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-iris-dourado"/>
+    <title>Brinco Íris</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0284.png?v=1719859721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            539.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 39">
+<div class="layoutArea">
+<div class="column">
+<p><span>De formas minimalistas e limpas o brinco Íris representa o final da metamorfose, uma linda borboleta que flutua sobre as orelhas em um efeito moderno e versátil. </span></p>
+<p><span>Produzido em metal de liga nobre com acabamento liso e altamente polido. </span></p>
+</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484976525569</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">539.00</s:price>
+      <s:sku>9234</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484976525569</id>
+      <title>Prata</title>
+      <s:price currency="BRL">539.00</s:price>
+      <s:sku>9236</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8484965908737</id>
+    <published>2024-07-03T19:57:18-03:00</published>
+    <updated>2024-07-03T19:57:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/choker-lucy-ametista-prata"/>
+    <title>Choker Lucy</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0219.png?v=1719859722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 63">
+<div class="layoutArea">
+<div class="column">
+<p><span>O casulo revela em seu interior o resultado da metamorfose, uma preciosidade iluminada em seu esplendor simbolizado por uma pedra natural lapidada cheia de cor e brilho. A choker vem com metal Envolvendo as pedras em estilo minimalista e orgânico com fio de metal liso e polido. </span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484965908737</id>
+      <title>Qtz Verde Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9229</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484965908737</id>
+      <title>Calcedônia Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9232</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484965908737</id>
+      <title>Ametista Prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9230</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8484965777665</id>
+    <published>2024-07-03T19:57:16-03:00</published>
+    <updated>2024-07-03T19:57:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-renata-dourado"/>
+    <title>Anel Renata</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP1970.png?v=1719861274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 15">
+<div class="layoutArea">
+<div class="column">
+<p><span>O desabrochar do casulo se reflete no anel Renata, como partes dele se abrindo o anel envolve os dedos em uma fita orgânica e minimalista em metal liso e polido com estilo contemporâneo e sofisticado. </span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484965777665</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">279.00</s:price>
+      <s:sku>9208</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484965777665</id>
+      <title>Prata</title>
+      <s:price currency="BRL">279.00</s:price>
+      <s:sku>9214</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8484951720193</id>
+    <published>2024-07-03T19:57:16-03:00</published>
+    <updated>2024-07-03T19:57:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-eva-dourado"/>
+    <title>Brinco Eva</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0244_cf425e31-ee2a-4f69-83b8-1ba82a63f036.png?v=1719859914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 21">
+<div class="layoutArea">
+<div class="column">
+<p><span>Ao representar o estágio de desenvolvimento, usamos duas formas diferentes de casulos para o brinco Eva, eles são orgânicos com acabamento liso e alto polimento, em liga de metal nobre banhado em dourado ou prata. </span></p>
+</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484951720193</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>9224</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484951720193</id>
+      <title>Prata</title>
+      <s:price currency="BRL">499.00</s:price>
+      <s:sku>9226</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8484951621889</id>
+    <published>2024-07-03T19:57:15-03:00</published>
+    <updated>2024-07-03T19:57:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-lucy-calcedonia-m-dourado"/>
+    <title>Brinco Lucy</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AnnaPrata_03_06_24_3112.png?v=1719860406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            309.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 69">
+<div class="layoutArea">
+<div class="column">
+<p><span>O casulo revela em seu interior o resultado da metamorfose, uma preciosidade iluminada em seu esplendor simbolizado por uma pedra natural lapidada cheia de cor e brilho. O brinco vem com metal Envolto nas pedras com foras minimalistas e orgânicas com acabamento liso e polido. </span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484951621889</id>
+      <title>Qtz Verde Dourado</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>9211</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484951621889</id>
+      <title>Ametista Prata</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>9213</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484951621889</id>
+      <title>Calcedônia Dourado</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>9220</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8484951621889</id>
+      <title>Cristal Prata</title>
+      <s:price currency="BRL">309.00</s:price>
+      <s:sku>9223</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8426016833793</id>
+    <published>2024-07-03T19:57:13-03:00</published>
+    <updated>2024-07-03T19:57:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-iris-dourado"/>
+    <title>Anel Íris</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AnnaPrata_03_06_24_3089_2b64d63d-003a-48e8-86b3-1ffdb3611cf7.png?v=1719861036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            329.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 51">
+<div class="layoutArea">
+<div class="column">
+<p><span>O anel Íris traz formas minimalistas em sua composição envolvendo os dedos como assas da borboleta sendo regulável e produzido em metal de liga nobre com acabamento liso e altamente polido. </span></p>
+</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8426016833793</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">329.00</s:price>
+      <s:sku>9192</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8426016833793</id>
+      <title>Prata</title>
+      <s:price currency="BRL">329.00</s:price>
+      <s:sku>9194</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8426016669953</id>
+    <published>2024-07-03T19:57:12-03:00</published>
+    <updated>2024-07-03T19:57:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/anel-eva-dourado"/>
+    <title>Anel Eva</title>
+    <s:type>Anéis</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/AP0249.png?v=1719859721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Anéis<br>
+        <strong>Preço: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 28">
+<div class="layoutArea">
+<div class="column">
+<p><span>Ao representar o estágio de desenvolvimento, usamos a forma de um casulo para o anel Eva, ele é orgânico com acabamento liso e alto polimento, em liga de metal nobre banhado em dourado ou prata. </span></p>
+</div>
+</div>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Etérea</s:tag>
+    <s:tag>Etérea 2</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8426016669953</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9189</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8426016669953</id>
+      <title>Prata</title>
+      <s:price currency="BRL">399.00</s:price>
+      <s:sku>9190</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-doma.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-03-10T17:44:18-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/8402529517825</id>
+    <published>2025-03-10T17:44:18-03:00</published>
+    <updated>2025-03-10T17:44:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/broche-maria-paula-dourado"/>
+    <title>Broche Maria Paula</title>
+    <s:type>Broches</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/files/13.png?v=1715359899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Broches<br>
+        <strong>Preço: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Símbolos de poder e autoridade no universo country as estrelas vem em silhuetas geométricas no broche. <br><br><strong>Que acompanhado do couro com ponteiras possibilita o uso em forma de gravatinha no estilo western.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doma</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/8402529517825</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">429.00</s:price>
+      <s:sku>9034</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

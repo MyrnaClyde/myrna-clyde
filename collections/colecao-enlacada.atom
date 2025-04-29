@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/colecao-enlacada.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-02-26T13:22:24-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7980514509057</id>
+    <published>2025-02-26T13:22:24-03:00</published>
+    <updated>2025-02-26T13:22:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/cho-laco-dourado-p"/>
+    <title>Choker Laço P</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta8_fb1a5453-060d-4d39-894c-27c37c8f33ba.png?v=1736102850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Choker inspirada em laços, disponível no banho ouro 18k ou prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>choker</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>laço</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514509057</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>7027</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514509057</id>
+      <title>Prata</title>
+      <s:price currency="BRL">349.00</s:price>
+      <s:sku>7028</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7980514935041</id>
+    <published>2025-02-26T13:14:28-03:00</published>
+    <updated>2025-02-26T13:14:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-laco-m-dourado"/>
+    <title>Brinco Laço M</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta4_bd0caacf-ff9f-4ecb-a9a2-6e4d99abec5b.png?v=1680809204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            619.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco assimétrico inspirado em laços. Disponível no banho ouro 18k ou prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Black Anna Prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>laço</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514935041</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">619.00</s:price>
+      <s:sku>7039</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514935041</id>
+      <title>Prata</title>
+      <s:price currency="BRL">619.00</s:price>
+      <s:sku>7040</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7980514869505</id>
+    <published>2025-02-26T13:14:25-03:00</published>
+    <updated>2025-02-26T13:14:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/brinco-laco-p-dourado"/>
+    <title>Brinco Laço P</title>
+    <s:type>Brincos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/editada12.png?v=1736102783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Brincos<br>
+        <strong>Preço: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brinco inspirado em laços, disponível no banho ouro 18k ou prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>brinco</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>laço</s:tag>
+    <s:tag>RESTOCK_PRODUCT</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514869505</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>7037</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514869505</id>
+      <title>Prata</title>
+      <s:price currency="BRL">299.00</s:price>
+      <s:sku>7038</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7980514476289</id>
+    <published>2025-01-03T15:39:31-03:00</published>
+    <updated>2025-01-03T15:39:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/presilha-laco-dourado-p"/>
+    <title>Presilha Laço P</title>
+    <s:type>Prendedores</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/Prancheta12_a74e6a82-4666-4323-9d6f-5d9f6c5e5aee.png?v=1723811848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Prendedores<br>
+        <strong>Preço: </strong>
+            209.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Presilha inspirada em laços, disponível no banho ouro 18k ou prata 1000.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>laço</s:tag>
+    <s:tag>Presilha</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514476289</id>
+      <title>Dourado</title>
+      <s:price currency="BRL">209.00</s:price>
+      <s:sku>7026</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7980514476289</id>
+      <title>Prata</title>
+      <s:price currency="BRL">209.00</s:price>
+      <s:sku>7025</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+</feed>

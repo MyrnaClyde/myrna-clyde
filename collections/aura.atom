@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.annaprata.com.br/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.annaprata.com.br/collections/aura.atom"/>
+  <title>Anna Prata</title>
+  <updated>2025-01-04T18:13:35-03:00</updated>
+  <author>
+    <name>Anna Prata</name>
+  </author>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7493180817665</id>
+    <published>2025-01-04T18:13:35-03:00</published>
+    <updated>2025-01-04T18:13:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/gargantilha-obra"/>
+    <title>Gargantilha Obra</title>
+    <s:type>Choker</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/GARGANTILHAOBRAVERM.jpg?v=1736100916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Choker<br>
+        <strong>Preço: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gargantilha Obra <br>Colar com textura de cordas e cordão colorido interno.</p>
+<p>Altura 115 mm<br>Largura 140 mm<br>Espessura 16 mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Cápsula Obra</s:tag>
+    <s:tag>gargantilha</s:tag>
+    <s:tag>obra</s:tag>
+    <s:tag>outofstock</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>shopping</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7493180817665</id>
+      <title>Carmin Gold (Laranja)</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>COL-0175</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7493180817665</id>
+      <title>Riviera Gold (Verde)</title>
+      <s:price currency="BRL">999.00</s:price>
+      <s:sku>COL-0175A</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.annaprata.com.br/products/7493232034049</id>
+    <published>2025-01-04T18:13:34-03:00</published>
+    <updated>2025-01-04T18:13:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.annaprata.com.br/products/cinto-obra"/>
+    <title>Cinto Obra</title>
+    <s:type>Cintos</s:type>
+    <s:vendor>E-Commerce Anna Prata</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/4938/products/CINTOOBRA.jpg?v=1638450906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>E-Commerce Anna Prata<br>
+        <strong>Tipo: </strong>Cintos<br>
+        <strong>Preço: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cinto Obra<br>Cinto de cordão de algodão com ponteiras e acessório em metal com textura de cordas e pérola de água doce.</p>
+<p>Altura 91 mm<br>Largura 110 mm<br>Espessura 31 mm<br>Comprimento 185 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anna prata</s:tag>
+    <s:tag>Cápsula Obra</s:tag>
+    <s:tag>INSTOCK</s:tag>
+    <s:tag>obra</s:tag>
+    <s:tag>pérola</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>SALE ANNA PRATA</s:tag>
+    <s:tag>shopping</s:tag>
+    <s:variant>
+      <id>https://www.annaprata.com.br/products/7493232034049</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">1999.00</s:price>
+      <s:sku>CIN-0017a</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+</feed>

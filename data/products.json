@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Anel Aurora",
+      "description": "Anel em prata 950 com pedras naturais",
+      "price": 890.00,
+      "image": "/assets/images/products/anel-aurora.jpg",
+      "collection": "colecao-aurora",
+      "tags": ["anel", "prata", "pedras-naturais"],
+      "variants": [
+        {
+          "id": "1-1",
+          "title": "Tamanho 15",
+          "price": 890.00,
+          "sku": "AUR-15"
+        },
+        {
+          "id": "1-2",
+          "title": "Tamanho 16",
+          "price": 890.00,
+          "sku": "AUR-16"
+        },
+        {
+          "id": "1-3",
+          "title": "Tamanho 17",
+          "price": 890.00,
+          "sku": "AUR-17"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Colar Duna",
+      "description": "Colar em prata 950 com pedras naturais",
+      "price": 1200.00,
+      "image": "/assets/images/products/colar-duna.jpg",
+      "collection": "colecao-duna",
+      "tags": ["colar", "prata", "pedras-naturais"],
+      "variants": [
+        {
+          "id": "2-1",
+          "title": "Único",
+          "price": 1200.00,
+          "sku": "DUN-01"
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "colecao-aurora",
+      "title": "Coleção Aurora",
+      "description": "Pieces inspiradas na aurora boreal",
+      "image": "/assets/images/collections/aurora.jpg"
+    },
+    {
+      "id": "colecao-duna",
+      "title": "Coleção Duna",
+      "description": "Pieces inspiradas nas dunas do deserto",
+      "image": "/assets/images/collections/duna.jpg"
+    }
+  ]
+} 
