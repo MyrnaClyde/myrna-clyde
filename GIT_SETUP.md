@@ -8,6 +8,7 @@ O token de acesso ao repositório foi configurado no arquivo `.git/config`. Este
 
 1. O token já está configurado no arquivo `.git/config`
 2. Para fazer push:
+
 ```bash
 git add .
 git commit -m "sua mensagem"
@@ -15,6 +16,7 @@ git push origin master
 ```
 
 3. Para fazer pull:
+
 ```bash
 git pull origin master
 ```
@@ -29,7 +31,7 @@ git pull origin master
 
 Se precisar gerar um novo token:
 
-1. Acesse https://github.com/settings/tokens
+1. Acesse <https://github.com/settings/tokens>
 2. Clique em "Generate new token"
 3. Selecione os escopos necessários (pelo menos `repo`)
 4. Copie o novo token
