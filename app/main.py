@@ -3,15 +3,21 @@ from fastapi.middleware.cors import CORSMiddleware
 from .api.payment import router as payment_router
 import os
 
+# Tentar importar configurações do PythonAnywhere
+try:
+    from pythonanywhere_config import CORS_ORIGINS
+except ImportError:
+    CORS_ORIGINS = [
+        "https://annapratadiadasmaes.store",
+        "https://www.annapratadiadasmaes.store"
+    ]
+
 app = FastAPI()
 
 # Configuração do CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "https://annapratadiadasmaes.store",
-        "https://www.annapratadiadasmaes.store"
-    ],
+    allow_origins=CORS_ORIGINS,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
