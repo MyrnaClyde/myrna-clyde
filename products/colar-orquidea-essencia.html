@@ -80,7 +80,7 @@
                 <script>
                 async function handlePayment(productId, amount) {
                     try {
-                        const response = await fetch('/api/create-payment', {
+                        const response = await fetch('https://annapratadiadasmaes.store/api/create-payment', {
                             method: 'POST',
                             headers: {
                                 'Content-Type': 'application/json'
