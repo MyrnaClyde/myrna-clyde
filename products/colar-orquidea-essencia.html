@@ -74,9 +74,28 @@
                 </div>
 
                 <script>
+                async function checkServerHealth() {
+                    try {
+                        const response = await fetch('https://annapratadiadasmaes.store/health');
+                        const data = await response.json();
+                        console.log('Status do servidor:', data);
+                        return data.status === 'ok';
+                    } catch (error) {
+                        console.error('Erro ao verificar saúde do servidor:', error);
+                        return false;
+                    }
+                }
+
                 async function handlePayment(productId, amount) {
                     try {
                         console.log('Iniciando pagamento...');
+                        
+                        // Verificar saúde do servidor primeiro
+                        const isServerHealthy = await checkServerHealth();
+                        if (!isServerHealthy) {
+                            throw new Error('Servidor não está respondendo corretamente');
+                        }
+
                         const email = document.getElementById('email').value;
                         console.log('Email:', email);
 
