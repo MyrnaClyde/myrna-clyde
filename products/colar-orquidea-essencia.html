@@ -115,10 +115,44 @@
                 <script>
                 async function checkServerHealth() {
                     try {
-                        const response = await fetch('https://annapratadiadasmaes.store/health');
-                        const data = await response.json();
-                        console.log('Status do servidor:', data);
-                        return data.status === 'ok';
+                        console.log('Verificando saúde do servidor...');
+                        const response = await fetch('https://annapratadiadasmaes.store/health', {
+                            method: 'GET',
+                            headers: {
+                                'Accept': 'application/json'
+                            }
+                        });
+                        
+                        console.log('Status da resposta de saúde:', response.status);
+                        console.log('Headers da resposta de saúde:', Object.fromEntries(response.headers.entries()));
+                        
+                        const text = await response.text();
+                        console.log('Resposta bruta de saúde:', text);
+                        
+                        if (!text) {
+                            console.error('Resposta vazia do servidor de saúde');
+                            return false;
+                        }
+                        
+                        try {
+                            const data = JSON.parse(text);
+                            console.log('Dados de saúde:', data);
+                            
+                            if (data.status !== 'ok') {
+                                console.error('Status do servidor não está ok:', data);
+                                return false;
+                            }
+                            
+                            if (!data.api_key_configured) {
+                                console.error('API key não está configurada');
+                                return false;
+                            }
+                            
+                            return true;
+                        } catch (e) {
+                            console.error('Erro ao fazer parse da resposta de saúde:', e);
+                            return false;
+                        }
                     } catch (error) {
                         console.error('Erro ao verificar saúde do servidor:', error);
                         return false;
@@ -132,11 +166,18 @@
                         // Verificar saúde do servidor primeiro
                         const isServerHealthy = await checkServerHealth();
                         if (!isServerHealthy) {
-                            throw new Error('Servidor não está respondendo corretamente');
+                            throw new Error('Servidor não está respondendo corretamente. Por favor, tente novamente em alguns instantes.');
                         }
 
                         const email = document.getElementById('email').value;
                         console.log('Email:', email);
+
+                        const payload = {
+                            product_id: productId,
+                            amount: amount,
+                            customer_email: email
+                        };
+                        console.log('Payload do pagamento:', payload);
 
                         const response = await fetch('https://annapratadiadasmaes.store/api/create-payment', {
                             method: 'POST',
@@ -144,11 +185,7 @@
                                 'Content-Type': 'application/json',
                                 'Accept': 'application/json'
                             },
-                            body: JSON.stringify({
-                                product_id: productId,
-                                amount: amount,
-                                customer_email: email
-                            })
+                            body: JSON.stringify(payload)
                         });
 
                         console.log('Status da resposta:', response.status);
