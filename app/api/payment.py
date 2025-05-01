@@ -10,7 +10,6 @@ class OrderRequest(BaseModel):
     product_id: str
     amount: float
     customer_email: str
-    customer_name: str
 
 class PaymentResponse(BaseModel):
     order_id: str
@@ -28,8 +27,7 @@ async def create_payment(order: OrderRequest):
                     "amount": order.amount,
                     "payment_method": "pix",
                     "customer": {
-                        "email": order.customer_email,
-                        "name": order.customer_name
+                        "email": order.customer_email
                     },
                     "expires_in": 3600  # 1 hora para pagar
                 },
@@ -37,6 +35,9 @@ async def create_payment(order: OrderRequest):
                     "Authorization": f"Bearer {os.getenv('CHARGE_API_KEY')}"
                 }
             )
+            
+            if not response.is_success:
+                raise HTTPException(status_code=response.status_code, detail="Erro na API de pagamento")
             
             data = response.json()
             return {
