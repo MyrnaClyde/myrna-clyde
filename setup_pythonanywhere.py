@@ -38,7 +38,7 @@ def setup_pythonanywhere():
     # 3. Configurar variáveis de ambiente
     print("Configurando variáveis de ambiente...")
     env_vars = {
-        'CHARGE_API_KEY': os.getenv('CHARGE_API_KEY', 'sua_chave_api_aqui'),
+        'CHARGE_API_KEY': 'sua_chave_api_aqui',  # Substitua pela sua chave API
         'ENVIRONMENT': 'production'
     }
     
